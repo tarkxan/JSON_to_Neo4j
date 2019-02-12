@@ -1,0 +1,159 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9877173900604248
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.984839916229248
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.982824981212616
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9819406270980835
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.973444402217865
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9723840355873108
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9593961834907532
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9464925527572632
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9394733905792236
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8797990083694458
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://mashable.com/author/koromone-koroye/"
+        },
+        {
+          "url": "http://mashable.com/2015/03/21/new-york-city-apps-2/"
+        },
+        {
+          "url": "http://picssr.com/photos/dickmann/favorites"
+        },
+        {
+          "url": "http://picssr.com/photos/herjac/favorites/page485"
+        },
+        {
+          "url": "https://generationvoyage.fr/loger-new-york/"
+        },
+        {
+          "url": "https://travel.tochka.net/9259-gorod-kotoryy-nikogda-ne-spit-vse-o-nyu-yorke/"
+        },
+        {
+          "url": "https://travel.tochka.net/ua/9259-gorod-kotoryy-nikogda-ne-spit-vse-o-nyu-yorke/"
+        },
+        {
+          "url": "http://neoyorkinos.com/2015/12/31/buenos-dias-nyc-un-feliz-2016/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://neoyorkinos.com/wp-content/uploads/2015/12/pierson2.jpg"
+        },
+        {
+          "url": "https://farm3.staticflickr.com/2868/12844555613_9c8415c352_b.jpg"
+        },
+        {
+          "url": "https://s0.tchkcdn.com/g-prdKBMrpiqfqxfMKo6JjdQ/17/228954/660x495/f/0/36a6a870c1c87729269b7b013793ca17_14818589943_5f207ea855_z.jpg"
+        },
+        {
+          "url": "https://i.amz.mshcdn.com/WYBYdayJE2qcfUtPKxJkB1QLGqg=/638x368/2015%2F03%2F22%2Fcd%2F14818589943.6d90a.jpg"
+        },
+        {
+          "url": "http://neoyorkinos.com/wp-content/uploads/2015/12/pierson2-300x300.jpg"
+        },
+        {
+          "url": "https://i.amz.mshcdn.com/bhFNadG9r4MQQmemtPC_4StPaq8=/288x162/2015%2F03%2F22%2Fcd%2F14818589943.6d90a.jpg"
+        },
+        {
+          "url": "https://generationvoyage.fr/wp-content/uploads/2017/05/loger-new-york-1-200x150.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "New York City",
+          "entityId": "/m/02_286",
+          "score": 14.171199798583984
+        },
+        {
+          "entityId": "/g/11b77d6b6d",
+          "score": 0.439300000667572
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3278000056743622
+        },
+        {
+          "description": "Mashable",
+          "entityId": "/m/0rzd_pm",
+          "score": 0.2775999903678894
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.2687999904155731
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.2678999900817871
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.2634766101837158
+        },
+        {
+          "description": "Daytime",
+          "entityId": "/m/02q7ylj",
+          "score": 0.21843625605106354
+        },
+        {
+          "description": "Wallpaper",
+          "entityId": "/m/03w43x",
+          "score": 0.2038511037826538
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.198332741856575
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7572/16082905372_20e0f80b1f.jpg"
+}

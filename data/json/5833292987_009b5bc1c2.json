@@ -1,0 +1,213 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9277206659317017
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9220461845397949
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9194523692131042
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9064100980758667
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.8905379772186279
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.8616241216659546
+      },
+      {
+        "description": "tower",
+        "mid": "/m/01fdzj",
+        "score": 0.8588516712188721
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.8458712100982666
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.8135635852813721
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.7849113941192627
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.7358896732330322
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://i.pinimg.com/736x/2e/52/8a/2e528a04a5aac0a1ac4e56e3e3e48098--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/originals/2e/52/8a/2e528a04a5aac0a1ac4e56e3e3e48098.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/46/80/bf/4680bf342fd3f3c1e6fa7298d0621cbb--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "http://farm4.static.flickr.com/3048/5833292987_009b5bc1c2.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/9d/1e/ce/9d1ece94746d244c59a6d2ce66ee1f73.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/236x/2e/52/8a/2e528a04a5aac0a1ac4e56e3e3e48098--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/46/80/bf/4680bf342fd3f3c1e6fa7298d0621cbb--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/236x/3b/2b/99/3b2b9905f59e1172ae181ec9fefb0268--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/06/fe/3d/06fe3d9b96fc68e3e1901779fe62891f--city-scapes-chrysler-building.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.pinterest.com/FullTimeExplorer/new-york-city/"
+        },
+        {
+          "url": "https://www.pinterest.com/anitagelder/new-york/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/irenegar39/new-york/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/dellachivers/new-york/"
+        },
+        {
+          "url": "https://www.pinterest.dk/pin/390194755186597772/"
+        },
+        {
+          "url": "https://www.pinterest.se/pin/567735096753455574/"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625103498081/"
+        },
+        {
+          "url": "https://www.pinterest.pt/pin/273523377348835717/"
+        },
+        {
+          "url": "https://www.pinterest.pt/pin/184084703497591811/"
+        },
+        {
+          "url": "https://www.pinterest.com.mx/pin/273523377348835717/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://i.pinimg.com/736x/2e/52/8a/2e528a04a5aac0a1ac4e56e3e3e48098--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/originals/2e/52/8a/2e528a04a5aac0a1ac4e56e3e3e48098.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/46/80/bf/4680bf342fd3f3c1e6fa7298d0621cbb--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/9d/1e/ce/9d1ece94746d244c59a6d2ce66ee1f73.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/236x/2e/52/8a/2e528a04a5aac0a1ac4e56e3e3e48098--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/46/80/bf/4680bf342fd3f3c1e6fa7298d0621cbb--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/236x/3b/2b/99/3b2b9905f59e1172ae181ec9fefb0268--city-scapes-chrysler-building.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/06/fe/3d/06fe3d9b96fc68e3e1901779fe62891f--city-scapes-chrysler-building.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Chrysler Building",
+          "entityId": "/m/01zmd",
+          "score": 182.656005859375
+        },
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 95.18080139160156
+        },
+        {
+          "description": "City of Dreams",
+          "entityId": "/g/1tgxjzqt",
+          "score": 2.0088000297546387
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.7059999704360962
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.34526944160461426
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.26808154582977295
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.2623000144958496
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.25848862528800964
+        },
+        {
+          "description": "Landmark",
+          "entityId": "/m/05_5t0l",
+          "score": 0.22445811331272125
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.22050000727176666
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3048/5833292987_009b5bc1c2.jpg"
+}

@@ -1,0 +1,147 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "water transportation",
+        "mid": "/m/08rrcl",
+        "score": 0.9240506291389465
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.7281116843223572
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.714257001876831
+      },
+      {
+        "description": "watercraft",
+        "mid": "/m/01rzcn",
+        "score": 0.7020899653434753
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.6920181512832642
+      },
+      {
+        "description": "boat",
+        "mid": "/m/019jd",
+        "score": 0.6785638928413391
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.6688617467880249
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.6411147713661194
+      },
+      {
+        "description": "condominium",
+        "mid": "/m/020ys5",
+        "score": 0.5739116668701172
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.5632983446121216
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://farm1.static.flickr.com/643/32480150474_4810379b6f.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/32480150474"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/Matt's%20vintage%20New%20York%20preset/"
+        },
+        {
+          "url": "http://flickriver.com/groups/gothamist/pool/random/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/boat,hudsonriver/Recent"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/tags/pier25/interesting/"
+        },
+        {
+          "url": "http://photopin.com/free-photos/mooring"
+        },
+        {
+          "url": "http://photopin.com/free-photos/kerala-boat-race/4"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://farm1.static.flickr.com/643/32480150474_4810379b6f.jpg"
+        },
+        {
+          "url": "https://farm1.static.flickr.com/643/32480150474_4810379b6f_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Statue of Liberty",
+          "entityId": "/m/072p8",
+          "score": 21.65760040283203
+        },
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 10.828800201416016
+        },
+        {
+          "description": "Hudson River Park",
+          "entityId": "/m/0dbr34",
+          "score": 5.414400100708008
+        },
+        {
+          "description": "New York Harbor",
+          "entityId": "/m/01pdsd",
+          "score": 5.172800064086914
+        },
+        {
+          "description": "Pier 26",
+          "entityId": "/g/1hc7sm4gv",
+          "score": 3.0495998859405518
+        },
+        {
+          "description": "Pier 25",
+          "entityId": "/g/1wzt38tj",
+          "score": 2.707200050354004
+        },
+        {
+          "description": "Jersey City",
+          "entityId": "/m/0xn7q",
+          "score": 1.1627999544143677
+        },
+        {
+          "description": "Hudson River",
+          "entityId": "/m/0cvyp",
+          "score": 0.6797999739646912
+        },
+        {
+          "description": "Susan E. Matt, L",
+          "entityId": "/g/1tv3plqp",
+          "score": 0.5364000201225281
+        },
+        {
+          "description": "Boat",
+          "entityId": "/m/019jd",
+          "score": 0.31583744287490845
+        }
+      ]
+    }
+  },
+  "url": "https://farm1.staticflickr.com/643/32480150474_4810379b6f.jpg"
+}

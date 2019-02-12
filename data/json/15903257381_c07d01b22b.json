@@ -1,0 +1,139 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.962920069694519
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9359920620918274
+      },
+      {
+        "description": "night",
+        "mid": "/m/01d74z",
+        "score": 0.9161555171012878
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9151296615600586
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.8545143008232117
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.826353907585144
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.8098582029342651
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.6827049851417542
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.6805803179740906
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.5994627475738525
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.47193291783332825
+      },
+      {
+        "description": "Empire State Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.749723,
+              "longitude": -73.985388
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.15598349273204803
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "New York City",
+          "entityId": "/m/02_286",
+          "score": 1.6208000183105469
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.7600042223930359
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.7514711022377014
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.7410433292388916
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.735360860824585
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.6165453791618347
+        },
+        {
+          "description": "Wallpaper",
+          "entityId": "/m/03w43x",
+          "score": 0.523525059223175
+        },
+        {
+          "description": "Metropolis",
+          "entityId": "/m/056mk",
+          "score": 0.4977180063724518
+        },
+        {
+          "description": "Night",
+          "entityId": "/m/01d74z",
+          "score": 0.4538525938987732
+        },
+        {
+          "description": "Computer",
+          "entityId": "/m/01m3v",
+          "score": 0.3734000027179718
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7563/15903257381_c07d01b22b.jpg"
+}

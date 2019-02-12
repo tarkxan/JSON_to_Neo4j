@@ -1,0 +1,111 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9820062518119812
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9733600616455078
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9683586359024048
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.954442024230957
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9420405626296997
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.937759518623352
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.8908745646476746
+      },
+      {
+        "description": "neighbourhood",
+        "mid": "/m/0180xr",
+        "score": 0.8628445863723755
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.8437674045562744
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.8297482132911682
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Window",
+          "entityId": "/m/0d4v4",
+          "score": 0.9918226003646851
+        },
+        {
+          "description": "Tower block",
+          "entityId": "/m/0vlys",
+          "score": 0.7513846755027771
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.7443509697914124
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.7239310145378113
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.6876031160354614
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.5181183218955994
+        },
+        {
+          "description": "Condominium",
+          "entityId": "/m/020ys5",
+          "score": 0.46644383668899536
+        },
+        {
+          "description": "Facade",
+          "entityId": "/m/01x314",
+          "score": 0.45746633410453796
+        },
+        {
+          "description": "Apartment",
+          "entityId": "/m/01nblt",
+          "score": 0.4518985152244568
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.44475051760673523
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4501/37202398120_7f7509afa6.jpg"
+}

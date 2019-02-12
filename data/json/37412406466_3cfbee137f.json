@@ -1,0 +1,41 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "bakery",
+        "mid": "/m/02wv6th",
+        "score": 0.8043586015701294
+      },
+      {
+        "description": "cuisine",
+        "mid": "/m/01ykh",
+        "score": 0.6285242438316345
+      },
+      {
+        "description": "food",
+        "mid": "/m/02wbm",
+        "score": 0.601767897605896
+      },
+      {
+        "description": "buffet",
+        "mid": "/m/03vc65",
+        "score": 0.5335983037948608
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Bakery",
+          "entityId": "/m/02wv6th",
+          "score": 1.8429802656173706
+        },
+        {
+          "description": "Cuisine",
+          "entityId": "/m/01ykh",
+          "score": 1.037840723991394
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4450/37412406466_3cfbee137f.jpg"
+}

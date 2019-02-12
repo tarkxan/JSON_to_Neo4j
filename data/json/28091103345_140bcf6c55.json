@@ -1,0 +1,192 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "structure",
+        "mid": "/m/0n68_",
+        "score": 0.8781489133834839
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8582011461257935
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.7737908959388733
+      },
+      {
+        "description": "daylighting",
+        "mid": "/m/0k2n5",
+        "score": 0.7685330510139465
+      },
+      {
+        "description": "ceiling",
+        "mid": "/m/03gfsp",
+        "score": 0.7600997090339661
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.665847659111023
+      },
+      {
+        "description": "line",
+        "mid": "/m/03scnj",
+        "score": 0.6536571383476257
+      },
+      {
+        "description": "symmetry",
+        "mid": "/m/0f28m",
+        "score": 0.624947190284729
+      },
+      {
+        "description": "convention center",
+        "mid": "/m/02l7rx",
+        "score": 0.5977042317390442
+      },
+      {
+        "description": "airport terminal",
+        "mid": "/m/026smn",
+        "score": 0.5958550572395325
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/50411847/28091103345_1874a869e6_o.0.0.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/xFP8HSO_NW0izhkDDBVz0bnaHMk=/0x0:3264x2448/1400x1050/cdn.vox-cdn.com/uploads/chorus_image/image/50411847/28091103345_1874a869e6_o.0.0.jpg"
+        },
+        {
+          "url": "https://farm8.static.flickr.com/7452/28091103345_140bcf6c55_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/8/7452/28091103345_140bcf6c55_n.jpg"
+        },
+        {
+          "url": "https://farm8.staticflickr.com/7452/28091103345_140bcf6c55_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://ny.curbed.com/wtc-transportation-hub"
+        },
+        {
+          "url": "https://ny.curbed.com/2016/8/16/12505114/world-trade-center-westfield-mall-grand-opening"
+        },
+        {
+          "url": "http://www.trover.com/d/7YuE-world-trade-center-station-new-york-city-new-york"
+        },
+        {
+          "url": "http://www.trover.com/d/1THH7-world-trade-center-path-station-new-york-city-new-york"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/128211920622921431/"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/464011567839392181/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/stefano60/28091103345"
+        },
+        {
+          "url": "http://freelook.info/trends/new-york-city-shopping-mall-photos"
+        },
+        {
+          "url": "http://blogqpot.com/images/oculus%20nyc"
+        },
+        {
+          "url": "http://asatan.info/posts/sephora-westfield-mall.html"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/50411847/28091103345_1874a869e6_o.0.0.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/xFP8HSO_NW0izhkDDBVz0bnaHMk=/0x0:3264x2448/1400x1050/cdn.vox-cdn.com/uploads/chorus_image/image/50411847/28091103345_1874a869e6_o.0.0.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/5YS3XImz_f_8XlU9ypXswZcHQzo=/0x505:3264x2341/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/50411847/28091103345_1874a869e6_o.0.0.jpg"
+        },
+        {
+          "url": "http://www.jojoscherbatsky.com/wp-content/uploads/2017/05/fixedw_large_4x.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/hpqS8pYyC1rh8WN2rXY3SjyGxsA=/0x0:3264x2448/1200x800/filters:focal(0x0:3264x2448)/cdn.vox-cdn.com/uploads/chorus_image/image/50411847/28091103345_1874a869e6_o.0.0.jpg"
+        },
+        {
+          "url": "https://farm8.static.flickr.com/7452/28091103345_140bcf6c55_b.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/e4917c_31c155f32002470f8ed6ed12a80cfde2~mv2.jpg/v1/fill/w_482,h_647,al_c,q_80,usm_0.66_1.00_0.01/e4917c_31c155f32002470f8ed6ed12a80cfde2~mv2.webp"
+        },
+        {
+          "url": "http://media2.trover.com/T/570acddd7eb4f4198b037521/fixedw_large_2x.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/8/7452/28091103345_140bcf6c55_n.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/02/ec/5b/02ec5b9f5f4999d50e83c2d0e530fd22.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 148.14720153808594
+        },
+        {
+          "description": "National September 11 Memorial & Museum",
+          "entityId": "/m/0217vv",
+          "score": 74.07360076904297
+        },
+        {
+          "description": "World Trade Center PATH station",
+          "entityId": "/m/09r9v2",
+          "score": 22.572799682617188
+        },
+        {
+          "description": "Westfield World Trade Center",
+          "entityId": "/m/0h2r2_",
+          "score": 18.518400192260742
+        },
+        {
+          "description": "Oculus",
+          "entityId": "/g/11dxqc8k0w",
+          "score": 9.259200096130371
+        },
+        {
+          "description": "Performing Arts Center",
+          "entityId": "/g/11b6bjg_hh",
+          "score": 4.145599842071533
+        },
+        {
+          "description": "World Trade Center",
+          "entityId": "/g/11c3x0q29g",
+          "score": 1.0119999647140503
+        },
+        {
+          "description": "Shopping mall",
+          "entityId": "/m/025s8bs",
+          "score": 0.3720000088214874
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.2536543607711792
+        },
+        {
+          "description": "Santiago Calatrava",
+          "entityId": "/m/01hf4p",
+          "score": 0.047520000487565994
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7452/28091103345_140bcf6c55.jpg"
+}

@@ -1,0 +1,96 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9701644778251648
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9458227157592773
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.8615080714225769
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.8488528728485107
+      },
+      {
+        "description": "atmosphere",
+        "mid": "/m/01ctsf",
+        "score": 0.8302720785140991
+      },
+      {
+        "description": "morning",
+        "mid": "/m/02_ktj",
+        "score": 0.8199387192726135
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.8161171078681946
+      },
+      {
+        "description": "dawn",
+        "mid": "/m/01b3kg",
+        "score": 0.8146657347679138
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8013378977775574
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.73935866355896
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 1.1022989749908447
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.9277396202087402
+        },
+        {
+          "description": "Wallpaper",
+          "entityId": "/m/03w43x",
+          "score": 0.8281612396240234
+        },
+        {
+          "description": "Atmosphere",
+          "entityId": "/m/01ctsf",
+          "score": 0.6217443346977234
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.5285211205482483
+        },
+        {
+          "description": "Tree",
+          "entityId": "/m/07j7r",
+          "score": 0.49580487608909607
+        },
+        {
+          "description": "Computer",
+          "entityId": "/m/01m3v",
+          "score": 0.3917999863624573
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7362/9164415009_092f58d058.jpg"
+}

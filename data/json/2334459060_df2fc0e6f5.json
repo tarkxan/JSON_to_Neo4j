@@ -1,0 +1,142 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "light",
+        "mid": "/m/04k84",
+        "score": 0.8740950226783752
+      },
+      {
+        "description": "lighting",
+        "mid": "/m/019sc6",
+        "score": 0.8001828193664551
+      },
+      {
+        "description": "darkness",
+        "mid": "/m/01kyr8",
+        "score": 0.7895443439483643
+      },
+      {
+        "description": "wood",
+        "mid": "/m/083vt",
+        "score": 0.7853172421455383
+      },
+      {
+        "description": "flooring",
+        "mid": "/m/01c34b",
+        "score": 0.7840442061424255
+      },
+      {
+        "description": "sunlight",
+        "mid": "/m/06z0n",
+        "score": 0.7347843647003174
+      },
+      {
+        "description": "shadow",
+        "mid": "/m/01ft8k",
+        "score": 0.7251428961753845
+      },
+      {
+        "description": "floor",
+        "mid": "/m/0l7_8",
+        "score": 0.7186974287033081
+      },
+      {
+        "description": "window",
+        "mid": "/m/0d4v4",
+        "score": 0.7031517028808594
+      },
+      {
+        "description": "column",
+        "mid": "/m/01_m7",
+        "score": 0.6268383860588074
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://dmgbyrnes.com/2017/01/"
+        },
+        {
+          "url": "https://siliconangle.com/blog/2014/11/11/tintri-ups-the-ante-in-the-hybrid-storage-war-with-new-generation-of-systems/"
+        },
+        {
+          "url": "https://siliconangle.com/blog/2015/04/07/host-analytics-aims-to-address-problem-of-islands-of-excel/"
+        },
+        {
+          "url": "https://siliconangle.com/blog/2014/10/09/electric-cloud-jolts-the-market-with-new-continuous-integration-service-for-mobile-developers/"
+        },
+        {
+          "url": "https://siliconangle.com/blog/2014/08/05/after-9-month-beta-rightscale-launches-multi-cloud-analytics-platform/"
+        },
+        {
+          "url": "https://siliconangle.com/blog/2013/10/01/ipad-5-launching-on-october-15-heres-what-it-looks-like/"
+        },
+        {
+          "url": "https://siliconangle.com/blog/2010/11/16/jason-calacanis-launch-newsletter-should-be-ready-in-december/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://dmgbyrnes.files.wordpress.com/2017/01/2334459060_df2fc0e6f5_z.jpg?w=656"
+        },
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2015/07/2380410696_ddf135496a_o-300x197.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Analytics",
+          "entityId": "/m/02gcn9",
+          "score": 0.7386999726295471
+        },
+        {
+          "description": "Tintri",
+          "entityId": "/m/0n498zx",
+          "score": 0.7026000022888184
+        },
+        {
+          "description": "Cloud computing",
+          "entityId": "/m/02y_9m3",
+          "score": 0.7020999789237976
+        },
+        {
+          "description": "Cloud analytics",
+          "entityId": "/m/0wpwk92",
+          "score": 0.5576000213623047
+        },
+        {
+          "description": "Floor",
+          "entityId": "/m/0l7_8",
+          "score": 0.3884543180465698
+        },
+        {
+          "description": "RightScale",
+          "entityId": "/m/04n4ljy",
+          "score": 0.384799987077713
+        },
+        {
+          "description": "Sunlight",
+          "entityId": "/m/06z0n",
+          "score": 0.3782406151294708
+        },
+        {
+          "description": "Data",
+          "entityId": "/m/026sq",
+          "score": 0.3772999942302704
+        },
+        {
+          "description": "Amazon Web Services",
+          "entityId": "/m/05nrgx",
+          "score": 0.37209999561309814
+        },
+        {
+          "description": "JPEG",
+          "entityId": "/m/0220vh_",
+          "score": 0.36890000104904175
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2365/2334459060_df2fc0e6f5.jpg"
+}

@@ -1,0 +1,180 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "black",
+        "mid": "/m/019sc",
+        "score": 0.9569924473762512
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9472808241844177
+      },
+      {
+        "description": "black and white",
+        "mid": "/m/01g6gs",
+        "score": 0.9462235569953918
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9389214515686035
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.928338348865509
+      },
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.9240447282791138
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9161869883537292
+      },
+      {
+        "description": "night",
+        "mid": "/m/01d74z",
+        "score": 0.9074305891990662
+      },
+      {
+        "description": "monochrome photography",
+        "mid": "/m/03d49p1",
+        "score": 0.906957745552063
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9008647799491882
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/1435b033726736.56e2f83ced573.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/8/7585/17156902591_cebb2df72c.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/8/7585/17156902591_cebb2df72c_n.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.etsy.com/listing/200815622/nyc-photography-coney-island-boardwalk"
+        },
+        {
+          "url": "https://www.etsy.com/shop/CityThatNeverSleeps"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/ataferner"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/axeltaferner"
+        },
+        {
+          "url": "http://n0t.photography/nyc-at-night"
+        },
+        {
+          "url": "http://picssr.com/photos/ataferner/interesting?nsid=47962459@N00"
+        },
+        {
+          "url": "http://flickriver.com/groups/artisticshot/pool/random/"
+        },
+        {
+          "url": "http://flickriver-lb-1710691658.us-east-1.elb.amazonaws.com/photos/ataferner/tags/skyline/"
+        },
+        {
+          "url": "http://mp3.clon.gq/track/249587869/hzzmt-deep-dark-lights"
+        },
+        {
+          "url": "http://www.xdmp3.co/baixar/Dark-Lights/mp3"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/1435b033726736.56e2f83ced573.jpg"
+        },
+        {
+          "url": "https://img1.etsystatic.com/130/0/7777347/isla_fullxfull.20653179_e7re24pd.jpg"
+        },
+        {
+          "url": "https://img1.etsystatic.com/130/0/7777347/isla_500x500.20653179_e7re24pd.jpg"
+        },
+        {
+          "url": "https://i1.sndcdn.com/artworks-000149173933-yblcxe-t500x500.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/8/7585/17156902591_cebb2df72c.jpg"
+        },
+        {
+          "url": "https://img1.etsystatic.com/106/0/7777347/il_340x270.1010343371_lt3r.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/8/7585/17156902591_cebb2df72c_n.jpg"
+        },
+        {
+          "url": "https://img1.etsystatic.com/130/0/7777347/isla_180x180.20653179_e7re24pd.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Black & White",
+          "entityId": "/g/1tfwl8g8",
+          "score": 0.7404000163078308
+        },
+        {
+          "description": "York Street",
+          "entityId": "/g/1vh_98td",
+          "score": 0.6435999870300293
+        },
+        {
+          "description": "Black and white",
+          "entityId": "/m/01g6gs",
+          "score": 0.56973797082901
+        },
+        {
+          "description": "York Street",
+          "entityId": "/g/11bc5q8m2q",
+          "score": 0.5185999870300293
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3734999895095825
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.3374660611152649
+        },
+        {
+          "description": "Photography",
+          "entityId": "/m/05wkw",
+          "score": 0.3361999988555908
+        },
+        {
+          "description": "Fine art",
+          "entityId": "/m/0mg1w",
+          "score": 0.31450000405311584
+        },
+        {
+          "description": "Art",
+          "entityId": "/m/0jjw",
+          "score": 0.30250000953674316
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.2815689444541931
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7585/17156902591_cebb2df72c.jpg"
+}

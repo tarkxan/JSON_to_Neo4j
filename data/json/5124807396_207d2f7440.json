@@ -1,0 +1,121 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9865879416465759
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.975933313369751
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.971777081489563
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9579713344573975
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9544707536697388
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9499152898788452
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.94340980052948
+      },
+      {
+        "description": "infrastructure",
+        "mid": "/m/017kvv",
+        "score": 0.8873547315597534
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.8784463405609131
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.8618137836456299
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://farm5.static.flickr.com/4023/5124807396_207d2f7440.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625323790968/"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Daniel",
+          "entityId": "/m/0py0rrc",
+          "score": 50.02239990234375
+        },
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 47.41120147705078
+        },
+        {
+          "description": "John F. Kennedy International Airport",
+          "entityId": "/m/0p1l2",
+          "score": 4.771200180053711
+        },
+        {
+          "description": "Jamaica",
+          "entityId": "/m/01sn04",
+          "score": 4.414400100708008
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.3280089199542999
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.2901359498500824
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.27924829721450806
+        },
+        {
+          "description": "Delta Air Lines",
+          "entityId": "/m/0k9ts",
+          "score": 0.25619998574256897
+        },
+        {
+          "description": "Tree",
+          "entityId": "/m/07j7r",
+          "score": 0.25351840257644653
+        },
+        {
+          "description": "Metropolis",
+          "entityId": "/m/056mk",
+          "score": 0.2386687844991684
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4023/5124807396_207d2f7440.jpg"
+}

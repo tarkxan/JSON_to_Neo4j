@@ -1,0 +1,184 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.958875834941864
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9466855525970459
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9307000637054443
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9286239743232727
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9196562767028809
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9131399989128113
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9065756797790527
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.8869053721427917
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.8776107430458069
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.7703685164451599
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Empire State Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.747874,
+              "longitude": -73.983097
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.8381996154785156
+      },
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.750044309668986,
+              "longitude": -73.988156
+            }
+          }
+        ],
+        "mid": "/m/02_286",
+        "score": 0.829005241394043
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://68.media.tumblr.com/0401d51a09827bf429b24b3d346f2a81/tumblr_inline_ojmckhYZKb1r7gn29_540.jpg"
+        },
+        {
+          "url": "http://farm6.static.flickr.com/5281/5207518923_5ffaa78aba.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://blog.estimize.com/post/155718093547/are-retail-stocks-down-for-the-count"
+        },
+        {
+          "url": "https://www.smarteranalyst.com/2017/01/11/retail-stocks-count-macys-inc-m-kohls-corporation-kss-amazon-com-inc-amzn/"
+        },
+        {
+          "url": "http://blog.estimize.com/post/155718590097/are-retail-stocks-down-for-the-count"
+        },
+        {
+          "url": "http://blog.estimize.com/post/155718590097/are-retail-stocks-down-for-the-count/embed"
+        },
+        {
+          "url": "http://www.talkmarkets.com/content/us-markets/are-retail-stocks-down-for-the-count?post=118411"
+        },
+        {
+          "url": "https://www.flickr.com/photos/danielmennerich/page48/"
+        },
+        {
+          "url": "http://www.bliblinews.com/news/sbux-daily"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625323790968/"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625103498081/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://68.media.tumblr.com/0401d51a09827bf429b24b3d346f2a81/tumblr_inline_ojmckhYZKb1r7gn29_540.jpg"
+        },
+        {
+          "url": "http://farm6.static.flickr.com/5281/5207518923_5ffaa78aba.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Estimize, Inc.",
+          "entityId": "/g/11cmh947xh",
+          "score": 1.5637999773025513
+        },
+        {
+          "description": "Retail",
+          "entityId": "/m/0191_7",
+          "score": 0.5989000201225281
+        },
+        {
+          "description": "Macy's",
+          "entityId": "/m/01pkxd",
+          "score": 0.3725000023841858
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.3262002766132355
+        },
+        {
+          "description": "Department store",
+          "entityId": "/m/01k_mv",
+          "score": 0.3127000033855438
+        },
+        {
+          "description": "Stock",
+          "entityId": "/m/077mq",
+          "score": 0.3070000112056732
+        },
+        {
+          "description": "Kohl's",
+          "entityId": "/m/037x4r",
+          "score": 0.2842000126838684
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.26628512144088745
+        },
+        {
+          "description": "Blog",
+          "entityId": "/m/084dw",
+          "score": 0.262800008058548
+        },
+        {
+          "description": "Tower block",
+          "entityId": "/m/0vlys",
+          "score": 0.22911910712718964
+        }
+      ]
+    }
+  },
+  "url": "https://farm2.staticflickr.com/1406/5116761560_e7fb406da1.jpg"
+}

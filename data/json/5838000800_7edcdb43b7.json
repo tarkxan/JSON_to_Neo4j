@@ -1,0 +1,159 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9863837361335754
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9829061627388
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9784700274467468
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9734426736831665
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9642642140388489
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9635699987411499
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9247391819953918
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.8858656883239746
+      },
+      {
+        "description": "night",
+        "mid": "/m/01d74z",
+        "score": 0.8810163140296936
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.8681839108467102
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.36105528473854065
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm6.staticflickr.com/5037/5838000800_5fe7654334_o.jpg"
+        },
+        {
+          "url": "http://farm6.static.flickr.com/5037/5838000800_7edcdb43b7.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://elevation.maplogs.com/poi/whitestone_queens_ny_usa.174282.html"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/hillcrest_queens_ny_usa.36360.html"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/jamaica_hills_queens_ny_usa.97638.html"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/_02_12th_rd_whitestone_ny_usa.174281.html"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625103498081/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm6.staticflickr.com/5037/5838000800_5fe7654334_o.jpg"
+        },
+        {
+          "url": "http://farm6.static.flickr.com/5037/5838000800_7edcdb43b7.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 142.7967987060547
+        },
+        {
+          "description": "Whitestone",
+          "entityId": "/m/05gfm1",
+          "score": 72.39679718017578
+        },
+        {
+          "description": "Hillcrest",
+          "entityId": "/m/09_jv0",
+          "score": 32.15359878540039
+        },
+        {
+          "description": "Intrepid Sea, Air & Space Museum",
+          "entityId": "/m/02ysxf",
+          "score": 17.83679962158203
+        },
+        {
+          "description": "Manhattan",
+          "entityId": "/m/0cc56",
+          "score": 0.7823359966278076
+        },
+        {
+          "description": "D\u00fcsseldorf Airport",
+          "entityId": "/m/01qsjp",
+          "score": 0.5573999881744385
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.3874247670173645
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.2960849404335022
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.2743000090122223
+        },
+        {
+          "description": "Tilt\u2013shift photography",
+          "entityId": "/m/0dtz8m",
+          "score": 0.2705000042915344
+        }
+      ]
+    }
+  },
+  "url": "https://farm6.staticflickr.com/5037/5838000800_7edcdb43b7.jpg"
+}

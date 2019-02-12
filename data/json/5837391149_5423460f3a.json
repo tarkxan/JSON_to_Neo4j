@@ -1,0 +1,169 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9702088832855225
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9653571844100952
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.956608235836029
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9499261975288391
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9454663991928101
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9390357732772827
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9331772327423096
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9253213405609131
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9025213122367859
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.8661774396896362
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Empire State Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.747874,
+              "longitude": -73.983097
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.699155330657959
+      },
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.750044309668986,
+              "longitude": -73.988156
+            }
+          }
+        ],
+        "mid": "/m/02_286",
+        "score": 0.6643363237380981
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/6/5234/5837391149_5423460f3a_b.jpg"
+        },
+        {
+          "url": "https://c2.staticflickr.com/6/5234/5837391149_5423460f3a_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/6/5234/5837391149_5423460f3a_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625323790968/"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625103498081/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/danielmennerich/page48/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/danielmennerich/5837391149/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://farm6.static.flickr.com/5281/5207518923_5ffaa78aba.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 89.97119903564453
+        },
+        {
+          "description": "Macy's Herald Square",
+          "entityId": "/m/03c0_tm",
+          "score": 51.73759841918945
+        },
+        {
+          "description": "Daniel",
+          "entityId": "/m/0py0rrc",
+          "score": 48.57600021362305
+        },
+        {
+          "description": "Flatiron Building",
+          "entityId": "/m/01lnd3",
+          "score": 46.50239944458008
+        },
+        {
+          "description": "Herald Square Park",
+          "entityId": "/g/11d_d0s1n6",
+          "score": 6.481599807739258
+        },
+        {
+          "description": "Cave of the Winds",
+          "entityId": "/m/06f6bs",
+          "score": 5.198400020599365
+        },
+        {
+          "description": "Niagara Falls",
+          "entityId": "/m/0y3k9",
+          "score": 0.474560022354126
+        },
+        {
+          "description": "Boroughs of New York City",
+          "entityId": "/m/0d5cb1",
+          "score": 0.3763999938964844
+        },
+        {
+          "description": "Herald Square",
+          "entityId": "/g/11c2l13f7h",
+          "score": 0.3325600028038025
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.3152869939804077
+        }
+      ]
+    }
+  },
+  "url": "https://farm6.staticflickr.com/5234/5837391149_5423460f3a.jpg"
+}

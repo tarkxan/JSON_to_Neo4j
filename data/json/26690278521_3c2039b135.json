@@ -1,0 +1,148 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "cloud",
+        "mid": "/m/0csby",
+        "score": 0.9557411670684814
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9497800469398499
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.9056323766708374
+      },
+      {
+        "description": "shore",
+        "mid": "/m/02fm9k",
+        "score": 0.8517034649848938
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.8162779211997986
+      },
+      {
+        "description": "sea",
+        "mid": "/m/06npx",
+        "score": 0.8142589926719666
+      },
+      {
+        "description": "river",
+        "mid": "/m/06cnp",
+        "score": 0.7606416344642639
+      },
+      {
+        "description": "reflection",
+        "mid": "/m/02l215",
+        "score": 0.7099294662475586
+      },
+      {
+        "description": "meteorological phenomenon",
+        "mid": "/g/11k2xz7mr",
+        "score": 0.6956976056098938
+      },
+      {
+        "description": "evening",
+        "mid": "/m/04mx32",
+        "score": 0.6665826439857483
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm2.staticflickr.com/1586/26690278521_3c2039b135_b.jpg"
+        },
+        {
+          "url": "http://www.theawl.com/wp-content/uploads/2017/03/1mO88qeTm9vQgW_BIDm35jw.jpeg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/2/1586/26690278521_3c2039b135_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.theawl.com/2017/03/christopher-willits-clear-boreta-remix/"
+        },
+        {
+          "url": "https://www.theawl.com/page/81/?source=---------5"
+        },
+        {
+          "url": "https://www.flickr.com/photos/mariano-mantel/26690278521/"
+        },
+        {
+          "url": "http://www.picssr.com/photos/lady_gothic/favorites/page19"
+        },
+        {
+          "url": "http://www.nazomap.com/entry/201702_bansankai"
+        },
+        {
+          "url": "http://www.kabegamipon.com/index.php?text=newyork&page=5&photoType=landscape"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm2.staticflickr.com/1586/26690278521_3c2039b135_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/2/1586/26690278521_3c2039b135_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Clear (Boreta Remix)",
+          "entityId": "/g/11dxdj5pzx",
+          "score": 0.7924000024795532
+        },
+        {
+          "description": "Sea, New York, Inc",
+          "entityId": "/g/1tgxvggg",
+          "score": 0.5397999882698059
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.37439998984336853
+        },
+        {
+          "description": "The Awl",
+          "entityId": "/m/0g56fgm",
+          "score": 0.30390000343322754
+        },
+        {
+          "entityId": "/g/11x7vl7z9",
+          "score": 0.2858000099658966
+        },
+        {
+          "description": "H.I.S.",
+          "entityId": "/m/09qqn_",
+          "score": 0.2838999927043915
+        },
+        {
+          "description": "Tagged",
+          "entityId": "/m/03c51f4",
+          "score": 0.2596000134944916
+        },
+        {
+          "entityId": "/g/122yy99d",
+          "score": 0.2508000135421753
+        },
+        {
+          "description": "Photography",
+          "entityId": "/m/05wkw",
+          "score": 0.23240000009536743
+        },
+        {
+          "description": "MP3 player",
+          "entityId": "/m/0139yk6h",
+          "score": 0.19280000030994415
+        }
+      ]
+    }
+  },
+  "url": "https://farm2.staticflickr.com/1586/26690278521_3c2039b135.jpg"
+}

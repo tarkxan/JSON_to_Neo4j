@@ -1,0 +1,129 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9391949772834778
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9382897019386292
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9025359153747559
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.8677173256874084
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8594070076942444
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.8498479723930359
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8088793754577637
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.7355625629425049
+      },
+      {
+        "description": "line",
+        "mid": "/m/03scnj",
+        "score": 0.6585052013397217
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.6097129583358765
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm4.static.flickr.com/3925/15157696919_afe159f290_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://hiveminer.com/Tags/city,deadend"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/deadend,fog/Interesting"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm4.static.flickr.com/3925/15157696919_afe159f290_b.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "New York City",
+          "entityId": "/m/02_286",
+          "score": 45.61920166015625
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.7336999773979187
+        },
+        {
+          "description": "Night",
+          "entityId": "/m/01d74z",
+          "score": 0.7001000046730042
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.5611772537231445
+        },
+        {
+          "description": "Fog",
+          "entityId": "/m/0g2z8",
+          "score": 0.5576000213623047
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.4112715721130371
+        },
+        {
+          "description": "Daytime",
+          "entityId": "/m/02q7ylj",
+          "score": 0.3781478703022003
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.36744409799575806
+        },
+        {
+          "description": "Night photography",
+          "entityId": "/m/010f1nw2",
+          "score": 0.3294000029563904
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.32689255475997925
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3925/15157696919_afe159f290.jpg"
+}

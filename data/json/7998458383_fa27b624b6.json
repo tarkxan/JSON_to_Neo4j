@@ -1,0 +1,207 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9413689374923706
+      },
+      {
+        "description": "cathedral",
+        "mid": "/m/0cfs8",
+        "score": 0.9019002914428711
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.8857644200325012
+      },
+      {
+        "description": "arch",
+        "mid": "/m/0dpvm",
+        "score": 0.8595613241195679
+      },
+      {
+        "description": "place of worship",
+        "mid": "/m/02nvjx",
+        "score": 0.8551867604255676
+      },
+      {
+        "description": "basilica",
+        "mid": "/m/0f85g",
+        "score": 0.8519099950790405
+      },
+      {
+        "description": "byzantine architecture",
+        "mid": "/m/01sqnx",
+        "score": 0.8208150267601013
+      },
+      {
+        "description": "chapel",
+        "mid": "/m/0173tc",
+        "score": 0.8158283233642578
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.7897133827209473
+      },
+      {
+        "description": "church",
+        "mid": "/m/01wb7",
+        "score": 0.7652720808982849
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://archive.is/VeOIY/c01d1fa38e47425388d446a9f0e7a2411e2dc733"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/originals/cf/a1/67/cfa167edb6767bca46a476e0f3f8976e.jpg"
+        },
+        {
+          "url": "https://lh6.googleusercontent.com/ee-13wB_YL68BiClxPuxbKW-dIUzunnN40Jo1c8bZuEF2oeBdOTl-nOJ51cMZjBzT8Auu4nnm3QC9BlgCu9_Nd6IRttzPCirh-R2A4Z9jzVKtjVl0RUmd8Pe7XAW6gpeGPL7Pm8Y"
+        },
+        {
+          "url": "https://4.bp.blogspot.com/-_PIwbJPawWM/WPzKO_ZBtJI/AAAAAAAA1qg/iGFLg8DiLP8JrD-gMVCu0SMB7EGw7WSrwCLcB/s1600/Igreja%2Bde%2BS%25C3%25A2o%2BFrancisco%2BXavier%252C%2BNova%2BIorque.jpg"
+        },
+        {
+          "url": "https://2.bp.blogspot.com/-lU06SySC4TY/WKo60o5dufI/AAAAAAAAIig/7FE3ZgnOmbUdI48zy-K0Dk9PuTGobB-9ACLcB/s1600/tumblr_ntwsxstzGN1s9od7wo8_1280.jpg"
+        },
+        {
+          "url": "https://i1.wp.com/interior.mk/wp-content/uploads/2017/05/featured-2.jpg?fit=1200%2C800"
+        },
+        {
+          "url": "http://interior.mk/wp-content/uploads/2017/05/featured-2.jpg"
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ryNf0X56ZR8/maxresdefault.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/9/8179/7998458383_fa27b624b6_b.jpg"
+        },
+        {
+          "url": "https://farm9.staticflickr.com/8179/7998458383_fa27b624b6_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.timeout.com/newyork/things-to-do/beautiful-churches-in-nyc"
+        },
+        {
+          "url": "https://churchpop.com/2015/08/25/16-churches-so-beautiful-theyll-take-your-breath-away/"
+        },
+        {
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions"
+        },
+        {
+          "url": "http://jenare.com/beautiful-churches-cathedrals-around-world/"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/208150814006470454/"
+        },
+        {
+          "url": "https://twitter.com/janportwood"
+        },
+        {
+          "url": "https://twitter.com/enjoyingny?lang=en"
+        },
+        {
+          "url": "https://www.pinterest.com/mikef1028/churchs/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/pin/208150814006470454/"
+        },
+        {
+          "url": "https://flipboard.com/@shermar54/nyc-5j29vomfz"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://i.artfile.ru/5000x3334_718111_[www.ArtFile.ru].jpg"
+        },
+        {
+          "url": "https://media.timeout.com/images/103968618/image.jpg"
+        },
+        {
+          "url": "http://i2.wp.com/es.churchpop.com/wp-content/uploads/2015/12/7998458383_b141b7bef2_k.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/originals/cf/a1/67/cfa167edb6767bca46a476e0f3f8976e.jpg"
+        },
+        {
+          "url": "http://es.churchpop.com/wp-content/uploads/2015/12/7998458383_b141b7bef2_k.jpg"
+        },
+        {
+          "url": "https://lh6.googleusercontent.com/ee-13wB_YL68BiClxPuxbKW-dIUzunnN40Jo1c8bZuEF2oeBdOTl-nOJ51cMZjBzT8Auu4nnm3QC9BlgCu9_Nd6IRttzPCirh-R2A4Z9jzVKtjVl0RUmd8Pe7XAW6gpeGPL7Pm8Y"
+        },
+        {
+          "url": "https://4.bp.blogspot.com/-_PIwbJPawWM/WPzKO_ZBtJI/AAAAAAAA1qg/iGFLg8DiLP8JrD-gMVCu0SMB7EGw7WSrwCLcB/s1600/Igreja%2Bde%2BS%25C3%25A2o%2BFrancisco%2BXavier%252C%2BNova%2BIorque.jpg"
+        },
+        {
+          "url": "https://2.bp.blogspot.com/-lU06SySC4TY/WKo60o5dufI/AAAAAAAAIig/7FE3ZgnOmbUdI48zy-K0Dk9PuTGobB-9ACLcB/s1600/tumblr_ntwsxstzGN1s9od7wo8_1280.jpg"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/c3f912_55f513cf27f34477b1e2beaf47ab76a9~mv2_d_2048_1366_s_2.jpg_srz_1263_842_85_22_0.50_1.20_0.00_jpg_srz"
+        },
+        {
+          "url": "https://www.wykop.pl/cdn/c3397993/link_41owUgBINTNtavH1emEk4cu4HG73dA0g,w1200h627.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Trinity Church",
+          "entityId": "/m/01kd8c",
+          "score": 71.2959976196289
+        },
+        {
+          "description": "St. Francis Xavier Church",
+          "entityId": "/m/0cc9sqw",
+          "score": 22.74880027770996
+        },
+        {
+          "description": "Serbian Orthodox Cathedral of Saint Sava",
+          "entityId": "/m/09gpts7",
+          "score": 10.268799781799316
+        },
+        {
+          "description": "Xavier High School",
+          "entityId": "/m/04fyv_",
+          "score": 6.616000175476074
+        },
+        {
+          "description": "St. Francis Xavier's Church",
+          "entityId": "/g/11bc8y13cy",
+          "score": 1.103600025177002
+        },
+        {
+          "description": "Church",
+          "entityId": "/m/01wb7",
+          "score": 0.7286999821662903
+        },
+        {
+          "description": "Basilica",
+          "entityId": "/m/0f85g",
+          "score": 0.43134674429893494
+        },
+        {
+          "description": "Cathedral",
+          "entityId": "/m/0cfs8",
+          "score": 0.4219566583633423
+        },
+        {
+          "description": "Catholic Church",
+          "entityId": "/m/02vxy_",
+          "score": 0.3197000026702881
+        },
+        {
+          "description": "Saint",
+          "entityId": "/m/0719f",
+          "score": 0.3019999861717224
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8179/7998458383_fa27b624b6.jpg"
+}

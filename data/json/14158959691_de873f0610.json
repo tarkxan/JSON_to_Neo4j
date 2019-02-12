@@ -1,0 +1,175 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "tower",
+        "mid": "/m/01fdzj",
+        "score": 0.9338245391845703
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9244301319122314
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9221170544624329
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9200004935264587
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.8467066287994385
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.7626777291297913
+      },
+      {
+        "description": "facade",
+        "mid": "/m/01x314",
+        "score": 0.5477819442749023
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Flatiron Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.741595,
+              "longitude": -73.98940086364746
+            }
+          }
+        ],
+        "mid": "/m/01lnd3",
+        "score": 0.48035746812820435
+      },
+      {
+        "description": "Flatiron Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.74933773045482,
+              "longitude": -73.988134
+            }
+          }
+        ],
+        "mid": "/m/01lnd3",
+        "score": 0.27110937237739563
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/8/7365/14158959691_de873f0610_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/8/7365/14158959691_de873f0610_m.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/4a/82/a3/4a82a31572a7e13066e8b19f8c4a40ff--the-flatiron-flatiron-building.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/danielmennerich/14158959691/"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/207376757820475361/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/New_York"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/395402042268566686/"
+        },
+        {
+          "url": "http://picssr.com/photos/29500808@N02/favorites/page8"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/pin/280771357996433784/"
+        },
+        {
+          "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/72176-macmillan-children-s-publishing-expands-e-book-lending.html"
+        },
+        {
+          "url": "https://www.pinterest.se/pin/539657967830392471/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/8/7365/14158959691_de873f0610_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/8/7365/14158959691_de873f0610_m.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/4a/82/a3/4a82a31572a7e13066e8b19f8c4a40ff--the-flatiron-flatiron-building.jpg"
+        },
+        {
+          "url": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/044/44075-v2-197x.PNG"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Flatiron Building",
+          "entityId": "/m/01lnd3",
+          "score": 53.90719985961914
+        },
+        {
+          "description": "Chrysler Building",
+          "entityId": "/m/01zmd",
+          "score": 19.571199417114258
+        },
+        {
+          "description": "Top of The Rock",
+          "entityId": "/g/11cmgnblyq",
+          "score": 9.292799949645996
+        },
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 8.617600440979004
+        },
+        {
+          "description": "Fifth Avenue",
+          "entityId": "/m/01y5qy",
+          "score": 5.436800003051758
+        },
+        {
+          "description": "Flatiron District",
+          "entityId": "/m/02t9m_",
+          "score": 1.1843199729919434
+        },
+        {
+          "description": "Boroughs of New York City",
+          "entityId": "/m/0d5cb1",
+          "score": 0.31520000100135803
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.28619998693466187
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.2820752263069153
+        },
+        {
+          "description": "Tower",
+          "entityId": "/m/01fdzj",
+          "score": 0.27215880155563354
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7365/14158959691_de873f0610.jpg"
+}

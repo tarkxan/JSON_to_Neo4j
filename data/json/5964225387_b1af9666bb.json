@@ -1,0 +1,101 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "exhibition",
+        "mid": "/m/0fq22vb",
+        "score": 0.8649859428405762
+      },
+      {
+        "description": "art",
+        "mid": "/m/0jjw",
+        "score": 0.8310049772262573
+      },
+      {
+        "description": "art exhibition",
+        "mid": "/m/0490jd",
+        "score": 0.8242103457450867
+      },
+      {
+        "description": "art gallery",
+        "mid": "/m/0hhbr",
+        "score": 0.7961112260818481
+      },
+      {
+        "description": "tourist attraction",
+        "mid": "/m/0pgl9",
+        "score": 0.7472888231277466
+      },
+      {
+        "description": "museum",
+        "mid": "/m/09cmq",
+        "score": 0.6857007741928101
+      },
+      {
+        "description": "modern art",
+        "mid": "/m/015r61",
+        "score": 0.6595577597618103
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/7/6125/5964225387_b1af9666bb_z.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/metromani/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/7/6125/5964225387_b1af9666bb_z.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.7598999738693237
+        },
+        {
+          "description": "Art museum",
+          "entityId": "/m/0hhbr",
+          "score": 0.756681501865387
+        },
+        {
+          "description": "Art exhibition",
+          "entityId": "/m/0490jd",
+          "score": 0.7039861083030701
+        },
+        {
+          "description": "Modern art",
+          "entityId": "/m/015r61",
+          "score": 0.5357707738876343
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.4894999861717224
+        },
+        {
+          "description": "Art",
+          "entityId": "/m/0jjw",
+          "score": 0.414000004529953
+        },
+        {
+          "description": "Exhibition",
+          "entityId": "/m/0fq22vb",
+          "score": 0.37689998745918274
+        },
+        {
+          "description": "Modern architecture",
+          "entityId": "/m/01tv5c",
+          "score": 0.17489999532699585
+        }
+      ]
+    }
+  },
+  "url": "https://farm7.staticflickr.com/6125/5964225387_b1af9666bb.jpg"
+}

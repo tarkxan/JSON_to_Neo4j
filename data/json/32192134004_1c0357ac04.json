@@ -1,0 +1,84 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "line",
+        "mid": "/m/03scnj",
+        "score": 0.7137534022331238
+      },
+      {
+        "description": "pattern",
+        "mid": "/m/0hwky",
+        "score": 0.6051861643791199
+      },
+      {
+        "description": "flooring",
+        "mid": "/m/01c34b",
+        "score": 0.578340470790863
+      },
+      {
+        "description": "angle",
+        "mid": "/m/0mwc",
+        "score": 0.563545823097229
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "125th Street Business Improvement District",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.815595,
+              "longitude": -73.958276
+            }
+          }
+        ],
+        "mid": "/g/1tksjq_7",
+        "score": 0.7764248251914978
+      },
+      {
+        "description": "Tom Otterness Studio",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.739794,
+              "longitude": -74.002554
+            }
+          }
+        ],
+        "mid": "/g/1tdmwjvj",
+        "score": 0.6362272500991821
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Flooring",
+          "entityId": "/m/01c34b",
+          "score": 0.8392036557197571
+        },
+        {
+          "description": "Angle",
+          "entityId": "/m/0mwc",
+          "score": 0.7243298292160034
+        },
+        {
+          "description": "125th Street Business Improvement District",
+          "entityId": "/g/1tksjq_7",
+          "score": 0.7185999751091003
+        },
+        {
+          "description": "Pattern",
+          "entityId": "/m/0hwky",
+          "score": 0.44125044345855713
+        },
+        {
+          "description": "Tom Otterness",
+          "entityId": "/m/04_4ny",
+          "score": 0.14642000198364258
+        }
+      ]
+    }
+  },
+  "url": "https://farm1.staticflickr.com/749/32192134004_1c0357ac04.jpg"
+}

@@ -1,0 +1,111 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9727097153663635
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9555383324623108
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9526830911636353
+      },
+      {
+        "description": "black and white",
+        "mid": "/m/01g6gs",
+        "score": 0.9445797204971313
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9281570315361023
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9272122979164124
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.915411651134491
+      },
+      {
+        "description": "monochrome photography",
+        "mid": "/m/03d49p1",
+        "score": 0.9148210883140564
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9118091464042664
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.8968391418457031
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.9286587834358215
+        },
+        {
+          "description": "Tower block",
+          "entityId": "/m/0vlys",
+          "score": 0.7507824301719666
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.7498362064361572
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.6345742344856262
+        },
+        {
+          "description": "Tower",
+          "entityId": "/m/01fdzj",
+          "score": 0.5608923435211182
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.520236611366272
+        },
+        {
+          "description": "Black and white",
+          "entityId": "/m/01g6gs",
+          "score": 0.49481308460235596
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.4827985465526581
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.4565363824367523
+        },
+        {
+          "description": "Headquarters",
+          "entityId": "/m/037rzs",
+          "score": 0.44190001487731934
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3683/13746554135_a581d11a6a.jpg"
+}

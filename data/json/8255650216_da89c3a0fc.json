@@ -1,0 +1,183 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "reflection",
+        "mid": "/m/02l215",
+        "score": 0.9713040590286255
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.9707332849502563
+      },
+      {
+        "description": "nature",
+        "mid": "/m/05h0n",
+        "score": 0.9624357223510742
+      },
+      {
+        "description": "leaf",
+        "mid": "/m/09t49",
+        "score": 0.944807231426239
+      },
+      {
+        "description": "waterway",
+        "mid": "/m/017m8l",
+        "score": 0.9389165639877319
+      },
+      {
+        "description": "tree",
+        "mid": "/m/07j7r",
+        "score": 0.9367207288742065
+      },
+      {
+        "description": "yellow",
+        "mid": "/m/088fh",
+        "score": 0.9366188049316406
+      },
+      {
+        "description": "woody plant",
+        "mid": "/m/02hnx9",
+        "score": 0.8884047269821167
+      },
+      {
+        "description": "wetland",
+        "mid": "/m/0pvlz",
+        "score": 0.8780120015144348
+      },
+      {
+        "description": "autumn",
+        "mid": "/m/0134l",
+        "score": 0.8528867363929749
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm9.staticflickr.com/8356/8255650216_da89c3a0fc.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/9/8356/8255650216_da89c3a0fc_n.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.6sqft.com/what-about-nyc-are-you-most-thankful-for/"
+        },
+        {
+          "url": "https://www.6sqft.com/new-yorker-spotlight-sara-cedar-miller-and-larry-boes-of-the-central-park-conservancy/"
+        },
+        {
+          "url": "https://twitter.com/scottybods"
+        },
+        {
+          "url": "https://www.flickr.com/people/lorenzoclick/"
+        },
+        {
+          "url": "https://www.haikudeck.com/richardson-stern-2-uncategorized-presentation-7Nlp3sq4Bq"
+        },
+        {
+          "url": "https://www.haikudeck.com/copy-of-richardson-stern-2-uncategorized-presentation-AUxDx8RhJJ"
+        },
+        {
+          "url": "https://www.flickr.com/photos/lorenzoclick/8255650216"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/alberi,salice/Timeline"
+        },
+        {
+          "url": "http://susangospelmusic.blogspot.com/2015/09/autumn-in-new-york.html"
+        },
+        {
+          "url": "http://susangospelmusic.blogspot.com/2015/09/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://4.bp.blogspot.com/-i1PMfbTOp48/VgJkec1x7CI/AAAAAAAAAws/oqKMVovQPsY/s1600/8255650216_5c5402909b_o.jpg"
+        },
+        {
+          "url": "http://s1.travelask.ru/system/images/files/000/168/601/original/thumb_72354_material_big.jpeg?1486474863"
+        },
+        {
+          "url": "https://img.haikudeck.com/mg/506CBDE5-BB59-4ACA-8A6B-8541E4F6110F.jpg"
+        },
+        {
+          "url": "https://img.haikudeck.com/mg/5zKPf6gQeT_1442858834037.jpg"
+        },
+        {
+          "url": "http://4.bp.blogspot.com/-i1PMfbTOp48/VgJkec1x7CI/AAAAAAAAAws/oqKMVovQPsY/w1200-h630-p-k-no-nu/8255650216_5c5402909b_o.jpg"
+        },
+        {
+          "url": "https://farm9.staticflickr.com/8356/8255650216_da89c3a0fc_b.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/C80N_N_WAAQvb2A.jpg"
+        },
+        {
+          "url": "https://imgs.6sqft.com/wp-content/uploads/2014/09/21030852/Central-Park.jpg"
+        },
+        {
+          "url": "https://styler.rbc.ua/static/ckef/img/879099.jpeg"
+        },
+        {
+          "url": "https://styler.rbc.ua/static/ckef/img/2_3.jpeg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Central Park",
+          "entityId": "/m/09c7v",
+          "score": 12.592000007629395
+        },
+        {
+          "description": "59th Street",
+          "entityId": "/m/0gtsqq",
+          "score": 1.3983999490737915
+        },
+        {
+          "description": "Cytoskeleton",
+          "entityId": "/m/014mhx",
+          "score": 0.7110999822616577
+        },
+        {
+          "description": "Analogy",
+          "entityId": "/m/0q3_x",
+          "score": 0.7024999856948853
+        },
+        {
+          "description": "Fujifilm X-T2",
+          "entityId": "/g/11c1mz3zsj",
+          "score": 0.5658000111579895
+        },
+        {
+          "description": "Fujinon XF 23mm F1.4 R",
+          "entityId": "/g/11b86pbccs",
+          "score": 0.5267999768257141
+        },
+        {
+          "description": "Autumn",
+          "entityId": "/m/0134l",
+          "score": 0.375900000333786
+        },
+        {
+          "description": "Park",
+          "entityId": "/m/0166ls",
+          "score": 0.3711000084877014
+        },
+        {
+          "description": "Cell",
+          "entityId": "/m/01cbd",
+          "score": 0.30809998512268066
+        },
+        {
+          "description": "Microtubule",
+          "entityId": "/m/055rz",
+          "score": 0.2833999991416931
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8356/8255650216_da89c3a0fc.jpg"
+}

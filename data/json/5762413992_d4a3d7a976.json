@@ -1,0 +1,162 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9708817601203918
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9617828726768494
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9607121348381042
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9594249129295349
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9554867744445801
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9493850469589233
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9407349824905396
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9385249018669128
+      },
+      {
+        "description": "atmosphere",
+        "mid": "/m/01ctsf",
+        "score": 0.8940895199775696
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8857479691505432
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm4.staticflickr.com/3518/5762413992_d4a3d7a976_z.jpg"
+        },
+        {
+          "url": "https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/57ac9ab03d9474092835be1f/2017-09-15-2-41-50-908-59bbe6ae3d94761a14b794c2_5000x500.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://news.fintech.io/post/102efmk/braavo-capital-raises-70m-venture-funding"
+        },
+        {
+          "url": "http://candidateid.passle.net/post/102ebtm/why-are-background-checks-so-important-before-making-a-hire"
+        },
+        {
+          "url": "http://candidateid.passle.net/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/faustodeseri/favorites/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/51293420@N04/favorites/page5"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/augustbrill/popular-interesting/"
+        },
+        {
+          "url": "https://www.rent.it/autonoleggio/stati_uniti_d_america-253/new_york-1243/"
+        },
+        {
+          "url": "https://noleggiocamper.rent.it/noleggiocamper/stati_uniti_d_america-253/new_york-1243/"
+        },
+        {
+          "url": "http://waraiki.com/askul-hinankankoku"
+        },
+        {
+          "url": "http://waraiki.com/next-gengo-yosou-kouho"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://i0.wp.com/waraiki.com/wp-content/uploads/2017/02/5762413992_d4a3d7a976_b.jpg?fit=533%2C400"
+        },
+        {
+          "url": "https://farm4.staticflickr.com/3518/5762413992_d4a3d7a976_z.jpg"
+        },
+        {
+          "url": "https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/57ac9ab03d9474092835be1f/2017-09-15-2-41-50-908-59bbe6ae3d94761a14b794c2_5000x500.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Braavo Capital",
+          "entityId": "/g/11bzq4m_fr",
+          "score": 1.759600043296814
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.33260053396224976
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.3012000024318695
+        },
+        {
+          "description": "Capital",
+          "entityId": "/m/018s5w",
+          "score": 0.3000999987125397
+        },
+        {
+          "description": "Funding",
+          "entityId": "/m/03dd26",
+          "score": 0.29919999837875366
+        },
+        {
+          "description": "Fog",
+          "entityId": "/m/0g2z8",
+          "score": 0.29088667035102844
+        },
+        {
+          "description": "Cloud",
+          "entityId": "/m/0csby",
+          "score": 0.2906074821949005
+        },
+        {
+          "description": "Venture capital",
+          "entityId": "/m/01m2bt",
+          "score": 0.2847000062465668
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.27871739864349365
+        },
+        {
+          "description": "Night",
+          "entityId": "/m/01d74z",
+          "score": 0.2786731421947479
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3518/5762413992_d4a3d7a976.jpg"
+}

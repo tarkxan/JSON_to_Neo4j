@@ -1,0 +1,182 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9833791255950928
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9829205274581909
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9792388081550598
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9778304696083069
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9736847281455994
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.972676157951355
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9546202421188354
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9395660758018494
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9275151491165161
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8731095790863037
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://instaadvertisements.com/wp-content/uploads/2015/09/8746286862_5e27916062_h.jpg"
+        },
+        {
+          "url": "https://s3.amazonaws.com/piktochartv2-dev/v2/uploads/21c57942-79eb-45a4-bcbe-950354c329f1/3f79fb8f25d6d0e5c7cc8488fa9d07fcf6e00eef_original.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.thehotelguru.com/best-hotels-in/united-states-of-america/new-york"
+        },
+        {
+          "url": "https://www.pinterest.com/djfrankie/new-york-city/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/thomashawk/sets/72157600284219965"
+        },
+        {
+          "url": "https://catapult.co/stories/on-falling-in-love-with-and-leaving-new-york"
+        },
+        {
+          "url": "https://catapult.co/editorial/topics/natives-neighborhoods/stories"
+        },
+        {
+          "url": "http://36photos.org/fi/new%2520york%2520newyorkcity%2520manhattan"
+        },
+        {
+          "url": "https://www.flickr.com/photos/nikiteenrico/galleries/72157645655220179/"
+        },
+        {
+          "url": "https://plus.google.com/+ThomasHawk/posts/5Mr6g6mqznh"
+        },
+        {
+          "url": "https://www.techworld.com/picture-gallery/startups/onefinestay-which-cities-is-it-available-in-wheres-next-3618026/"
+        },
+        {
+          "url": "https://plus.google.com/111165959052757347968"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://instaadvertisements.com/wp-content/uploads/2015/09/8746286862_5e27916062_h.jpg"
+        },
+        {
+          "url": "https://lh5.googleusercontent.com/-GjUEdkpuhtw/UVl7DAHrrLI/AAAAAAAE8Wg/7UhE2zKQths/s1600/photo.jpg"
+        },
+        {
+          "url": "http://neoyorkinos.com/wp-content/uploads/2015/12/pierson2.jpg"
+        },
+        {
+          "url": "https://farm3.staticflickr.com/2868/12844555613_9c8415c352_b.jpg"
+        },
+        {
+          "url": "https://farm6.staticflickr.com/5803/23607385935_c55ec2cbca_b.jpg"
+        },
+        {
+          "url": "https://generationvoyage.fr/wp-content/uploads/2017/05/loger-new-york-1.jpg"
+        },
+        {
+          "url": "https://lh5.googleusercontent.com/-GjUEdkpuhtw/UVl7DAHrrLI/AAAAAAAE8Wg/7UhE2zKQths/w800-h800/photo.jpg"
+        },
+        {
+          "url": "http://ips.plug.it/cips/supereva/cms/2016/06/img_2216245880604151.jpg?w=1200&h=630&a=c"
+        },
+        {
+          "url": "https://s3.amazonaws.com/piktochartv2-dev/v2/uploads/21c57942-79eb-45a4-bcbe-950354c329f1/3f79fb8f25d6d0e5c7cc8488fa9d07fcf6e00eef_original.jpg"
+        },
+        {
+          "url": "http://static.prsa.pl/images/8905f604-9f5a-4187-88a4-4d83e5e5aa34.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Dr. Francis M. Unson, DO",
+          "entityId": "/g/1tdyx8dt",
+          "score": 4.478400230407715
+        },
+        {
+          "description": "Hotel NY 2016",
+          "entityId": "/g/11c5hj7988",
+          "score": 4.1296000480651855
+        },
+        {
+          "description": "Manhattan",
+          "entityId": "/m/0cc56",
+          "score": 0.7488000392913818
+        },
+        {
+          "entityId": "/g/11b77d6b6d",
+          "score": 0.39800000190734863
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.2631613314151764
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.1846981644630432
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.1844351589679718
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.18229785561561584
+        },
+        {
+          "description": "Metropolis",
+          "entityId": "/m/056mk",
+          "score": 0.182180255651474
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.18060000240802765
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8394/8746286862_3cb9181a32.jpg"
+}

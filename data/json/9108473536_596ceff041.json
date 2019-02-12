@@ -1,0 +1,207 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9882966876029968
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9831759333610535
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.978019654750824
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9692350029945374
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9687212705612183
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9663272500038147
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9641891717910767
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9364565014839172
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8937343955039978
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8897754549980164
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/53790809/9108473536_d7ab99bc8a_o.0.jpg"
+        },
+        {
+          "url": "http://doggerel.arup.com/wp-content/uploads/2015/05/NYC_HERO_ThomasHawk.jpg"
+        },
+        {
+          "url": "https://i.ytimg.com/vi/U8170r8HoUI/maxresdefault.jpg"
+        },
+        {
+          "url": "https://www.dinadis.ua/wp-content/uploads/2016/09/1.Bronir_Zarybegom.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/tEAWHunswY5st0CsepRu0SxxIq8=/0x0:4923x2769/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/53304903/9108473536_d7ab99bc8a_o.0.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/hTGODthfGHS4FppSJUL02GCuCQ8=/0x0:4923x2769/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/53790809/9108473536_d7ab99bc8a_o.0.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/JCCQAt2fMFO-uuYS96J_F2Uwcv0=/0x0:4923x2769/1200x800/filters:focal(2069x992:2855x1778)/cdn.vox-cdn.com/uploads/chorus_image/image/53304905/9108473536_d7ab99bc8a_o.0.jpg"
+        },
+        {
+          "url": "http://i.vimeocdn.com/video/515022441_1280x720.jpg"
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Z9Apo1eaZnE/maxresdefault.jpg"
+        },
+        {
+          "url": "http://img.bfmtv.com/c/1256/708/7ef/0879d57cc15ff3aef1eaed103e4fb.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://ny.curbed.com/2017/7/2/15908728/nyc-population-housing-demographics-statistics"
+        },
+        {
+          "url": "https://ny.curbed.com/2017/5/25/15693092/nyc-most-affordable-neighborhoods-college-graduates"
+        },
+        {
+          "url": "http://umslspaces.com/nycs-5-most-affordable-neighborhoods-for-college-grads/"
+        },
+        {
+          "url": "https://www.thehotelguru.com/best-hotels/united-states-of-america/new-york-downtown"
+        },
+        {
+          "url": "https://www.linkedin.com/in/jamesfrancisco1"
+        },
+        {
+          "url": "http://mashable.com/2014/04/16/video-games-new-york/"
+        },
+        {
+          "url": "https://www.linkedin.com/in/joey-parrella"
+        },
+        {
+          "url": "http://www.npr.org/sections/alltechconsidered/2014/10/16/356728035/airbnb-new-york-state-spar-over-legality-of-rentals"
+        },
+        {
+          "url": "http://www.dfbuses.com/store/p87/NYC_Shopping_-_August_19.html"
+        },
+        {
+          "url": "http://www.dfbuses.com/store/p85/NYC_Shopping_-_October_14.html"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/53790809/9108473536_d7ab99bc8a_o.0.jpg"
+        },
+        {
+          "url": "http://www.51nyc.com/uploadfile/2017/0709/20170709014141300.jpg"
+        },
+        {
+          "url": "http://s1.1zoom.me/big3/388/Houses_Skyscrapers_USA_474318.jpg"
+        },
+        {
+          "url": "http://www.army-technology.com/uploads/newsarticle/4605258/images/467502/large/new-york-thomas-hawk.jpg"
+        },
+        {
+          "url": "http://s1.1zoom.me/b5050/388/Houses_Skyscrapers_USA_474318_2560x1440.jpg"
+        },
+        {
+          "url": "http://nyc.ordovicium.com/wp-content/uploads/2016/12/cropped-9108473536_d7ab99bc8a_o-1.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/6/5474/9108473536_e91edd561f_k.jpg"
+        },
+        {
+          "url": "https://i2.wp.com/www.drinkteatravel.com/wp-content/uploads/10301380936_333e185d96_k.jpg?fit=2048%2C1152&ssl=1"
+        },
+        {
+          "url": "http://nv.ua/img/forall/users/279/27923/9108473536_e91edd561f_k.jpg"
+        },
+        {
+          "url": "https://abrilviagemeturismo.files.wordpress.com/2017/04/10301380936_333e185d96_k.jpg?quality=70&strip=info&strip=info"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 252.6208038330078
+        },
+        {
+          "description": "The Skyline Hotel",
+          "entityId": "/g/113fwb49_",
+          "score": 5.089600086212158
+        },
+        {
+          "description": "Manhattan",
+          "entityId": "/m/0cc56",
+          "score": 0.9815040230751038
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.6618431806564331
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.4351425766944885
+        },
+        {
+          "description": "Wallpaper",
+          "entityId": "/m/03w43x",
+          "score": 0.43476229906082153
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.41269999742507935
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.3982999920845032
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.37950000166893005
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.37139999866485596
+        }
+      ]
+    }
+  },
+  "url": "https://farm6.staticflickr.com/5474/9108473536_596ceff041.jpg"
+}

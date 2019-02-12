@@ -1,0 +1,183 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.7993947863578796
+      },
+      {
+        "description": "shopping mall",
+        "mid": "/m/025s8bs",
+        "score": 0.7841722965240479
+      },
+      {
+        "description": "ceiling",
+        "mid": "/m/03gfsp",
+        "score": 0.7421337366104126
+      },
+      {
+        "description": "daylighting",
+        "mid": "/m/0k2n5",
+        "score": 0.7068173289299011
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.698903501033783
+      },
+      {
+        "description": "lobby",
+        "mid": "/m/027dwg0",
+        "score": 0.6262505054473877
+      },
+      {
+        "description": "symmetry",
+        "mid": "/m/0f28m",
+        "score": 0.5525357127189636
+      },
+      {
+        "description": "interior design",
+        "mid": "/m/02rfdq",
+        "score": 0.5393902063369751
+      },
+      {
+        "description": "leisure centre",
+        "mid": "/m/07cqtx",
+        "score": 0.507384717464447
+      },
+      {
+        "description": "convention center",
+        "mid": "/m/02l7rx",
+        "score": 0.5057671070098877
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_c.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_z.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/32679655584_86d7e7708c_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_n.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/newyork/"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/ig_newyork"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/port-henry-tourist-spot"
+        },
+        {
+          "url": "http://36photos.org/fi/new%2520york%2520to"
+        },
+        {
+          "url": "http://36photos.org/fi/trade%2520center%2520empire%2520state"
+        },
+        {
+          "url": "http://freephotostags.com/new%20york"
+        },
+        {
+          "url": "http://freephotostags.com/home/new+champion+5+glosm%C3%A4staren"
+        },
+        {
+          "url": "http://www.keywordsfr.com/bmV3IGF0JmFtcDt0IHBob25lcw/"
+        },
+        {
+          "url": "http://picssr.com/photos/22413627@N04/favorites/page4?nsid=22413627@N04"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_c.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_z.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/32679655584_86d7e7708c_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_n.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/592/32679655584_86d7e7708c_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 66.40640258789062
+        },
+        {
+          "description": "Port Henry",
+          "entityId": "/m/0x_qz",
+          "score": 5.291200160980225
+        },
+        {
+          "description": "A New Street",
+          "entityId": "/g/1tl0y8g2",
+          "score": 2.7016000747680664
+        },
+        {
+          "description": "World Trade Center",
+          "entityId": "/g/113kbpdhj",
+          "score": 2.4639999866485596
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3806999921798706
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.35850000381469727
+        },
+        {
+          "description": "Tourism",
+          "entityId": "/m/07bxq",
+          "score": 0.3386000096797943
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.30809998512268066
+        },
+        {
+          "description": "Visitor center",
+          "entityId": "/m/03fjn0",
+          "score": 0.30000001192092896
+        },
+        {
+          "description": "Shopping mall",
+          "entityId": "/m/025s8bs",
+          "score": 0.277854859828949
+        }
+      ]
+    }
+  },
+  "url": "https://farm1.staticflickr.com/592/32679655584_86d7e7708c.jpg"
+}

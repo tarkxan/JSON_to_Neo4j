@@ -1,0 +1,123 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "black and white",
+        "mid": "/m/01g6gs",
+        "score": 0.9142503142356873
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.8921886682510376
+      },
+      {
+        "description": "structure",
+        "mid": "/m/0n68_",
+        "score": 0.8353213667869568
+      },
+      {
+        "description": "facade",
+        "mid": "/m/01x314",
+        "score": 0.7692501544952393
+      },
+      {
+        "description": "monochrome photography",
+        "mid": "/m/03d49p1",
+        "score": 0.7552763223648071
+      },
+      {
+        "description": "monochrome",
+        "mid": "/m/01mwkf",
+        "score": 0.658815324306488
+      },
+      {
+        "description": "medieval architecture",
+        "mid": "/m/01ht1r",
+        "score": 0.6579588055610657
+      },
+      {
+        "description": "window",
+        "mid": "/m/0d4v4",
+        "score": 0.6036086082458496
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.594027042388916
+      },
+      {
+        "description": "pattern",
+        "mid": "/m/0hwky",
+        "score": 0.587801456451416
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://tw.dictionary.yahoo.com/dictionary?p=commercialisation"
+        },
+        {
+          "url": "https://tw.dictionary.yahoo.com/dictionary?p=commercialization"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://l.yimg.com/fz/api/res/1.2/1DYjT_jAG3RNcF5XshtyhA--/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0xNDc7cHhvZmY9MDtweW9mZj0wO3E9OTU7dz0xNDc-/https://farm9.staticflickr.com/8620/15827887175_93bca41c16_q.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Greenwich Village",
+          "entityId": "/m/03dm7",
+          "score": 47.027198791503906
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.7281000018119812
+        },
+        {
+          "description": "Commercialization",
+          "entityId": "/m/025v1q4",
+          "score": 0.4296000003814697
+        },
+        {
+          "entityId": "/g/155r2mjj",
+          "score": 0.41110000014305115
+        },
+        {
+          "description": "Facade",
+          "entityId": "/m/01x314",
+          "score": 0.4079012870788574
+        },
+        {
+          "description": "Medieval architecture",
+          "entityId": "/m/01ht1r",
+          "score": 0.370747447013855
+        },
+        {
+          "description": "Yahoo!",
+          "entityId": "/m/019rl6",
+          "score": 0.36149999499320984
+        },
+        {
+          "description": "Character dictionary",
+          "entityId": "/g/1216fq1w",
+          "score": 0.3594000041484833
+        },
+        {
+          "description": "Metropolis",
+          "entityId": "/m/056mk",
+          "score": 0.3227652907371521
+        },
+        {
+          "description": "Pattern",
+          "entityId": "/m/0hwky",
+          "score": 0.2989409267902374
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7530/15718011840_1320fa428d.jpg"
+}

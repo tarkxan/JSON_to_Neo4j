@@ -1,0 +1,192 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "fisheye lens",
+        "mid": "/m/03bdrd",
+        "score": 0.9516973495483398
+      },
+      {
+        "description": "photography",
+        "mid": "/m/05wkw",
+        "score": 0.8476699590682983
+      },
+      {
+        "description": "tree",
+        "mid": "/m/07j7r",
+        "score": 0.8037181496620178
+      },
+      {
+        "description": "grass",
+        "mid": "/m/08t9c_",
+        "score": 0.7158362865447998
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.7091238498687744
+      },
+      {
+        "description": "plant",
+        "mid": "/m/05s2s",
+        "score": 0.6938830614089966
+      },
+      {
+        "description": "sunlight",
+        "mid": "/m/06z0n",
+        "score": 0.6253635883331299
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm3.staticflickr.com/2361/2408044761_7d69296561_b.jpg"
+        },
+        {
+          "url": "http://imagenesfotos.com/wp-content/2011/03/animales_divertidos3.jpg"
+        },
+        {
+          "url": "http://funlol.ru/uploads/fotos/756/podborka_prikolov_090.jpg"
+        },
+        {
+          "url": "http://media.skateboard.com.au/forum/images/tumblr_l8dcqcc5WF1qc5z4wo1_500.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4005/4670472587_f4931ed479.jpg"
+        },
+        {
+          "url": "https://fanychachi.files.wordpress.com/2010/11/yduwa_large.jpg"
+        },
+        {
+          "url": "https://img.geocaching.com/cache/large/f8152991-0434-435a-a57b-5617eb2f3329.jpg"
+        },
+        {
+          "url": "http://data.whicdn.com/images/6584696/large.jpg"
+        },
+        {
+          "url": "https://feelmela.files.wordpress.com/2010/03/od2.jpg?w=500&h=331"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2361/2408044761_7d69296561_z.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.pinterest.com/pin/147704062748408344/"
+        },
+        {
+          "url": "http://www.skateboard.com.au/article/20-85249-1/fish-eye-shots/"
+        },
+        {
+          "url": "http://davereed.tumblr.com/post/1092287174/why-hello-fish-eye-squirrel"
+        },
+        {
+          "url": "http://tumblr.photojojo.com/post/3093161400/holy-heck-what-a-great-fisheye-shot-high-five"
+        },
+        {
+          "url": "https://www.flickr.com/photos/sleepychinchilla/albums/72157604503543968/"
+        },
+        {
+          "url": "http://heartpeep.com/tag/fisheye/"
+        },
+        {
+          "url": "https://www.flickr.com/people/sleepychinchilla/"
+        },
+        {
+          "url": "http://mail.asadal.com/compds_file/tumblr-fisheye"
+        },
+        {
+          "url": "https://hiveminer.com/User/sleepychinchilla/Interesting"
+        },
+        {
+          "url": "http://picssr.com/photos/sleepychinchilla/interesting?nsid=15904218@N00"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm3.staticflickr.com/2361/2408044761_7d69296561_b.jpg"
+        },
+        {
+          "url": "http://www.doodoo.ru/uploads/posts/2012-05/animals-foto-17.jpg"
+        },
+        {
+          "url": "https://yaunikum.ru/uploads/posts/2011-03/1301052471_1300906518_these_funny_animals_648_03.jpg"
+        },
+        {
+          "url": "http://img.desmotivaciones.es/201106/lifespretties..myloves..mydreams..justme_1.jpg"
+        },
+        {
+          "url": "http://img.desmotivaciones.es/201107/090_4.jpg"
+        },
+        {
+          "url": "http://img.desmotivaciones.es/201109/picdump7268.jpg"
+        },
+        {
+          "url": "http://img.desmotivaciones.es/201106/tumblr_llee4c4Ddn1qhojwpo1_500_large.jpg"
+        },
+        {
+          "url": "http://img.desmotivaciones.es/201101/tumblr_lc3nzzqng61qeyn79o1_500_large.jpg"
+        },
+        {
+          "url": "http://img1.liveinternet.ru/images/attach/c/6/91/83/91083895_090112_1508_2.jpg"
+        },
+        {
+          "url": "https://piximus.net/media/1406/daily-mix-68-89.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Fisheye lens",
+          "entityId": "/m/03bdrd",
+          "score": 1.359771490097046
+        },
+        {
+          "description": "Squirrel",
+          "entityId": "/m/071qp",
+          "score": 0.4699999988079071
+        },
+        {
+          "description": "Photography",
+          "entityId": "/m/05wkw",
+          "score": 0.39239999651908875
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.37540000677108765
+        },
+        {
+          "description": "Animal",
+          "entityId": "/m/0jbk",
+          "score": 0.31349998712539673
+        },
+        {
+          "description": "user",
+          "entityId": "/g/122kj7h6",
+          "score": 0.2531000077724457
+        },
+        {
+          "description": "Tree squirrel",
+          "entityId": "/m/089bqg",
+          "score": 0.2513999938964844
+        },
+        {
+          "description": "Camera",
+          "entityId": "/m/0dv5r",
+          "score": 0.20069999992847443
+        },
+        {
+          "description": "Tumblr",
+          "entityId": "/m/05pdgbz",
+          "score": 0.19609999656677246
+        },
+        {
+          "description": "Skateboard",
+          "entityId": "/m/06_fw",
+          "score": 0.1851000040769577
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2361/2408044761_7d69296561.jpg"
+}

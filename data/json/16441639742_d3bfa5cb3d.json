@@ -1,0 +1,147 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9631332159042358
+      },
+      {
+        "description": "cloud",
+        "mid": "/m/0csby",
+        "score": 0.954996645450592
+      },
+      {
+        "description": "green",
+        "mid": "/m/038hg",
+        "score": 0.9412290453910828
+      },
+      {
+        "description": "atmosphere",
+        "mid": "/m/01ctsf",
+        "score": 0.8540594577789307
+      },
+      {
+        "description": "tree",
+        "mid": "/m/07j7r",
+        "score": 0.843744158744812
+      },
+      {
+        "description": "grass",
+        "mid": "/m/08t9c_",
+        "score": 0.8124362230300903
+      },
+      {
+        "description": "field",
+        "mid": "/m/0brn2d",
+        "score": 0.8112919330596924
+      },
+      {
+        "description": "atmosphere of earth",
+        "mid": "/m/01ctry",
+        "score": 0.8075096011161804
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.7724658250808716
+      },
+      {
+        "description": "phenomenon",
+        "mid": "/m/0gjyk",
+        "score": 0.7547649145126343
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://drscdn.500px.org/photo/97859949/m%3D900_s%3D1_k%3D1_a%3D1/v2?webp=true&v=7&sig=fe02918d7991444886935b43ff9b86b80970d55fc831b96804cfa348af2d6eae"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://500px.com/stefanocorso"
+        },
+        {
+          "url": "http://colettesartor.com/embracing-our-bodies/"
+        },
+        {
+          "url": "http://colettesartor.com/ready-set-write-12/"
+        },
+        {
+          "url": "http://colettesartor.com/monkey-migration/"
+        },
+        {
+          "url": "http://colettesartor.com/queen-cool/"
+        },
+        {
+          "url": "http://colettesartor.com/cry-baby-teaching-my-son-that-tears-take-courage/"
+        },
+        {
+          "url": "http://colettesartor.com/fighting-words/fuck-off-cupcakes/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://i0.wp.com/colettesartor.com/wp-content/uploads/2015/02/An-Ordinary-Afternoon-by-Stefano-Corso.jpg?resize=1024%2C683"
+        },
+        {
+          "url": "https://drscdn.500px.org/photo/97859949/m%3D900_s%3D1_k%3D1_a%3D1/v2?webp=true&v=7&sig=fe02918d7991444886935b43ff9b86b80970d55fc831b96804cfa348af2d6eae"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Rain",
+          "entityId": "/m/06mb1",
+          "score": 0.7390000224113464
+        },
+        {
+          "description": "Afternoon",
+          "entityId": "/m/0119264f",
+          "score": 0.7060999870300293
+        },
+        {
+          "description": "Cloud",
+          "entityId": "/m/0csby",
+          "score": 0.6832849383354187
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.5432140231132507
+        },
+        {
+          "description": "Evening",
+          "entityId": "/m/04mx32",
+          "score": 0.46045446395874023
+        },
+        {
+          "description": "Morning",
+          "entityId": "/m/02_ktj",
+          "score": 0.4473428428173065
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.4043000042438507
+        },
+        {
+          "description": "500px",
+          "entityId": "/m/0h961jr",
+          "score": 0.3871999979019165
+        },
+        {
+          "description": "Husband",
+          "entityId": "/m/025t1g1",
+          "score": 0.373199999332428
+        },
+        {
+          "description": "Grassland",
+          "entityId": "/m/01c7cq",
+          "score": 0.3728463351726532
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7325/16441639742_d3bfa5cb3d.jpg"
+}

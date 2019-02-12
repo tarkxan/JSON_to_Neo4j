@@ -1,0 +1,178 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9708278775215149
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9707421064376831
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9557909965515137
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9425435066223145
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9306237697601318
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.9128233194351196
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9066885113716125
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.8760135173797607
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.86613929271698
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8432509899139404
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Seattle Public Library",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 47.606691,
+              "longitude": -122.332916
+            }
+          }
+        ],
+        "mid": "/m/034_fz",
+        "score": 0.7469274997711182
+      },
+      {
+        "description": "One World Financial Center",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.713555,
+              "longitude": -74.016453
+            }
+          }
+        ],
+        "mid": "/m/02rzjfq",
+        "score": 0.30783358216285706
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm8.staticflickr.com/7206/26903887842_e7d0577dae_h.jpg"
+        },
+        {
+          "url": "https://farm8.static.flickr.com/7206/26903887842_295193cb2f_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://www.skyscrapercity.com/showthread.php?t=419362&page=2897"
+        },
+        {
+          "url": "http://www.skyscrapercity.com/showthread.php?p=132321014"
+        },
+        {
+          "url": "http://www.skyscrapercity.com/showthread.php?p=133095961"
+        },
+        {
+          "url": "http://www.skyscrapercity.com/showthread.php?p=133031458"
+        },
+        {
+          "url": "https://hiveminer.com/User/ravalli1/Timeline"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/memorial%2Conewtc"
+        },
+        {
+          "url": "http://www.skyscrapercity.com/showthread.php?t=419362&page=2897&langid=5"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm8.staticflickr.com/7206/26903887842_e7d0577dae_h.jpg"
+        },
+        {
+          "url": "https://farm8.static.flickr.com/7206/26903887842_295193cb2f_b.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 28.470399856567383
+        },
+        {
+          "description": "The Battery",
+          "entityId": "/m/04sr12",
+          "score": 10.403200149536133
+        },
+        {
+          "description": "200 Liberty Street",
+          "entityId": "/m/02h3_mx",
+          "score": 5.9552001953125
+        },
+        {
+          "description": "World Trade Center",
+          "entityId": "/g/11bvtr332n",
+          "score": 3.288800001144409
+        },
+        {
+          "description": "September 11 attacks",
+          "entityId": "/m/0d0vp3",
+          "score": 0.5443999767303467
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.45814982056617737
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.333297997713089
+        },
+        {
+          "description": "Tower",
+          "entityId": "/m/01fdzj",
+          "score": 0.278533935546875
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.27569806575775146
+        },
+        {
+          "description": "Tower block",
+          "entityId": "/m/0vlys",
+          "score": 0.26586925983428955
+        }
+      ]
+    }
+  },
+  "url": "https://farm8.staticflickr.com/7206/26903887842_295193cb2f.jpg"
+}

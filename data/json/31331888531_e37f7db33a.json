@@ -1,0 +1,111 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9712508916854858
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.96593177318573
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.9652042388916016
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9620268940925598
+      },
+      {
+        "description": "reflection",
+        "mid": "/m/02l215",
+        "score": 0.9617504477500916
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9598950743675232
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9554095268249512
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9553983211517334
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9256314635276794
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9227664470672607
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 1.0497815608978271
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.7549217939376831
+        },
+        {
+          "description": "Tower block",
+          "entityId": "/m/0vlys",
+          "score": 0.7502107620239258
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.6452256441116333
+        },
+        {
+          "description": "Tower",
+          "entityId": "/m/01fdzj",
+          "score": 0.6240336298942566
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.5677136182785034
+        },
+        {
+          "description": "Water",
+          "entityId": "/m/0838f",
+          "score": 0.5012034773826599
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.47325947880744934
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.46625497937202454
+        },
+        {
+          "description": "Fountain",
+          "entityId": "/m/0220r2",
+          "score": 0.4495902359485626
+        }
+      ]
+    }
+  },
+  "url": "https://farm6.staticflickr.com/5677/31331888531_e37f7db33a.jpg"
+}

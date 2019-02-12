@@ -1,0 +1,126 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.9669657945632935
+      },
+      {
+        "description": "reflection",
+        "mid": "/m/02l215",
+        "score": 0.9658603668212891
+      },
+      {
+        "description": "nature",
+        "mid": "/m/05h0n",
+        "score": 0.955794095993042
+      },
+      {
+        "description": "green",
+        "mid": "/m/038hg",
+        "score": 0.9424140453338623
+      },
+      {
+        "description": "waterway",
+        "mid": "/m/017m8l",
+        "score": 0.919001042842865
+      },
+      {
+        "description": "tree",
+        "mid": "/m/07j7r",
+        "score": 0.8921422958374023
+      },
+      {
+        "description": "leaf",
+        "mid": "/m/09t49",
+        "score": 0.8809676170349121
+      },
+      {
+        "description": "plant",
+        "mid": "/m/05s2s",
+        "score": 0.8191961646080017
+      },
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.800078272819519
+      },
+      {
+        "description": "pond",
+        "mid": "/m/0184rb",
+        "score": 0.767687201499939
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://i1.wp.com/www.travelalphas.com/wp-content/uploads/2016/06/Central-Park-1024x683.jpg?resize=1024%2C683&ssl=1"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.travelalphas.com/new-york-city-bucket-list-things-to-do/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://i1.wp.com/www.travelalphas.com/wp-content/uploads/2016/06/Central-Park-1024x683.jpg?resize=1024%2C683&ssl=1"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "City-As-School High School",
+          "entityId": "/m/076jj83",
+          "score": 2.420799970626831
+        },
+        {
+          "description": "Things To Do In New York",
+          "entityId": "/g/11c7s__wzx",
+          "score": 1.5135999917984009
+        },
+        {
+          "description": "City Travel",
+          "entityId": "/g/1tgjm68y",
+          "score": 1.2619999647140503
+        },
+        {
+          "description": "Like A Local Tours",
+          "entityId": "/g/1yfjj6th5",
+          "score": 1.218000054359436
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.31679999828338623
+        },
+        {
+          "description": "Tree",
+          "entityId": "/m/07j7r",
+          "score": 0.26135721802711487
+        },
+        {
+          "description": "Water",
+          "entityId": "/m/0838f",
+          "score": 0.2253894805908203
+        },
+        {
+          "description": "Green",
+          "entityId": "/m/038hg",
+          "score": 0.22150932252407074
+        },
+        {
+          "description": "Art museum",
+          "entityId": "/m/0hhbr",
+          "score": 0.19249999523162842
+        },
+        {
+          "description": "Museum",
+          "entityId": "/m/09cmq",
+          "score": 0.19050000607967377
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8574/15926352399_3ff75a6c31.jpg"
+}

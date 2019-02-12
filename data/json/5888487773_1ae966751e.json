@@ -1,0 +1,220 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9515689015388489
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9422841668128967
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.931233286857605
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9300397038459778
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9015672206878662
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.894303560256958
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.845678448677063
+      },
+      {
+        "description": "night",
+        "mid": "/m/01d74z",
+        "score": 0.8455280065536499
+      },
+      {
+        "description": "lighting",
+        "mid": "/m/019sc6",
+        "score": 0.7695066928863525
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.6488040089607239
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "New York",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.74928,
+              "longitude": -73.982035
+            }
+          }
+        ],
+        "mid": "/m/059rby",
+        "score": 0.3103925585746765
+      },
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.20034120976924896
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/originals/6c/48/01/6c4801697a1555b821e9648000b69144.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/6c/48/01/6c4801697a1555b821e9648000b69144--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/02/8b/4c/028b4ce974967931b254a95a87bc0bd2--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/28/f2/81/28f2817a4e3fdbe9cafe8e6e0c448033--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/564x/6c/48/01/6c4801697a1555b821e9648000b69144--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "http://farm6.static.flickr.com/5313/5888487773_1ae966751e.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/236x/6c/48/01/6c4801697a1555b821e9648000b69144--flatiron-building-the-flatiron.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.pinterest.com/pin/177118197815656127/"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/357402920404265606/"
+        },
+        {
+          "url": "http://36photos.org/fi/avenue%2520new%2520york%2520ny"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/nadyalieva/city-lights/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/JessMoss/take-me-to-the-city/"
+        },
+        {
+          "url": "http://www.pearltrees.com/rlyroberts/history-america-continued/id10401611"
+        },
+        {
+          "url": "http://picssr.com/photos/danielmennerich/interesting/page154?nsid=29858421@N04"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625103498081/"
+        },
+        {
+          "url": "https://www.pinterest.com.mx/explore/preguntas-de-cita-de-noche/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/originals/6c/48/01/6c4801697a1555b821e9648000b69144.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/6c/48/01/6c4801697a1555b821e9648000b69144--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/02/8b/4c/028b4ce974967931b254a95a87bc0bd2--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/28/f2/81/28f2817a4e3fdbe9cafe8e6e0c448033--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/564x/6c/48/01/6c4801697a1555b821e9648000b69144--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/474x/6c/48/01/6c4801697a1555b821e9648000b69144--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "http://cdn-avatar.pearltrees.com/24/47/2447d142e393b1abca71a442da48b433.pearlsquare.jpg?v=2"
+        },
+        {
+          "url": "https://i.pinimg.com/170x/6c/48/01/6c4801697a1555b821e9648000b69144--flatiron-building-the-flatiron.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/150x150/6c/48/01/6c4801697a1555b821e9648000b69144.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Flatiron Building",
+          "entityId": "/m/01lnd3",
+          "score": 476.1600036621094
+        },
+        {
+          "description": "Daniel",
+          "entityId": "/m/0py0rrc",
+          "score": 140.90240478515625
+        },
+        {
+          "description": "City Guide NYC",
+          "entityId": "/g/1th1dm_s",
+          "score": 7.606400012969971
+        },
+        {
+          "description": "Flatiron District",
+          "entityId": "/m/02t9m_",
+          "score": 5.236480236053467
+        },
+        {
+          "description": "The Flatiron Room",
+          "entityId": "/g/1jkz35qqv",
+          "score": 4.883200168609619
+        },
+        {
+          "description": "Manhattan Bridge",
+          "entityId": "/g/1tj92gj2",
+          "score": 1.8359999656677246
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3725999891757965
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3718999922275543
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.3709675073623657
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.2689000070095062
+        }
+      ]
+    }
+  },
+  "url": "https://farm6.staticflickr.com/5313/5888487773_1ae966751e.jpg"
+}

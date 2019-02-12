@@ -1,0 +1,235 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.962726891040802
+      },
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.9619123339653015
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9599606394767761
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9595704674720764
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9551740288734436
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.946422278881073
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9372235536575317
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.916797399520874
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9093261361122131
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.8939744830131531
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Brooklyn Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.705726,
+              "longitude": -73.996953
+            }
+          }
+        ],
+        "mid": "/m/0cv4c",
+        "score": 0.5310408473014832
+      },
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.3270244896411896
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://cdn.playbuzz.com/cdn/466f6c26-f071-4024-8ea1-c8a79a4b4aa2/7da38bf6-aaec-4d17-a2a3-56b2bd2dbeca.jpg"
+        },
+        {
+          "url": "http://img01.gatag.net/201504/12qwkj9/gatag-00001138.jpg"
+        },
+        {
+          "url": "http://wallpaperswide.com/download/brooklyn_bridge-wallpaper-3000x2000.jpg"
+        },
+        {
+          "url": "http://wallpaperswide.com/download/brooklyn_bridge-wallpaper-2736x1824.jpg"
+        },
+        {
+          "url": "http://wallpaperswide.com/download/brooklyn_bridge-wallpaper-2160x1440.jpg"
+        },
+        {
+          "url": "https://www.teoriegitim.com/wp-content/uploads/2016/05/Andr%C3%A9s-Nieto-Porras.jpg"
+        },
+        {
+          "url": "https://www.upcloud.com/blog/wp-content/uploads/2015/04/new-york.jpg"
+        },
+        {
+          "url": "https://triptaptoe.com/wp-content/uploads/2016/06/16654352517_a6eb45f2ce_k-1-min.jpg"
+        },
+        {
+          "url": "http://streettrotter.com/wp-content/uploads/2015/10/16654352517_a6eb45f2ce_k.jpg"
+        },
+        {
+          "url": "http://www.wenjing.com/images/itinerary/5982f1614ab1e_10.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/anieto2k/16654352517"
+        },
+        {
+          "url": "https://www.flickr.com/people/anieto2k/"
+        },
+        {
+          "url": "http://canada.theflightdeal.com/2015/05/26/delta-396-cad-320-usd-vancouver-new-york-new-york-roundtrip-including-all-taxes/"
+        },
+        {
+          "url": "http://canada.theflightdeal.com/2016/10/27/air-canada-c229-toronto-new-york-new-york-roundtrip-including-all-taxes/"
+        },
+        {
+          "url": "http://www.businessinsider.com/hacker-takes-down-new-york-magazine-due-to-nyc-grudge-2015-7"
+        },
+        {
+          "url": "https://www.flyfar.ca/blog/things-to-do-in-new-york/"
+        },
+        {
+          "url": "https://www.myadventuresacrosstheworld.com/things-to-do-in-new-york/"
+        },
+        {
+          "url": "https://www.linkedin.com/pulse/top-10-things-do-new-york-kate-moswood"
+        },
+        {
+          "url": "http://www.cnbc.com/2016/11/10/heres-how-much-the-richest-people-earn-in-the-17-largest-us-cities.html"
+        },
+        {
+          "url": "https://www.cnbc.com/id/104097158?view=story&$DEVICE$=native-android-tablet"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://wallpaperswide.com/download/brooklyn_bridge-wallpaper-3840x2400.jpg"
+        },
+        {
+          "url": "http://img01.gatag.net/201504/12qwkj9/gatag-00001138.jpg"
+        },
+        {
+          "url": "http://wallpaperswide.com/download/brooklyn_bridge-wallpaper-4096x3072.jpg"
+        },
+        {
+          "url": "http://wallpaperswide.com/download/brooklyn_bridge-wallpaper-3200x2400.jpg"
+        },
+        {
+          "url": "http://www.allmacwallpaper.com/get/Retina-MacBook-Pro-15-inch-wallpapers/Brooklyn-Bridge-2880x1800/12892-8.jpg"
+        },
+        {
+          "url": "http://www.allmacwallpaper.com/get/Retina-MacBook-Pro-13-inch-wallpapers/Brooklyn-Bridge-2560x1600/12892-11.jpg"
+        },
+        {
+          "url": "https://www.teoriegitim.com/wp-content/uploads/2016/05/Andr%C3%A9s-Nieto-Porras.jpg"
+        },
+        {
+          "url": "https://www.upcloud.com/blog/wp-content/uploads/2015/04/new-york.jpg"
+        },
+        {
+          "url": "http://streettrotter.com/wp-content/uploads/2015/10/16654352517_a6eb45f2ce_k.jpg"
+        },
+        {
+          "url": "http://static2.uk.businessinsider.com/image/559d7781dd0895475e8b4582-2048-1365/16654352517_a6eb45f2ce_k.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 284.97918701171875
+        },
+        {
+          "description": "Things To Do In New York",
+          "entityId": "/g/11c7s__wzx",
+          "score": 4.927999973297119
+        },
+        {
+          "description": "City Skyline Inc",
+          "entityId": "/g/11_qm2t8v",
+          "score": 4.446400165557861
+        },
+        {
+          "description": "New York Photo Studio",
+          "entityId": "/g/1tg6wmm6",
+          "score": 2.2248001098632812
+        },
+        {
+          "description": "NewYork photo Studio",
+          "entityId": "/g/11dyzfnq15",
+          "score": 2.2248001098632812
+        },
+        {
+          "description": "Leaning Tower of Pisa",
+          "entityId": "/m/0cn46",
+          "score": 2.2232000827789307
+        },
+        {
+          "description": "Brooklyn",
+          "entityId": "/m/0cr3d",
+          "score": 0.9425920844078064
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.3747999966144562
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3052999973297119
+        },
+        {
+          "description": "Computer",
+          "entityId": "/m/01m3v",
+          "score": 0.28859999775886536
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8618/16654352517_49b28d1dfc.jpg"
+}

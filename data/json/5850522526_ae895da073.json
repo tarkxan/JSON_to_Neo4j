@@ -1,0 +1,61 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.7841098308563232
+      },
+      {
+        "description": "metal",
+        "mid": "/m/04t7l",
+        "score": 0.7802576422691345
+      },
+      {
+        "description": "musical instrument accessory",
+        "mid": "/m/0h8npf5",
+        "score": 0.7030768394470215
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.7006632089614868
+      },
+      {
+        "description": "font",
+        "mid": "/m/03gq5hm",
+        "score": 0.5018982887268066
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Iron",
+          "entityId": "/m/025rw19",
+          "score": 1.0091652870178223
+        },
+        {
+          "description": "Font",
+          "entityId": "/m/03gq5hm",
+          "score": 0.8790655732154846
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.6253610253334045
+        },
+        {
+          "description": "Musical Instrument Accessory",
+          "entityId": "/m/0h8npf5",
+          "score": 0.4862337112426758
+        },
+        {
+          "description": "Musical instrument",
+          "entityId": "/m/04szw",
+          "score": 0.4350999891757965
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3339/5850522526_ae895da073.jpg"
+}

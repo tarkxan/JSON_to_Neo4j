@@ -1,0 +1,164 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sweetness",
+        "mid": "/m/05wgwh",
+        "score": 0.7855269908905029
+      },
+      {
+        "description": "sprinkles",
+        "mid": "/m/036knn",
+        "score": 0.762959361076355
+      },
+      {
+        "description": "dessert",
+        "mid": "/m/0270h",
+        "score": 0.7389450073242188
+      },
+      {
+        "description": "confectionery",
+        "mid": "/m/0c5yy",
+        "score": 0.6777658462524414
+      },
+      {
+        "description": "flavor",
+        "mid": "/m/02w08",
+        "score": 0.566524088382721
+      },
+      {
+        "description": "chocolate",
+        "mid": "/m/020vl",
+        "score": 0.5408636927604675
+      },
+      {
+        "description": "food",
+        "mid": "/m/02wbm",
+        "score": 0.5402207374572754
+      },
+      {
+        "description": "baking",
+        "mid": "/m/0dv34",
+        "score": 0.5024253726005554
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm3.staticflickr.com/2901/14134372024_f7cae3649a_b.jpg"
+        },
+        {
+          "url": "http://www.depositagift.com/_/wp-content/uploads/2016/03/Cake-pop-580x384.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/589/32816436351_32fedb795c.jpg"
+        },
+        {
+          "url": "http://blog.meincupcake.de/wp-content/uploads/2016/08/14134372024_f7cae3649a.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2901/14134372024_f7cae3649a_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/39908901@N06/14134372024"
+        },
+        {
+          "url": "http://www.depositagift.com/_/blog/page/12/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/i_ate_this/pool/with/14157642253/lightbox/"
+        },
+        {
+          "url": "http://picssr.com/photos/39908901@N06/interesting?nsid=39908901@N06"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/39908901@N06/popular-interesting/"
+        },
+        {
+          "url": "http://picssr.com/photos/39908901@N06/page299"
+        },
+        {
+          "url": "http://blog.meincupcake.de/simple-cake-pops/"
+        },
+        {
+          "url": "http://blog.meincupcake.de/cake-pops-mit-glitzerndem-dekorzucker/"
+        },
+        {
+          "url": "http://www.kabegamipon.com/index.php?text=newyork&page=5&photoType=landscape"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm3.staticflickr.com/2901/14134372024_f7cae3649a_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/1/589/32816436351_32fedb795c.jpg"
+        },
+        {
+          "url": "http://blog.meincupcake.de/wp-content/uploads/2016/08/14134372024_f7cae3649a.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2901/14134372024_f7cae3649a_m.jpg"
+        },
+        {
+          "url": "http://blog.meincupcake.de/wp-content/uploads/2016/08/14134372024_f7cae3649a-150x150.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Tunnel View",
+          "entityId": "/m/0fkfjs",
+          "score": 1.4575999975204468
+        },
+        {
+          "description": "Cake pop",
+          "entityId": "/m/0j3fw65",
+          "score": 0.887499988079071
+        },
+        {
+          "description": "Race Point Light",
+          "entityId": "/m/02phh32",
+          "score": 0.7608000040054321
+        },
+        {
+          "description": "Cake",
+          "entityId": "/m/0fszt",
+          "score": 0.7039999961853027
+        },
+        {
+          "description": "Cupcake",
+          "entityId": "/m/03p1r4",
+          "score": 0.5645999908447266
+        },
+        {
+          "description": "Sprinkles",
+          "entityId": "/m/036knn",
+          "score": 0.44448280334472656
+        },
+        {
+          "description": "Baking",
+          "entityId": "/m/0dv34",
+          "score": 0.29438847303390503
+        },
+        {
+          "description": "Chocolate",
+          "entityId": "/m/020vl",
+          "score": 0.28572431206703186
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.2818000018596649
+        },
+        {
+          "description": "Sweetness",
+          "entityId": "/m/05wgwh",
+          "score": 0.27666500210762024
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2901/14134372024_f7cae3649a.jpg"
+}

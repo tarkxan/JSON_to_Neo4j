@@ -1,0 +1,81 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "wood",
+        "mid": "/m/083vt",
+        "score": 0.6948797106742859
+      },
+      {
+        "description": "line",
+        "mid": "/m/03scnj",
+        "score": 0.6684017777442932
+      },
+      {
+        "description": "design",
+        "mid": "/m/02cwm",
+        "score": 0.6521470546722412
+      },
+      {
+        "description": "square",
+        "mid": "/m/030jx3",
+        "score": 0.5944181084632874
+      },
+      {
+        "description": "pattern",
+        "mid": "/m/0hwky",
+        "score": 0.5785642862319946
+      },
+      {
+        "description": "angle",
+        "mid": "/m/0mwc",
+        "score": 0.5741197466850281
+      },
+      {
+        "description": "stock photography",
+        "mid": "/m/036jvk",
+        "score": 0.5407017469406128
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Stock photography",
+          "entityId": "/m/036jvk",
+          "score": 0.8883058428764343
+        },
+        {
+          "description": "Wood",
+          "entityId": "/m/083vt",
+          "score": 0.8618022203445435
+        },
+        {
+          "description": "Angle",
+          "entityId": "/m/0mwc",
+          "score": 0.8402090072631836
+        },
+        {
+          "description": "Pattern",
+          "entityId": "/m/0hwky",
+          "score": 0.50528484582901
+        },
+        {
+          "description": "Brown",
+          "entityId": "/m/09q2t",
+          "score": 0.46656301617622375
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3873000144958496
+        },
+        {
+          "description": "stock.xchng",
+          "entityId": "/m/03zfrv",
+          "score": 0.3603000044822693
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8373/8370709360_185971685c.jpg"
+}

@@ -1,0 +1,228 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9828534722328186
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9695289134979248
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9554528594017029
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9488499164581299
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9399028420448303
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9365615248680115
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9339874982833862
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.932262122631073
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.8861306309700012
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.871374785900116
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Empire State Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748508,
+              "longitude": -73.985495
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.8809633255004883
+      },
+      {
+        "description": "Empire State Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.752922,
+              "longitude": -73.987341
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.8801425695419312
+      },
+      {
+        "description": "Empire State Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.749305,
+              "longitude": -73.985688
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.8279223442077637
+      },
+      {
+        "description": "Empire State Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.749013,
+              "longitude": -73.98821
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.6974777579307556
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://farm5.static.flickr.com/4091/5092088834_6dd783676f.jpg"
+        },
+        {
+          "url": "https://ind5.ccio.co/FE/p6/D5/tumblrnfp46dtp7z1u4yptgo11280.jpg?iw=300"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://trapperhaskins.com/script-/2016/4/29/8t0dgli2b7svqgyvahovzzb1a6lom2"
+        },
+        {
+          "url": "https://medium.com/@TrapperHaskins/jumper-2e9e9ff8385a"
+        },
+        {
+          "url": "https://www.flickr.com/photos/danielmennerich/5205390702"
+        },
+        {
+          "url": "https://indulgy.com/post/nGdsQo4VJ2/george-rodger-new-york-city-the-empire-stat"
+        },
+        {
+          "url": "https://indulgy.com/post/9oS6UVpli2/empire-state-building-at-night-new-york-city"
+        },
+        {
+          "url": "http://www.flickriver.com/places/United+States/Maryland/Gaithersburg/Observatory+Heights/search/"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625323790968/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/danielmennerich/page48/"
+        },
+        {
+          "url": "http://www.pictopic.net/topic/empire-state_building"
+        },
+        {
+          "url": "http://nayruscatwalk.blogspot.com/2013/02/diario-de-nueva-york-day-6-tiendas.html"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://cdn-images-1.medium.com/max/1200/1*ULOqoPVeG1z8crqPsRPHQA.jpeg"
+        },
+        {
+          "url": "https://static1.squarespace.com/static/510d51bce4b0ea3dec501c1e/t/57235d9437013b4a8066aad2/1461935516096/"
+        },
+        {
+          "url": "https://static1.squarespace.com/static/510d51bce4b0ea3dec501c1e/t/57235d9437013b4a8066aad2/1461935516096/?format=500w"
+        },
+        {
+          "url": "http://3.bp.blogspot.com/-GldnDiWr_Uw/UI0jR10M1PI/AAAAAAAABw4/n-p9H3KWUHs/s640/nyd22+%252825%2529.jpg"
+        },
+        {
+          "url": "http://farm5.static.flickr.com/4128/5205390702_084bf0ae4e.jpg"
+        },
+        {
+          "url": "http://farm5.static.flickr.com/4091/5092088834_6dd783676f.jpg"
+        },
+        {
+          "url": "https://ind5.ccio.co/FE/p6/D5/tumblrnfp46dtp7z1u4yptgo11280.jpg?iw=300"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 56.940799713134766
+        },
+        {
+          "description": "34th Street",
+          "entityId": "/m/05lrmx",
+          "score": 6.179200172424316
+        },
+        {
+          "description": "86th Street",
+          "entityId": "/m/09hqw7",
+          "score": 1.555999994277954
+        },
+        {
+          "description": "Window",
+          "entityId": "/m/0d4v4",
+          "score": 0.4115985035896301
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.31839999556541443
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.31716835498809814
+        },
+        {
+          "description": "Observation deck",
+          "entityId": "/m/02wv839",
+          "score": 0.3028999865055084
+        },
+        {
+          "description": "Tower",
+          "entityId": "/m/01fdzj",
+          "score": 0.2767263650894165
+        },
+        {
+          "description": "Floor",
+          "entityId": "/m/0l7_8",
+          "score": 0.2549999952316284
+        },
+        {
+          "description": "Tower block",
+          "entityId": "/m/0vlys",
+          "score": 0.24455544352531433
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4091/5092088834_6dd783676f.jpg"
+}

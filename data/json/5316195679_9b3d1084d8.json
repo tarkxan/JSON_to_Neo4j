@@ -1,0 +1,124 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9736397862434387
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9622859954833984
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9479830861091614
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9369193315505981
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9328076839447021
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9255290031433105
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9232449531555176
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8822435140609741
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.8516784906387329
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8113905787467957
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://farm6.static.flickr.com/5081/5316195679_9b3d1084d8.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625323790968/"
+        },
+        {
+          "url": "http://www.pinsdaddy.com/west-32nd_jE99L4VyHrOr1qYmCnyHHYd2x1WXW*5BZRKah5lrr1c/"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 44.4031982421875
+        },
+        {
+          "description": "Koreatown",
+          "entityId": "/m/018yy7",
+          "score": 20.947200775146484
+        },
+        {
+          "description": "John F. Kennedy International Airport",
+          "entityId": "/m/0p1l2",
+          "score": 4.462399959564209
+        },
+        {
+          "description": "Jamaica",
+          "entityId": "/m/01sn04",
+          "score": 4.131199836730957
+        },
+        {
+          "description": "West 32nd Street",
+          "entityId": "/g/1td2_cj9",
+          "score": 2.9863998889923096
+        },
+        {
+          "description": "Pierrepont Street",
+          "entityId": "/g/1tkl4733",
+          "score": 0.8324000239372253
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.28230804204940796
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.28154999017715454
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.25132834911346436
+        },
+        {
+          "description": "Delta Air Lines",
+          "entityId": "/m/0k9ts",
+          "score": 0.25099998712539673
+        }
+      ]
+    }
+  },
+  "url": "https://farm6.staticflickr.com/5081/5316195679_9b3d1084d8.jpg"
+}

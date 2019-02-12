@@ -1,0 +1,200 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.987727701663971
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9841559529304504
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9830898642539978
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9830244183540344
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9782150387763977
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9768540263175964
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9643247723579407
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9519797563552856
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9378929138183594
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.9204301834106445
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://escapehouston.com/wp-content/uploads/2015/07/New-York-4-e1438204711934.jpg"
+        },
+        {
+          "url": "https://myfrenchcity.com/wp-content/uploads/2015/08/NYC.jpg"
+        },
+        {
+          "url": "https://dopesontheroad.com/wp-content/uploads/2015/02/New-York-Main-Image.jpg"
+        },
+        {
+          "url": "https://i0.wp.com/dopesontheroad.com/wp-content/uploads/2015/02/New-York-Main-Image.jpg?resize=640%2C427&ssl=1"
+        },
+        {
+          "url": "http://cdnassets.hw.net/dims4/GG/1af6801/2147483647/resize/876x%3E/quality/90/?url=http%3A%2F%2Fcdnassets.hw.net%2Fde%2F1a%2F40ce7f294fb9be56d086716d979f%2F14818589943-5f207ea855-z.jpg"
+        },
+        {
+          "url": "http://cdnassets.hw.net/de/1a/40ce7f294fb9be56d086716d979f/14818589943-5f207ea855-z.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/CiqDg0BWgAEDnDv.jpg"
+        },
+        {
+          "url": "http://www.tralev.com/image?id=216422&displayWidth=480"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://ny.curbed.com/nyc-market-reports"
+        },
+        {
+          "url": "http://mashable.com/2015/03/21/new-york-city-apps-2/"
+        },
+        {
+          "url": "https://dopesontheroad.com/travel/7-best-bougie-boozy-brunches-in-nyc/"
+        },
+        {
+          "url": "https://ny.curbed.com/2017/5/25/15693092/nyc-most-affordable-neighborhoods-college-graduates"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/318489004873931866/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/tashinaferguson/nyc-things-to-do/"
+        },
+        {
+          "url": "http://mashable.com/2014/04/16/video-games-new-york/"
+        },
+        {
+          "url": "https://escapeatx.com/"
+        },
+        {
+          "url": "https://dopesontheroad.com/travel/lesbian-travel-guide-new-york-city/"
+        },
+        {
+          "url": "https://cheapdfw.com/cheap-flight-dallas-new-york-3/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://wallpapers-images.ru/2560x1600/skyscrapers/wallpapers/skyscrapers-images-2560x1600-9.jpg"
+        },
+        {
+          "url": "https://odysseyonline-img.rbl.ms/simage/https%3A%2F%2Faz616578.vo.msecnd.net%2Ffiles%2F2016%2F03%2F12%2F6359334824839942861929344947_nyc.jpg/2000%2C2000/qdaTyLzb4WhtusKU/img.jpg"
+        },
+        {
+          "url": "http://wallpapers-images.ru/1920x1080/skyscrapers/wallpapers/skyscrapers-images-1920x1080-9.jpg"
+        },
+        {
+          "url": "http://nswd.ir/uploads/template/empror/images/slides3.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ZFY9nPCs1v6YhpEHDqB6AuBk-_k=/616x0:4308x2769/1400x1050/cdn.vox-cdn.com/uploads/chorus_image/image/53790809/9108473536_d7ab99bc8a_o.0.jpg"
+        },
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kgU4s2VoA6xfCbTQQx7wlcil0NA=/616x0:4308x2769/1400x1050/cdn.vox-cdn.com/uploads/chorus_image/image/53304903/9108473536_d7ab99bc8a_o.0.jpg"
+        },
+        {
+          "url": "https://i.amz.mshcdn.com/_SA8Ccnhx8ttYa33KLeW0U_oBWY=/1438x0/2015%2F03%2F22%2Fcd%2F14818589943.6d90a.jpg"
+        },
+        {
+          "url": "http://neoyorkinos.com/wp-content/uploads/2015/12/pierson2.jpg"
+        },
+        {
+          "url": "http://wallpapers-image.ru/1366x768/skyscrapers/wallpapers/skyscrapers-images-1366x768-9.jpg"
+        },
+        {
+          "url": "https://ds1.static.rtbf.be/article/image/1248x702/1/2/9/859bf1416b8b8761c5d588dee78dc65f-1487142838.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 48.61439895629883
+        },
+        {
+          "description": "Manhattan",
+          "entityId": "/m/0cc56",
+          "score": 1.6038401126861572
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.4740621745586395
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.3822999894618988
+        },
+        {
+          "entityId": "/g/11b77d6b6d",
+          "score": 0.3400999903678894
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.33090001344680786
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.27869197726249695
+        },
+        {
+          "description": "Wallpaper",
+          "entityId": "/m/01lnt7",
+          "score": 0.27149999141693115
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.2667999863624573
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.26332277059555054
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3890/14818589943_5f207ea855.jpg"
+}

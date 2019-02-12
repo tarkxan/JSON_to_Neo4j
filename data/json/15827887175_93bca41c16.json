@@ -1,0 +1,123 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "red",
+        "mid": "/m/06fvc",
+        "score": 0.9525041580200195
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9365555644035339
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9300896525382996
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.8481001257896423
+      },
+      {
+        "description": "brick",
+        "mid": "/m/01g0g",
+        "score": 0.8344296216964722
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8319985866546631
+      },
+      {
+        "description": "brickwork",
+        "mid": "/m/01__sk",
+        "score": 0.756672203540802
+      },
+      {
+        "description": "facade",
+        "mid": "/m/01x314",
+        "score": 0.7456668019294739
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.7197750210762024
+      },
+      {
+        "description": "window",
+        "mid": "/m/0d4v4",
+        "score": 0.6334161758422852
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://tw.dictionary.yahoo.com/dictionary?p=commercialisation"
+        },
+        {
+          "url": "https://tw.dictionary.yahoo.com/dictionary?p=commercialization"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://l.yimg.com/fz/api/res/1.2/1DYjT_jAG3RNcF5XshtyhA--/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0xNDc7cHhvZmY9MDtweW9mZj0wO3E9OTU7dz0xNDc-/https://farm9.staticflickr.com/8620/15827887175_93bca41c16_q.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Greenwich Village",
+          "entityId": "/m/03dm7",
+          "score": 47.372798919677734
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.7233999967575073
+        },
+        {
+          "description": "Commercialization",
+          "entityId": "/m/025v1q4",
+          "score": 0.4214000105857849
+        },
+        {
+          "entityId": "/g/155r2mjj",
+          "score": 0.40610000491142273
+        },
+        {
+          "description": "Metropolis",
+          "entityId": "/m/056mk",
+          "score": 0.39631718397140503
+        },
+        {
+          "description": "Facade",
+          "entityId": "/m/01x314",
+          "score": 0.3773098289966583
+        },
+        {
+          "description": "Character dictionary",
+          "entityId": "/g/1216fq1w",
+          "score": 0.36809998750686646
+        },
+        {
+          "description": "Yahoo!",
+          "entityId": "/m/019rl6",
+          "score": 0.3589000105857849
+        },
+        {
+          "description": "Alley",
+          "entityId": "/m/01lwf0",
+          "score": 0.31617096066474915
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.28267353773117065
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8620/15827887175_93bca41c16.jpg"
+}

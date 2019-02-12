@@ -1,0 +1,130 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "light",
+        "mid": "/m/04k84",
+        "score": 0.8637533783912659
+      },
+      {
+        "description": "lighting",
+        "mid": "/m/019sc6",
+        "score": 0.8452730774879456
+      },
+      {
+        "description": "night",
+        "mid": "/m/01d74z",
+        "score": 0.8327131867408752
+      },
+      {
+        "description": "darkness",
+        "mid": "/m/01kyr8",
+        "score": 0.7215913534164429
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.6240963339805603
+      },
+      {
+        "description": "computer wallpaper",
+        "mid": "/m/03w43x",
+        "score": 0.5922852158546448
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://secure.meetupstatic.com/photos/theme_body/e/4/f/6/full_6778614.jpeg"
+        },
+        {
+          "url": "https://secure.meetupstatic.com/photos/theme_body/e/4/f/6/preview_6778614.jpeg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.meetup.com/tokyojazz/"
+        },
+        {
+          "url": "https://www.meetup.com/tokyojazz/members/166484622/"
+        },
+        {
+          "url": "https://www.meetup.com/tokyojazz/members/200977387/"
+        },
+        {
+          "url": "http://www.meetup.com/es/tokyojazz/members/156441832/"
+        },
+        {
+          "url": "https://www.meetup.com/ja-JP/tokyojazz/events/222547485/"
+        },
+        {
+          "url": "https://www.meetup.com/ja-JP/tokyojazz/"
+        },
+        {
+          "url": "https://www.meetup.com/ja-JP/tokyojazz/members/65328462/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://secure.meetupstatic.com/photos/theme_body/e/4/f/6/full_6778614.jpeg"
+        },
+        {
+          "url": "https://secure.meetupstatic.com/photos/theme_body/e/4/f/6/preview_6778614.jpeg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "HUB Asakusa shop",
+          "entityId": "/g/1tdg7s_q",
+          "score": 3.003200054168701
+        },
+        {
+          "description": "Tokyo Jazz Music School",
+          "entityId": "/g/1tj2b_6q",
+          "score": 1.590399980545044
+        },
+        {
+          "description": "Jazz",
+          "entityId": "/m/03_d0",
+          "score": 0.776199996471405
+        },
+        {
+          "description": "Enjoy Jazz",
+          "entityId": "/m/0h678rp",
+          "score": 0.5577999949455261
+        },
+        {
+          "description": "Meetup",
+          "entityId": "/m/01f30p",
+          "score": 0.37770000100135803
+        },
+        {
+          "description": "Dixieland",
+          "entityId": "/m/09xw2",
+          "score": 0.367900013923645
+        },
+        {
+          "description": "Music",
+          "entityId": "/m/04rlf",
+          "score": 0.30160000920295715
+        },
+        {
+          "description": "Wallpaper",
+          "entityId": "/m/03w43x",
+          "score": 0.2173968106508255
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.2098420113325119
+        },
+        {
+          "description": "Refrain",
+          "entityId": "/m/01v20b",
+          "score": 0.1988999992609024
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4093/4913787874_0004608b36.jpg"
+}

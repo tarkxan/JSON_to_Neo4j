@@ -1,0 +1,211 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9852047562599182
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9842945337295532
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9770599007606506
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9724515676498413
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9719361662864685
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9470604062080383
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9065203666687012
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8675517439842224
+      },
+      {
+        "description": "dusk",
+        "mid": "/m/01b3l7",
+        "score": 0.8465644121170044
+      },
+      {
+        "description": "bird's eye view",
+        "mid": "/m/08863x",
+        "score": 0.834183931350708
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.763552188873291
+      },
+      {
+        "description": "Statue of Liberty",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748712,
+              "longitude": -73.985731
+            }
+          }
+        ],
+        "mid": "/g/1_lxbf9m",
+        "score": 0.6158823370933533
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://www.actualitix.com/wp-content/uploads/2016/12/new-york-decouverte.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4081/5443157673_9854560f3b_b.jpg"
+        },
+        {
+          "url": "http://www.abroad.ru/upload/medialibrary/05f/05ff9bef5fde16d5a5c36182b6d578dc.jpg"
+        },
+        {
+          "url": "https://orizzontiblog.it/wp-content/uploads/2013/07/5443157673_9854560f3b_z.jpg"
+        },
+        {
+          "url": "http://farm5.static.flickr.com/4081/5443157673_9854560f3b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/danielmennerich/5443157673"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625323790968/"
+        },
+        {
+          "url": "http://36photos.org/fi/shots%2520empire%2520state%2520building"
+        },
+        {
+          "url": "https://www.flickr.com/photos/cliff_r/favorites/page14"
+        },
+        {
+          "url": "http://picssr.com/photos/danielmennerich/interesting/page12?nsid=29858421@N04"
+        },
+        {
+          "url": "https://lauraslittlethings.com/tag/families/"
+        },
+        {
+          "url": "https://lauraslittlethings.com/tag/walking/"
+        },
+        {
+          "url": "https://orizzontiblog.it/2013/07/28/cosa-non-fare-a-new-york/"
+        },
+        {
+          "url": "https://www.actualitix.com/villes-les-plus-visitees-au-monde.html"
+        },
+        {
+          "url": "http://www.abroad.ru/reference/ref_advice/new-york.php"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://www.vojagado.fr/fichiers/2016/05/quiz-manhattan.jpg"
+        },
+        {
+          "url": "https://i0.wp.com/lauraslittlethings.files.wordpress.com/2013/10/the-tip-of-manhattan.jpg?w=265&ssl=1"
+        },
+        {
+          "url": "https://www.actualitix.com/wp-content/uploads/2016/12/new-york-decouverte.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4081/5443157673_9854560f3b_b.jpg"
+        },
+        {
+          "url": "http://www.abroad.ru/upload/medialibrary/05f/05ff9bef5fde16d5a5c36182b6d578dc.jpg"
+        },
+        {
+          "url": "https://orizzontiblog.it/wp-content/uploads/2013/07/5443157673_9854560f3b_z.jpg"
+        },
+        {
+          "url": "http://farm5.static.flickr.com/4081/5443157673_9854560f3b.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Statue of Liberty",
+          "entityId": "/m/072p8",
+          "score": 40.691200256347656
+        },
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 13.715200424194336
+        },
+        {
+          "description": "Central Railroad of New Jersey Terminal",
+          "entityId": "/m/06_2k88",
+          "score": 5.132800102233887
+        },
+        {
+          "description": "York",
+          "entityId": "/m/0tt55",
+          "score": 1.3056000471115112
+        },
+        {
+          "description": "Statue of Liberty Ellis Island",
+          "entityId": "/g/1263lyvhg",
+          "score": 1.2288000583648682
+        },
+        {
+          "description": "JFK AIRPORT",
+          "entityId": "/g/11fyzdqn94",
+          "score": 0.7125999927520752
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3790000081062317
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.33250001072883606
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.28407052159309387
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.2770000100135803
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4081/5443157673_9854560f3b.jpg"
+}

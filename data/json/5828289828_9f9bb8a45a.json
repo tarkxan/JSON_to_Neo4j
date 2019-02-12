@@ -1,0 +1,195 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.9771296381950378
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9282958507537842
+      },
+      {
+        "description": "cloud",
+        "mid": "/m/0csby",
+        "score": 0.9114286303520203
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9056226015090942
+      },
+      {
+        "description": "fixed link",
+        "mid": "/m/051gs3",
+        "score": 0.8213838934898376
+      },
+      {
+        "description": "suspension bridge",
+        "mid": "/m/0csy8",
+        "score": 0.8070340752601624
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.8014181852340698
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.6938865184783936
+      },
+      {
+        "description": "girder bridge",
+        "mid": "/m/0d0h0h",
+        "score": 0.6645801067352295
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.6357392072677612
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Manhattan Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.704343,
+              "longitude": -73.990439
+            }
+          }
+        ],
+        "mid": "/m/02217f",
+        "score": 0.6802539825439453
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/4/3394/5828289828_9f9bb8a45a_b.jpg"
+        },
+        {
+          "url": "https://image.slidesharecdn.com/indusrialrevolutionbyclass11student-170212070846/95/indusrial-revolution-by-class-11-student-10-638.jpg?cb=1486883381"
+        },
+        {
+          "url": "http://farm4.static.flickr.com/3394/5828289828_9f9bb8a45a.jpg"
+        },
+        {
+          "url": "http://nevseoboi.com.ua/uploads/posts/2011-08/thumbs/1314037479_nevseoboi.com.ua_hdr-pic-30.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/danielmennerich/5828289828"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/Leon%20Moisseiff/"
+        },
+        {
+          "url": "http://www.travelwitharchie.com/destinations-usa-nyc-10-reasons-love-new-york/"
+        },
+        {
+          "url": "http://www.flickriver.com/places/United%20States/Arizona/Phoenix/Skyline%20Heights/search/"
+        },
+        {
+          "url": "http://picssr.com/photos/dufour35/favorites/page90"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/danielmennerich/sets/72157625323790968/"
+        },
+        {
+          "url": "https://www.slideshare.net/ArunSaran1/indusrial-revolution-by-class-11-student"
+        },
+        {
+          "url": "https://wall.alphacoders.com/by_sub_category.php?id=118366&name=HDR+Wallpapers&filter=4K+Ultra+HD&page=3"
+        },
+        {
+          "url": "https://wall.alphacoders.com/by_sub_category.php?id=118366&name=HDR+Wallpapers&page=34"
+        },
+        {
+          "url": "http://pictures-and-images.net/content/manhattan-bridge-awesome-widescreen.html"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://i2.wp.com/www.travelwitharchie.com/wp-content/uploads/2016/04/Manhattan-Bridge-New-York-City-Manhattan-Bridge.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3394/5828289828_9f9bb8a45a_b.jpg"
+        },
+        {
+          "url": "https://image.slidesharecdn.com/indusrialrevolutionbyclass11student-170212070846/95/indusrial-revolution-by-class-11-student-10-638.jpg?cb=1486883381"
+        },
+        {
+          "url": "http://farm4.static.flickr.com/3394/5828289828_9f9bb8a45a.jpg"
+        },
+        {
+          "url": "http://nevseoboi.com.ua/uploads/posts/2011-08/thumbs/1314037479_nevseoboi.com.ua_hdr-pic-30.jpg"
+        },
+        {
+          "url": "https://images3.alphacoders.com/158/thumb-350-158249.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3394/5828289828_9f9bb8a45a_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Manhattan Bridge",
+          "entityId": "/m/02217f",
+          "score": 62.2848014831543
+        },
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 44.902400970458984
+        },
+        {
+          "description": "Daniel",
+          "entityId": "/m/0py0rrc",
+          "score": 8.51200008392334
+        },
+        {
+          "description": "Brooklyn Bridge Park",
+          "entityId": "/m/0265hxz",
+          "score": 5.078400135040283
+        },
+        {
+          "description": "I Love New York City Corporation",
+          "entityId": "/g/1261ry31z",
+          "score": 1.131600022315979
+        },
+        {
+          "description": "Manhattan Bridge",
+          "entityId": "/g/1tj92gj2",
+          "score": 0.7581999897956848
+        },
+        {
+          "description": "Bridge\u2013tunnel",
+          "entityId": "/m/051gs3",
+          "score": 0.5437253713607788
+        },
+        {
+          "description": "Bridge",
+          "entityId": "/m/015kr",
+          "score": 0.37959998846054077
+        },
+        {
+          "description": "Suspension bridge",
+          "entityId": "/m/0csy8",
+          "score": 0.3242851793766022
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.314300000667572
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3394/5828289828_9f9bb8a45a.jpg"
+}

@@ -1,0 +1,122 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.9238502979278564
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.8791289329528809
+      },
+      {
+        "description": "water transportation",
+        "mid": "/m/08rrcl",
+        "score": 0.8393715620040894
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.8172634840011597
+      },
+      {
+        "description": "suspension bridge",
+        "mid": "/m/0csy8",
+        "score": 0.7731362581253052
+      },
+      {
+        "description": "river",
+        "mid": "/m/06cnp",
+        "score": 0.763939619064331
+      },
+      {
+        "description": "fixed link",
+        "mid": "/m/051gs3",
+        "score": 0.7037311792373657
+      },
+      {
+        "description": "panorama",
+        "mid": "/m/017rtb",
+        "score": 0.6780827045440674
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.6558516025543213
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://theculturetrip.com/north-america/usa/new-york/articles/5-things-to-see-and-do-in-bay-ridge-brooklyn/"
+        },
+        {
+          "url": "https://magazine.darioflaccovio.it/2017/05/31/ponte-di-brooklyn-roebling/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://magazine.darioflaccovio.it/wp-content/uploads/2017/05/ponte-di-brooklyn-roebling1.jpg"
+        },
+        {
+          "url": "https://cdn.theculturetrip.com/wp-content/uploads/2015/08/12640493983_000f300197_k-650x189.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Bay Ridge",
+          "entityId": "/m/01wgvb",
+          "score": 23.334400177001953
+        },
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 22.639999389648438
+        },
+        {
+          "description": "Water transportation",
+          "entityId": "/m/08rrcl",
+          "score": 0.7299866676330566
+        },
+        {
+          "description": "Bridge\u2013tunnel",
+          "entityId": "/m/051gs3",
+          "score": 0.6811319589614868
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.5963923931121826
+        },
+        {
+          "description": "Suspension bridge",
+          "entityId": "/m/0csy8",
+          "score": 0.5583797693252563
+        },
+        {
+          "description": "Bridge",
+          "entityId": "/m/015kr",
+          "score": 0.37529999017715454
+        },
+        {
+          "description": "Restaurant",
+          "entityId": "/m/06l8d",
+          "score": 0.2687000036239624
+        },
+        {
+          "description": "Culture",
+          "entityId": "/m/01ws5",
+          "score": 0.2628999948501587
+        },
+        {
+          "description": "Historic site",
+          "entityId": "/m/07yr8h",
+          "score": 0.2110999971628189
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3667/12640493983_c82eb338c3.jpg"
+}

@@ -1,0 +1,175 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9476407170295715
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9368408918380737
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9195869565010071
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9058197736740112
+      },
+      {
+        "description": "structure",
+        "mid": "/m/0n68_",
+        "score": 0.8837927579879761
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8570945262908936
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.8501873016357422
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.8439715504646301
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.825147271156311
+      },
+      {
+        "description": "symmetry",
+        "mid": "/m/0f28m",
+        "score": 0.7914382815361023
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://www.skyscrapercity.com/showthread.php?t=56090&page=48"
+        },
+        {
+          "url": "https://www.timeout.com/newyork/things-to-do/check-out-stunning-photos-of-nycs-buildings-from-the-ground-up"
+        },
+        {
+          "url": "http://www.skyscrapercity.com/showthread.php?p=58458981"
+        },
+        {
+          "url": "http://www.desktopimages.org/wallpaper/223881/wtc-world-trade-center-skyscraper-city-cities-building-new-york"
+        },
+        {
+          "url": "http://www.desktop-background.com/wallpaper/world-trade-center-wallpaper-1029319"
+        },
+        {
+          "url": "https://dontletitgo.com/tag/reason/"
+        },
+        {
+          "url": "https://dontletitgo.com/tag/vigilante-censorship/"
+        },
+        {
+          "url": "https://www.flickr.com/people/agonoretzky/"
+        },
+        {
+          "url": "http://www.hdfondos.eu/imagen/223881/wtc-world-trade-center-ciudades-de-rascacielos-de-la-ciudad-de-nueva-york-edificio"
+        },
+        {
+          "url": "http://www.hdfondos.eu/preview/223881/1920/1080/o"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://www.desktop-background.com/download/1400x1050/2015/10/20/1029319_world-trade-center-wallpaper_1920x1080_h.jpg"
+        },
+        {
+          "url": "https://media.timeout.com/images/102777717/image.jpg"
+        },
+        {
+          "url": "http://www.desktop-background.com/download/1152x864/2015/10/20/1029319_world-trade-center-wallpaper_1920x1080_h.jpg"
+        },
+        {
+          "url": "http://www.desktop-background.com/download/1024x768/2015/10/20/1029319_world-trade-center-wallpaper_1920x1080_h.jpg"
+        },
+        {
+          "url": "http://www.desktop-background.com/download/800x600/2015/10/20/1029319_world-trade-center-wallpaper_1920x1080_h.jpg"
+        },
+        {
+          "url": "http://www.willemijnstraeter.nl/fotos/wp-content/uploads/2015/09/TwinTowers.jpg"
+        },
+        {
+          "url": "http://www.hdfondos.eu/pictures/2014/0809/1/wtc-world-trade-center-skyscraper-city-cities-building-new-york-wallpaper-223881.jpg"
+        },
+        {
+          "url": "http://farm1.static.flickr.com/54/130180448_6abfdb18f5_o_d.jpg"
+        },
+        {
+          "url": "https://media.timeout.com/images/102777717/630/472/image.jpg"
+        },
+        {
+          "url": "https://apeikoff.files.wordpress.com/2017/09/wtc-by-michael-brown.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 23.609600067138672
+        },
+        {
+          "description": "World Trade Center",
+          "entityId": "/m/083_h",
+          "score": 1.2120000123977661
+        },
+        {
+          "description": "World Trade Center",
+          "entityId": "/g/11c3x0q29g",
+          "score": 0.5508000254631042
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.48005586862564087
+        },
+        {
+          "description": "Bridge\u2013tunnel",
+          "entityId": "/m/051gs3",
+          "score": 0.4179384708404541
+        },
+        {
+          "description": "Wallpaper",
+          "entityId": "/m/03w43x",
+          "score": 0.391400009393692
+        },
+        {
+          "description": "World Trade Center site",
+          "entityId": "/m/0hpjf",
+          "score": 0.30768001079559326
+        },
+        {
+          "description": "SkyscraperCity",
+          "entityId": "/g/120yrcdk",
+          "score": 0.3059000074863434
+        },
+        {
+          "description": "Tower",
+          "entityId": "/m/01fdzj",
+          "score": 0.30477550625801086
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.289900004863739
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8657/16406546840_2f521a85e9.jpg"
+}

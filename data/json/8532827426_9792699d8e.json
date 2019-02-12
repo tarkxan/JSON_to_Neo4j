@@ -1,0 +1,130 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "bicycle",
+        "mid": "/m/0199g",
+        "score": 0.9866188168525696
+      },
+      {
+        "description": "road bicycle",
+        "mid": "/m/09rgp",
+        "score": 0.9788023233413696
+      },
+      {
+        "description": "land vehicle",
+        "mid": "/m/01prls",
+        "score": 0.9748256206512451
+      },
+      {
+        "description": "blue",
+        "mid": "/m/01g5v",
+        "score": 0.9683334827423096
+      },
+      {
+        "description": "bicycle wheel",
+        "mid": "/m/01bqk0",
+        "score": 0.9249399304389954
+      },
+      {
+        "description": "bicycle frame",
+        "mid": "/m/01bqgn",
+        "score": 0.875573456287384
+      },
+      {
+        "description": "mode of transport",
+        "mid": "/m/079bkr",
+        "score": 0.8750916719436646
+      },
+      {
+        "description": "racing bicycle",
+        "mid": "/m/03hrb5",
+        "score": 0.8352677226066589
+      },
+      {
+        "description": "snapshot",
+        "mid": "/m/06pg22",
+        "score": 0.8176745176315308
+      },
+      {
+        "description": "hybrid bicycle",
+        "mid": "/m/03p2h9",
+        "score": 0.808724045753479
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.pinterest.com/NYAndreas/new-york-city-photos-my-perspective/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/NYAndreas/new-york-city-photos-my-perspective/"
+        },
+        {
+          "url": "https://www.pinterest.ie/NYAndreas/new-york-city-photos-my-perspective/"
+        },
+        {
+          "url": "https://www.pinterest.com/stephwisker/street-art/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://i.pinimg.com/736x/32/d4/f1/32d4f1685ffeec620a11aaf0cd161cde--perspective-york.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "New York City",
+          "entityId": "/m/02_286",
+          "score": 1.3264000415802002
+        },
+        {
+          "description": "Bicycle wheel",
+          "entityId": "/m/01bqk0",
+          "score": 1.2034822702407837
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.8840000033378601
+        },
+        {
+          "description": "Hybrid bicycle",
+          "entityId": "/m/03p2h9",
+          "score": 0.6189858913421631
+        },
+        {
+          "description": "Bicycle frame",
+          "entityId": "/m/01bqgn",
+          "score": 0.5699831247329712
+        },
+        {
+          "description": "Road bicycle",
+          "entityId": "/m/09rgp",
+          "score": 0.5296021699905396
+        },
+        {
+          "description": "Cyclo-cross bicycle",
+          "entityId": "/m/03hs6w",
+          "score": 0.5152061581611633
+        },
+        {
+          "description": "Racing bicycle",
+          "entityId": "/m/03hrb5",
+          "score": 0.5055953860282898
+        },
+        {
+          "description": "Mountain bike",
+          "entityId": "/m/0_mjp",
+          "score": 0.4075649678707123
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3896999955177307
+        }
+      ]
+    }
+  },
+  "url": "https://farm9.staticflickr.com/8228/8532827426_9792699d8e.jpg"
+}
