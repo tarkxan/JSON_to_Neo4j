@@ -1,0 +1,204 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "black",
+        "mid": "/m/019sc",
+        "score": 0.9501047134399414
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9478384256362915
+      },
+      {
+        "description": "black and white",
+        "mid": "/m/01g6gs",
+        "score": 0.9462522268295288
+      },
+      {
+        "description": "monochrome photography",
+        "mid": "/m/03d49p1",
+        "score": 0.9168473482131958
+      },
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.9077485799789429
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.8909562826156616
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.879467785358429
+      },
+      {
+        "description": "structure",
+        "mid": "/m/0n68_",
+        "score": 0.8538748025894165
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8340460658073425
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8183760046958923
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Brooklyn Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.705726,
+              "longitude": -73.996953
+            }
+          }
+        ],
+        "mid": "/m/0cv4c",
+        "score": 0.559610903263092
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm9.static.flickr.com/8261/8703720510_8819554f8a_b.jpg"
+        },
+        {
+          "url": "http://farm4.static.flickr.com/3725/33062489846_e6c505493d.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3725/33062489846_e6c505493d_n.jpg"
+        },
+        {
+          "url": "https://farm4.static.flickr.com/3725/33062489846_e6c505493d_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.pinterest.com/pin/209769295116123126/"
+        },
+        {
+          "url": "https://www.tourbytransit.com/newyorkcity/things-to-do/brooklyn_bridge"
+        },
+        {
+          "url": "http://www.thefashionspot.com/fashion-news/17947-brooklyn-bridge-runway-show/"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/235313149254031798/"
+        },
+        {
+          "url": "https://usadultliteracy.wordpress.com/2013/06/07/nyc-summer-hot-spots-2/"
+        },
+        {
+          "url": "https://usadultliteracy.wordpress.com/2013/06/page/2/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/vancesgirl/nyc-shower/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/personalcrates/personalized-crates-for-her/"
+        },
+        {
+          "url": "https://hiveminer.com/User/=FloKitO=%2057"
+        },
+        {
+          "url": "http://www.pinsdaddy.com/black-and-white-bridge-brookyng_oaKdL8ED%7CTkzML*glv6sJy4PVKru*s6SapmIOhYwrLg/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://scontent-cdt1-1.cdninstagram.com/t51.2885-15/e35/16229157_1262612620499758_3116944911593635840_n.jpg"
+        },
+        {
+          "url": "https://img1.etsystatic.com/035/0/9079327/il_570xN.563741621_fjg8.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/10/e0/49/10e04992092ce806302baa44687b21fd--black-and-white-posters-black-white.jpg"
+        },
+        {
+          "url": "http://2.bp.blogspot.com/-hjHkUie5BGo/Tsej9u6C18I/AAAAAAAAMOI/-Pj3_6v61gU/s640/Andreas%2BFeininger%2B-%2BBrooklyn%2527s%2BBridge.jpg"
+        },
+        {
+          "url": "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/20066667_1894093397582462_8859244928543227904_n.jpg?ig_cache_key=MTU2MDY1OTkwOTQ1MDgwNTIwMg%3D%3D.2"
+        },
+        {
+          "url": "http://farm4.static.flickr.com/3725/33062489846_e6c505493d.jpg"
+        },
+        {
+          "url": "https://usadultliteracy.files.wordpress.com/2013/06/bridge.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/736x/f4/d5/73/f4d57381dfa35051cc6922029e199420--brooklyn-bridge-bridges.jpg"
+        },
+        {
+          "url": "http://cdn3-www.thefashionspot.com/assets/uploads/2008/08/file_17947_0_bridge.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/d7/b0/9b/d7b09b107b4ce771e8629515fca587b0.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 107.75039672851562
+        },
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/g/1tk640vm",
+          "score": 2.804800033569336
+        },
+        {
+          "description": "Brooklyn",
+          "entityId": "/m/0cr3d",
+          "score": 0.6275200247764587
+        },
+        {
+          "description": "Bridge\u2013tunnel",
+          "entityId": "/m/051gs3",
+          "score": 0.48790431022644043
+        },
+        {
+          "description": "Bridge",
+          "entityId": "/m/015kr",
+          "score": 0.38499999046325684
+        },
+        {
+          "description": "Black and white",
+          "entityId": "/m/01g6gs",
+          "score": 0.33102408051490784
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3041999936103821
+        },
+        {
+          "description": "Fashion",
+          "entityId": "/m/032tl",
+          "score": 0.25760000944137573
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.25369998812675476
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.2531999945640564
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3725/33062489846_e6c505493d.jpg"
+}

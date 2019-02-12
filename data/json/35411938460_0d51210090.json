@@ -1,0 +1,142 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9869075417518616
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9842322468757629
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9828140735626221
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9795302152633667
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9685771465301514
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9615936875343323
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9572598934173584
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9256852269172668
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9240211844444275
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8568816184997559
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://michaelmuraz.com/cityscapes/"
+        },
+        {
+          "url": "http://z100.iheart.com/content/2017-08-04-nyc-block-party-is-here-and-seven-miles-of-the-city-will-close-down/"
+        },
+        {
+          "url": "https://news.storyclash.com/Z100NewYork"
+        },
+        {
+          "url": "http://www.arabyoum.com/More/523437/%D8%A7%D8%B2%D8%AF%D9%8A%D8%A7%D8%AF-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D9%85%D8%B0%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83"
+        },
+        {
+          "url": "https://arabyoum.com/More/523437/%D8%A7%D8%B2%D8%AF%D9%8A%D8%A7%D8%AF-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D9%85%D8%B0%D8%A9-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83"
+        },
+        {
+          "url": "https://www.gulfeyes.net/art/1807878.html"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://i.iheart.com/v3/re/new_assets/598484b740b8c17c2f4929c3"
+        },
+        {
+          "url": "https://www.gulfeyes.net/content/uploads/2017/08/16/10a25fdfb5.jpg"
+        },
+        {
+          "url": "http://michaelmuraz.com/wp-content/uploads/2014/11/Cityscapes-11-150x150.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Central Park",
+          "entityId": "/m/09c7v",
+          "score": 8.825599670410156
+        },
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 4.860799789428711
+        },
+        {
+          "description": "Michael Muraz Photography",
+          "entityId": "/g/11b6pyblx0",
+          "score": 0.7386000156402588
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.3864175081253052
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.3637999892234802
+        },
+        {
+          "description": "WHTZ",
+          "entityId": "/m/03vl23",
+          "score": 0.36329999566078186
+        },
+        {
+          "description": "Aerial photography",
+          "entityId": "/m/01w5c_",
+          "score": 0.3584669232368469
+        },
+        {
+          "description": "Photography",
+          "entityId": "/m/05wkw",
+          "score": 0.3357999920845032
+        },
+        {
+          "description": "Bird's-eye view",
+          "entityId": "/m/08863x",
+          "score": 0.3293123245239258
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.326423317193985
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4266/35411938460_0d51210090.jpg"
+}

@@ -1,0 +1,150 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sea",
+        "mid": "/m/06npx",
+        "score": 0.9597858190536499
+      },
+      {
+        "description": "coastal and oceanic landforms",
+        "mid": "/m/02c9_23",
+        "score": 0.921273946762085
+      },
+      {
+        "description": "aerial photography",
+        "mid": "/m/01w5c_",
+        "score": 0.9194183349609375
+      },
+      {
+        "description": "coast",
+        "mid": "/m/01lxd",
+        "score": 0.9164154529571533
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9072584509849548
+      },
+      {
+        "description": "promontory",
+        "mid": "/m/02r3_7_",
+        "score": 0.8510515689849854
+      },
+      {
+        "description": "headland",
+        "mid": "/m/04gv79h",
+        "score": 0.8459898829460144
+      },
+      {
+        "description": "bird's eye view",
+        "mid": "/m/08863x",
+        "score": 0.8410520553588867
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.7939301133155823
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.7402686476707458
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://dorothyscooltalk.info/wp-content/uploads/2017/09/35356336805_c378a29057.jpg"
+        },
+        {
+          "url": "https://estore-sslserver.eu/my-eshop.info/WebRoot/Store17/Shops/391e50ae-b533-4649-9333-9b158da33945/59A1/6F83/4EFA/0348/B950/0A48/3648/C494/DSC_0046_m.jpg"
+        },
+        {
+          "url": "https://www.meliving.com/wp-content/flagallery/marginal-way/thumbs/thumbs_maine-marginalway1.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://www.meliving.com/marginalway/"
+        },
+        {
+          "url": "https://www.meliving.com/ogunquit-ocean-walk/"
+        },
+        {
+          "url": "https://nabewise.com/nyc/city-island/"
+        },
+        {
+          "url": "http://dorothyscooltalk.info/category/history-of-baseball/"
+        },
+        {
+          "url": "http://dorothyscooltalk.info/"
+        },
+        {
+          "url": "https://www.donauair.de/shop/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://dorothyscooltalk.info/wp-content/uploads/2017/09/35356336805_c378a29057.jpg"
+        },
+        {
+          "url": "https://nabewise.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Ffarm5.staticflickr.com%2F4269%2F35356336805_d214bd01b9_h.jpg&h=230&q=90&f=.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Marginal Way",
+          "entityId": "/g/11h1j4w7g",
+          "score": 2.8064000606536865
+        },
+        {
+          "description": "Perkins Cove",
+          "entityId": "/g/1tp9013p",
+          "score": 1.392799973487854
+        },
+        {
+          "description": "Ogunquit",
+          "entityId": "/m/0tt1c",
+          "score": 1.230239987373352
+        },
+        {
+          "description": "City Island",
+          "entityId": "/g/1tj5rnr_",
+          "score": 0.6355999708175659
+        },
+        {
+          "description": "Coast",
+          "entityId": "/m/01lxd",
+          "score": 0.5855395197868347
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.4002979099750519
+        },
+        {
+          "description": "Ocean",
+          "entityId": "/m/05kq4",
+          "score": 0.3529214859008789
+        },
+        {
+          "description": "Headland",
+          "entityId": "/m/04gv79h",
+          "score": 0.3363536298274994
+        },
+        {
+          "description": "Aerial photography",
+          "entityId": "/m/01w5c_",
+          "score": 0.3272283971309662
+        },
+        {
+          "description": "Tourist attraction",
+          "entityId": "/m/0pgl9",
+          "score": 0.3255999982357025
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4269/35356336805_c378a29057.jpg"
+}

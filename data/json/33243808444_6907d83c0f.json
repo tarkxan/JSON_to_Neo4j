@@ -1,0 +1,144 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.9733714461326599
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9615625739097595
+      },
+      {
+        "description": "sea",
+        "mid": "/m/06npx",
+        "score": 0.946922242641449
+      },
+      {
+        "description": "reflection",
+        "mid": "/m/02l215",
+        "score": 0.9451876878738403
+      },
+      {
+        "description": "body of water",
+        "mid": "/m/03ktm1",
+        "score": 0.9351534843444824
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.8864384293556213
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.8768085837364197
+      },
+      {
+        "description": "shore",
+        "mid": "/m/02fm9k",
+        "score": 0.8567922711372375
+      },
+      {
+        "description": "waterway",
+        "mid": "/m/017m8l",
+        "score": 0.8523410558700562
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.8252389430999756
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm3.staticflickr.com/2941/33243808444_0ccd4a92d0_o.jpg"
+        },
+        {
+          "url": "http://farm3.static.flickr.com/2941/33243808444_6907d83c0f.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://flickriver.com/groups/newyorkcityskyline/pool/interesting/"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/e_90th_st_new_york_ny_usa.221715.html"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/murray_hill_new_york_ny_usa.226282.html"
+        },
+        {
+          "url": "https://www.flickr.com/groups/perfectskies/pool/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/rickyy_lu-pictures/favorites/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm3.staticflickr.com/2941/33243808444_0ccd4a92d0_o.jpg"
+        },
+        {
+          "url": "http://farm3.static.flickr.com/2941/33243808444_6907d83c0f.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Hell Gate Bridge",
+          "entityId": "/m/01v6ql",
+          "score": 8.53439998626709
+        },
+        {
+          "description": "Murray Hill",
+          "entityId": "/m/0fmgn2",
+          "score": 2.090399980545044
+        },
+        {
+          "description": "Jersey City",
+          "entityId": "/m/0xn7q",
+          "score": 1.00600004196167
+        },
+        {
+          "description": "Brooklyn Image Productions",
+          "entityId": "/g/1262pq54_",
+          "score": 0.6028000116348267
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.573205292224884
+        },
+        {
+          "description": "Manhattan",
+          "entityId": "/m/0cc56",
+          "score": 0.5643200278282166
+        },
+        {
+          "description": "Big Allis",
+          "entityId": "/m/03c13rh",
+          "score": 0.5424000024795532
+        },
+        {
+          "description": "Hudson River",
+          "entityId": "/m/0cvyp",
+          "score": 0.49399998784065247
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.33679190278053284
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.328000009059906
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2941/33243808444_6907d83c0f.jpg"
+}

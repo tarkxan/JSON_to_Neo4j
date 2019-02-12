@@ -1,0 +1,149 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9586796164512634
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9563873410224915
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9375905990600586
+      },
+      {
+        "description": "night",
+        "mid": "/m/01d74z",
+        "score": 0.9361912608146667
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9176875948905945
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9138917326927185
+      },
+      {
+        "description": "reflection",
+        "mid": "/m/02l215",
+        "score": 0.8628833293914795
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.8400636315345764
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.8340309858322144
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.7497852444648743
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4300/35311658594_912ceeb34f_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4300/35311658594_912ceeb34f_n.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tinto/35311658594"
+        },
+        {
+          "url": "https://mapcarta.com/25010690"
+        },
+        {
+          "url": "https://mapcarta.com/22618312"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/tintography/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,fujix100t"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,x100t"
+        },
+        {
+          "url": "https://picssr.com/tags/wideangel"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4300/35311658594_912ceeb34f_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4300/35311658594_912ceeb34f_n.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Two Bridges",
+          "entityId": "/m/027y9bw",
+          "score": 17.036800384521484
+        },
+        {
+          "description": "Williamsburg Bridge",
+          "entityId": "/m/02dpsq",
+          "score": 13.235199928283691
+        },
+        {
+          "description": "Amalgamated Dwellings",
+          "entityId": "/g/1tfrn7vh",
+          "score": 2.5208001136779785
+        },
+        {
+          "description": "Hillman Housing Corporation",
+          "entityId": "/g/1pxynpmpy",
+          "score": 2.47760009765625
+        },
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 0.7031999826431274
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.3061999976634979
+        },
+        {
+          "entityId": "/g/1ym_ckgyw",
+          "score": 0.27959999442100525
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.26319563388824463
+        },
+        {
+          "description": "Fujifilm",
+          "entityId": "/m/01djsj",
+          "score": 0.2630000114440918
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.23819999396800995
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4300/35311658594_912ceeb34f.jpg"
+}

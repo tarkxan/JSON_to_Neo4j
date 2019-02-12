@@ -1,0 +1,174 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.985041081905365
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9808645248413086
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9703965187072754
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9583727717399597
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9564845561981201
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9357091188430786
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9099863767623901
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.8995585441589355
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8742959499359131
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.7935882806777954
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.6293131709098816
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4295/36344754535_0304f5a57a.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://mapcarta.com/26234434"
+        },
+        {
+          "url": "https://www.flickr.com/photos/25582125@N04/36344754535"
+        },
+        {
+          "url": "https://mapcarta.com/26700694"
+        },
+        {
+          "url": "http://www.nyny.com/neighborhoods/manhattan"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/nyc"
+        },
+        {
+          "url": "http://flickrcc.net/flickrCC/"
+        },
+        {
+          "url": "http://photopin.com/free-photos/city"
+        },
+        {
+          "url": "https://hiveminer.com/User/NYAndreas"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/tags/manhattan/interesting/"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/tags/midtown/interesting/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4295/36344754535_0304f5a57a_b.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4295/36344754535_0304f5a57a.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4295/36344754535_0304f5a57a_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 146.38079833984375
+        },
+        {
+          "description": "Statue of Liberty",
+          "entityId": "/m/072p8",
+          "score": 138.9055938720703
+        },
+        {
+          "description": "Flatiron Building",
+          "entityId": "/m/01lnd3",
+          "score": 70.98880004882812
+        },
+        {
+          "description": "NYC Diamond District",
+          "entityId": "/g/11b77w0knn",
+          "score": 6.1184000968933105
+        },
+        {
+          "description": "One Bryant Park",
+          "entityId": "/g/11d_d2952f",
+          "score": 4.9984002113342285
+        },
+        {
+          "description": "Ladies Mile LLC",
+          "entityId": "/g/1tgmx5w5",
+          "score": 4.755199909210205
+        },
+        {
+          "description": "Clipper City Tall Ship - Operated by Manhattan by Sail",
+          "entityId": "/g/1hfcf01c2",
+          "score": 2.529599905014038
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.39794430136680603
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.2797999978065491
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.2712000906467438
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4295/36344754535_0304f5a57a.jpg"
+}

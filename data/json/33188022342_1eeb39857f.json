@@ -1,0 +1,141 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "blue",
+        "mid": "/m/01g5v",
+        "score": 0.9682368636131287
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9590921401977539
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9159852266311646
+      },
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.9145718812942505
+      },
+      {
+        "description": "cable stayed bridge",
+        "mid": "/m/0157l1",
+        "score": 0.9036741852760315
+      },
+      {
+        "description": "structure",
+        "mid": "/m/0n68_",
+        "score": 0.844319224357605
+      },
+      {
+        "description": "electricity",
+        "mid": "/m/02lts",
+        "score": 0.8033902645111084
+      },
+      {
+        "description": "electrical supply",
+        "mid": "/m/0cmsl0l",
+        "score": 0.7712022066116333
+      },
+      {
+        "description": "fixed link",
+        "mid": "/m/051gs3",
+        "score": 0.735140860080719
+      },
+      {
+        "description": "line",
+        "mid": "/m/03scnj",
+        "score": 0.7297900319099426
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Brooklyn Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.705726,
+              "longitude": -73.996953
+            }
+          }
+        ],
+        "mid": "/m/0cv4c",
+        "score": 0.3938077986240387
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://ec.yimg.com/ec?url=https%3A%2F%2Ffarm1.staticflickr.com%2F590%2F33188022342_1eeb39857f.jpg&t=1505041955&sig=570gO4Kv_.CQ8DUD3RPLfQ--~D"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/groups/f/discuss/72157629258435011//"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://ec.yimg.com/ec?url=https%3A%2F%2Ffarm1.staticflickr.com%2F590%2F33188022342_1eeb39857f.jpg&t=1505041955&sig=570gO4Kv_.CQ8DUD3RPLfQ--~D"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 21.4783992767334
+        },
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/g/1tk640vm",
+          "score": 2.072000026702881
+        },
+        {
+          "description": "Bridge\u2013tunnel",
+          "entityId": "/m/051gs3",
+          "score": 0.8657206892967224
+        },
+        {
+          "description": "Brooklyn",
+          "entityId": "/m/0cr3d",
+          "score": 0.7219200134277344
+        },
+        {
+          "description": "Bridge",
+          "entityId": "/m/015kr",
+          "score": 0.6972000002861023
+        },
+        {
+          "description": "Cable-stayed bridge",
+          "entityId": "/m/0157l1",
+          "score": 0.6887508630752563
+        },
+        {
+          "description": "Electricity",
+          "entityId": "/m/02lts",
+          "score": 0.5474025011062622
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.48980000615119934
+        },
+        {
+          "description": "Public utility",
+          "entityId": "/m/016znt",
+          "score": 0.4590536952018738
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.4496000111103058
+        }
+      ]
+    }
+  },
+  "url": "https://farm1.staticflickr.com/590/33188022342_1eeb39857f.jpg"
+}

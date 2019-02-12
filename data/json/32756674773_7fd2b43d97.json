@@ -1,0 +1,138 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9058998823165894
+      },
+      {
+        "description": "aerial photography",
+        "mid": "/m/01w5c_",
+        "score": 0.8383980989456177
+      },
+      {
+        "description": "panorama",
+        "mid": "/m/017rtb",
+        "score": 0.8205599188804626
+      },
+      {
+        "description": "photography",
+        "mid": "/m/05wkw",
+        "score": 0.8184490203857422
+      },
+      {
+        "description": "bird's eye view",
+        "mid": "/m/08863x",
+        "score": 0.8064274191856384
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.7905041575431824
+      },
+      {
+        "description": "tourist attraction",
+        "mid": "/m/0pgl9",
+        "score": 0.6936495304107666
+      },
+      {
+        "description": "tourism",
+        "mid": "/m/07bxq",
+        "score": 0.6778969764709473
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.6419215202331543
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.5413820147514343
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/3/2874/32756674773_7fd2b43d97_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/pedrosz/32756674773"
+        },
+        {
+          "url": "https://hiveminer.com/User/szeke/Timeline"
+        },
+        {
+          "url": "http://keywordsfr.com/cGFub3M/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/3/2874/32756674773_7fd2b43d97_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2874/32756674773_7fd2b43d97_n.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2874/32756674773_7fd2b43d97_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 20.332799911499023
+        },
+        {
+          "description": "Eyeview",
+          "entityId": "/g/1pty_trbt",
+          "score": 1.0324000120162964
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.46880000829696655
+        },
+        {
+          "description": "Aerial photography",
+          "entityId": "/m/01w5c_",
+          "score": 0.4174967110157013
+        },
+        {
+          "description": "Panoramic photography",
+          "entityId": "/m/021dl4",
+          "score": 0.3707999885082245
+        },
+        {
+          "description": "New York World",
+          "entityId": "/m/02tcn5",
+          "score": 0.30730000138282776
+        },
+        {
+          "description": "Panorama",
+          "entityId": "/m/017rtb",
+          "score": 0.30668237805366516
+        },
+        {
+          "description": "Image stitching",
+          "entityId": "/m/089f7f",
+          "score": 0.3012000024318695
+        },
+        {
+          "description": "Tourism",
+          "entityId": "/m/07bxq",
+          "score": 0.2848775386810303
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.28387096524238586
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2874/32756674773_7fd2b43d97.jpg"
+}

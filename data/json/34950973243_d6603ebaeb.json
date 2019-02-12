@@ -1,0 +1,164 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9868995547294617
+      },
+      {
+        "description": "car",
+        "mid": "/m/0k4j",
+        "score": 0.9827397465705872
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9697534441947937
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.969213604927063
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9630211591720581
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9540463089942932
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9400387406349182
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9287261366844177
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.9061616063117981
+      },
+      {
+        "description": "road",
+        "mid": "/m/06gfj",
+        "score": 0.9007501006126404
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Park Avenue",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.758753200343,
+              "longitude": -73.972567
+            }
+          }
+        ],
+        "mid": "/m/01_m7x",
+        "score": 0.2130945473909378
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4241/34950973243_d6603ebaeb_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://hiveminer.com/Tags/fujifilm,fujix100t"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/fuji,fujix100t"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/wclx100"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,vsco"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,fujix100t"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/2017%2Cvsco/Recent"
+        },
+        {
+          "url": "http://cardloanpress.net/category/area/hokkaido/"
+        },
+        {
+          "url": "http://cardloanpress.net/"
+        },
+        {
+          "url": "http://cardloanpress.net/category/basic-knowledge/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://cardloanpress.net/wp/wp-content/uploads/2017/09/34950973243_d6603ebaeb-150x150.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Flatbush",
+          "entityId": "/m/02y38b",
+          "score": 11.891200065612793
+        },
+        {
+          "description": "Fuji",
+          "entityId": "/g/1tcy56l9",
+          "score": 2.852400064468384
+        },
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 1.4672000408172607
+        },
+        {
+          "description": "Fujifilm",
+          "entityId": "/m/01djsj",
+          "score": 0.7064999938011169
+        },
+        {
+          "description": "Park Avenue",
+          "entityId": "/m/01_m7x",
+          "score": 0.6083999872207642
+        },
+        {
+          "description": "Luxury vehicle",
+          "entityId": "/m/01lcwm",
+          "score": 0.590001106262207
+        },
+        {
+          "description": "Street",
+          "entityId": "/m/01c8br",
+          "score": 0.4627414643764496
+        },
+        {
+          "entityId": "/g/1ym_ckgyw",
+          "score": 0.3935000002384186
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.37380000948905945
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.34220001101493835
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4241/34950973243_d6603ebaeb.jpg"
+}

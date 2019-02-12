@@ -1,0 +1,181 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.9518634676933289
+      },
+      {
+        "description": "fixed link",
+        "mid": "/m/051gs3",
+        "score": 0.8522810339927673
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.848023533821106
+      },
+      {
+        "description": "girder bridge",
+        "mid": "/m/0d0h0h",
+        "score": 0.6166958808898926
+      },
+      {
+        "description": "beam bridge",
+        "mid": "/m/054v5h",
+        "score": 0.5681553483009338
+      },
+      {
+        "description": "suspension bridge",
+        "mid": "/m/0csy8",
+        "score": 0.5644814968109131
+      },
+      {
+        "description": "dawn",
+        "mid": "/m/01b3kg",
+        "score": 0.5020943284034729
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Williamsburg Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.71200180053711,
+              "longitude": -73.97216796875
+            }
+          }
+        ],
+        "mid": "/m/02dpsq",
+        "score": 0.7858429551124573
+      },
+      {
+        "description": "Williamsburg Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.713646,
+              "longitude": -73.97158
+            }
+          }
+        ],
+        "mid": "/m/02dpsq",
+        "score": 0.6410196423530579
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://farm5.static.flickr.com/4254/34994427273_cac7762f17.jpg"
+        },
+        {
+          "url": "https://nabewise.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Ffarm5.staticflickr.com%2F4254%2F34994427273_cac7762f17_c.jpg&h=230&q=90&f=.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/williamsburgbridge"
+        },
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/34994427273"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/bridge,williamsburg"
+        },
+        {
+          "url": "https://mapcarta.com/25009724"
+        },
+        {
+          "url": "https://mapcarta.com/22573170"
+        },
+        {
+          "url": "http://bridge.kerryknight.co/bridges-in-new-york-city-photos/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/bridge%2Cmanhattan"
+        },
+        {
+          "url": "http://www.flickriver.com/places/United+States/New+York/"
+        },
+        {
+          "url": "http://www.flickriver.com/groups/betterthangood/pool/interesting/"
+        },
+        {
+          "url": "https://nabewise.com/nyc/east-williamsburg/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4254/34994427273_cac7762f17_b.jpg"
+        },
+        {
+          "url": "http://farm5.static.flickr.com/4254/34994427273_cac7762f17.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4254/34994427273_cac7762f17_n.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4254/34994427273_cac7762f17_m.jpg"
+        },
+        {
+          "url": "https://nabewise.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Ffarm5.staticflickr.com%2F4254%2F34994427273_cac7762f17_c.jpg&h=230&q=90&f=.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Williamsburg Bridge",
+          "entityId": "/m/02dpsq",
+          "score": 25.983999252319336
+        },
+        {
+          "description": "Williamsburg",
+          "entityId": "/m/02zqf6",
+          "score": 17.90719985961914
+        },
+        {
+          "description": "Corlears Hook Park",
+          "entityId": "/g/1tgb88bg",
+          "score": 2.2279999256134033
+        },
+        {
+          "description": "Williamsburg Bridge",
+          "entityId": "/g/1w15_c2t",
+          "score": 1.4002000093460083
+        },
+        {
+          "description": "Corlears Hook",
+          "entityId": "/g/1tdbxp8d",
+          "score": 1.1200000047683716
+        },
+        {
+          "description": "Bridge\u2013tunnel",
+          "entityId": "/m/051gs3",
+          "score": 0.52305006980896
+        },
+        {
+          "description": "Bridge",
+          "entityId": "/m/015kr",
+          "score": 0.3734999895095825
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.2240999937057495
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.21755874156951904
+        },
+        {
+          "description": "Suspension bridge",
+          "entityId": "/m/0csy8",
+          "score": 0.2021024376153946
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4254/34994427273_cac7762f17.jpg"
+}

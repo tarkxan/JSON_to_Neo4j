@@ -1,0 +1,165 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9863353371620178
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9833707809448242
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.9548691511154175
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9418599009513855
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9398001432418823
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.938718855381012
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9321718811988831
+      },
+      {
+        "description": "tower",
+        "mid": "/m/01fdzj",
+        "score": 0.9226961135864258
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9217288494110107
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.8951953649520874
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/3/2896/33224081040_5b77fa38a1_b.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/33224081040_5b77fa38a1_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2896/33224081040_5b77fa38a1_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/newyork/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/pedrosz/33224081040"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/"
+        },
+        {
+          "url": "http://freephotostags.com/new%20york"
+        },
+        {
+          "url": "http://freephotostags.com/home/new+champion+5+glosm%C3%A4staren"
+        },
+        {
+          "url": "http://www.keywordsfr.com/bmV3IGF0JmFtcDt0IHBob25lcw/"
+        },
+        {
+          "url": "https://hiveminer.com/User/szeke/Timeline"
+        },
+        {
+          "url": "http://keywordsfr.com/d29ybGQgY2l0aWVz/"
+        },
+        {
+          "url": "http://picssr.com/photos/30576530@N04/favorites/page10"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/3/2896/33224081040_5b77fa38a1_b.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/33224081040_5b77fa38a1_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2896/33224081040_5b77fa38a1_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "City Tower",
+          "entityId": "/g/11bw67rdj8",
+          "score": 1.1411999464035034
+        },
+        {
+          "description": "Skyscraper Building",
+          "entityId": "/g/1tfpkr3k",
+          "score": 1.020799994468689
+        },
+        {
+          "description": "Carol Place",
+          "entityId": "/g/1tglj6n2",
+          "score": 0.91839998960495
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.36261820793151855
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3264999985694885
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.31983664631843567
+        },
+        {
+          "description": "Tourism",
+          "entityId": "/m/07bxq",
+          "score": 0.2718999981880188
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.2639945149421692
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.2402999997138977
+        },
+        {
+          "description": "Landmark",
+          "entityId": "/m/05_5t0l",
+          "score": 0.22200250625610352
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2896/33224081040_5b77fa38a1.jpg"
+}

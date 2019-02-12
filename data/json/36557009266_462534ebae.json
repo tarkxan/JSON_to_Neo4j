@@ -1,0 +1,195 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9848621487617493
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9807429313659668
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9709565043449402
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.970024049282074
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9659903049468994
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9626717567443848
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.9204818606376648
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9202800393104553
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9064605236053467
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.8980960249900818
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "MetLife Building",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.75695,
+              "longitude": -73.974295
+            }
+          }
+        ],
+        "mid": "/m/01_8pw",
+        "score": 0.9853747487068176
+      },
+      {
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.754051,
+              "longitude": -73.976397
+            }
+          }
+        ],
+        "mid": "/g/1hhjtjj7_",
+        "score": 0.8253456354141235
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4343/36557009266_462534ebae_b.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4343/36557009266_462534ebae_c.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4343/36557009266_462534ebae_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://www.nyshta.org/state-issues.html"
+        },
+        {
+          "url": "http://www.nyshta.org/roundtables.html"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/fujilove/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/tintography/"
+        },
+        {
+          "url": "http://www.wordnik.com/words/Tinto"
+        },
+        {
+          "url": "https://www.wordnik.com/words/mirrorless"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm%2Carchitecture"
+        },
+        {
+          "url": "http://joergschubert.tumblr.com/page/2"
+        },
+        {
+          "url": "http://stockphotoslab.com/website"
+        },
+        {
+          "url": "https://www.localdatabase.com/newyork/New_York"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4343/36557009266_462534ebae_b.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4343/36557009266_462534ebae_c.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4343/36557009266_462534ebae_m.jpg"
+        },
+        {
+          "url": "http://www.nyshta.org/uploads/1/0/9/1/109195421/published/855559412.jpg?1503331864"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "MetLife Building",
+          "entityId": "/m/01_8pw",
+          "score": 9.64799976348877
+        },
+        {
+          "description": "Albany",
+          "entityId": "/m/0dq16",
+          "score": 4.860799789428711
+        },
+        {
+          "description": "KATAL Center for Health, Equity, and Justice",
+          "entityId": "/g/11c58pmq0b",
+          "score": 1.6399999856948853
+        },
+        {
+          "description": "New York State Hospitality & Tourism Association",
+          "entityId": "/g/1tkp5zs_",
+          "score": 0.8295999765396118
+        },
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 0.743399977684021
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.7348999977111816
+        },
+        {
+          "description": "Tag",
+          "entityId": "/m/05p_8g",
+          "score": 0.38989999890327454
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.38596633076667786
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.38370001316070557
+        },
+        {
+          "description": "Tourism",
+          "entityId": "/m/07bxq",
+          "score": 0.3711000084877014
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4343/36557009266_462534ebae.jpg"
+}

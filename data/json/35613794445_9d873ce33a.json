@@ -1,0 +1,177 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9858644008636475
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9782912731170654
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9779108166694641
+      },
+      {
+        "description": "reflection",
+        "mid": "/m/02l215",
+        "score": 0.9707866311073303
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9689428806304932
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9674917459487915
+      },
+      {
+        "description": "black and white",
+        "mid": "/m/01g6gs",
+        "score": 0.9419147968292236
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9396976232528687
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9368958473205566
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9351822733879089
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4026/35613794445_9d873ce33a_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4026/35613794445_9d873ce33a_z.jpg"
+        },
+        {
+          "url": "https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/57ac9ab03d9474092835be1f/2017-07-07-3-36-33-197-595faa813d947606c49212e1_5000x500.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4026/35613794445_9d873ce33a_m.jpg"
+        },
+        {
+          "url": "https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/57ac9ab03d9474092835be1f/2017-07-07-3-36-33-197-595faa813d947606c49212e1_100x178.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://news.fintech.io/post/102csgb/human-wealth-advisors-under-siege-by-robo-counterparts"
+        },
+        {
+          "url": "http://news.fintech.io/post/102e52m/xero-secures-26-4m-funding"
+        },
+        {
+          "url": "http://fintechcollective.passle.net/post/102byoo/ios8-could-have-an-impact-on-fintech"
+        },
+        {
+          "url": "https://www.flickr.com/photos/jirkacaletka/favorites/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/2714149@N23/pool/page127/"
+        },
+        {
+          "url": "https://mapcarta.com/26670504"
+        },
+        {
+          "url": "https://mapcarta.com/22583568"
+        },
+        {
+          "url": "http://photopin.com/free-photos/dayton-skyline"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/bw,skyline"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/wclx100"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4026/35613794445_9d873ce33a_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4026/35613794445_9d873ce33a_z.jpg"
+        },
+        {
+          "url": "https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/57ac9ab03d9474092835be1f/2017-07-07-3-36-33-197-595faa813d947606c49212e1_5000x500.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4026/35613794445_9d873ce33a_m.jpg"
+        },
+        {
+          "url": "https://passle-net.s3.amazonaws.com/Passle/53304eb43d9474057cbfc02a/ProcessedImages/57ac9ab03d9474092835be1f/2017-07-07-3-36-33-197-595faa813d947606c49212e1_100x178.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 0.8032000064849854
+        },
+        {
+          "description": "AxiomSL\u200b Inc.",
+          "entityId": "/g/1vxg0291",
+          "score": 0.7279999852180481
+        },
+        {
+          "description": "Xero",
+          "entityId": "/m/02rsj7z",
+          "score": 0.7103999853134155
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.5670782327651978
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.4637848734855652
+        },
+        {
+          "description": "Robo-advisor",
+          "entityId": "/m/010vqqqk",
+          "score": 0.41600000858306885
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.4009478688240051
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.3977000117301941
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.38940000534057617
+        },
+        {
+          "description": "Wealth management",
+          "entityId": "/m/083p06",
+          "score": 0.38749998807907104
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4026/35613794445_9d873ce33a.jpg"
+}

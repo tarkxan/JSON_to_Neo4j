@@ -1,0 +1,110 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "design",
+        "mid": "/m/02cwm",
+        "score": 0.7336565256118774
+      },
+      {
+        "description": "furniture",
+        "mid": "/m/0c_jw",
+        "score": 0.6989916563034058
+      },
+      {
+        "description": "product design",
+        "mid": "/m/03y18t",
+        "score": 0.6421560645103455
+      },
+      {
+        "description": "table",
+        "mid": "/m/04bcr3",
+        "score": 0.5548843741416931
+      },
+      {
+        "description": "art",
+        "mid": "/m/0jjw",
+        "score": 0.548493504524231
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4231/34729766974_7da03b849b_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://mapcarta.com/22583568"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tinto/34729766974"
+        },
+        {
+          "url": "https://mapcarta.com/22628490"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/wclx100"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/2017,tintography"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4231/34729766974_7da03b849b_b.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 65.3311996459961
+        },
+        {
+          "description": "Tribeca",
+          "entityId": "/m/01_45p",
+          "score": 27.878400802612305
+        },
+        {
+          "description": "Battery Park City",
+          "entityId": "/m/01gl2",
+          "score": 19.20639991760254
+        },
+        {
+          "description": "Trinity Place Bridge",
+          "entityId": "/g/12hl2wwdn",
+          "score": 6.064000129699707
+        },
+        {
+          "description": "Governor Alfred E. Smith Houses",
+          "entityId": "/g/1vnrrjgz",
+          "score": 3.018399953842163
+        },
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 0.5526000261306763
+        },
+        {
+          "entityId": "/g/1ym_ckgyw",
+          "score": 0.3012000024318695
+        },
+        {
+          "entityId": "/g/12p4jktnf",
+          "score": 0.26579999923706055
+        },
+        {
+          "entityId": "/g/11b77qrp3k",
+          "score": 0.24269999563694
+        },
+        {
+          "description": "Product design",
+          "entityId": "/m/03y18t",
+          "score": 0.206900492310524
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4231/34729766974_7da03b849b.jpg"
+}

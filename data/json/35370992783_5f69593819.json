@@ -1,0 +1,141 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "ceiling",
+        "mid": "/m/03gfsp",
+        "score": 0.9208270311355591
+      },
+      {
+        "description": "light",
+        "mid": "/m/04k84",
+        "score": 0.8443103432655334
+      },
+      {
+        "description": "tourist attraction",
+        "mid": "/m/0pgl9",
+        "score": 0.836057186126709
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8268396854400635
+      },
+      {
+        "description": "wall",
+        "mid": "/m/09qqq",
+        "score": 0.8158504962921143
+      },
+      {
+        "description": "lighting",
+        "mid": "/m/019sc6",
+        "score": 0.8074679374694824
+      },
+      {
+        "description": "light fixture",
+        "mid": "/m/08jpwt",
+        "score": 0.8068891167640686
+      },
+      {
+        "description": "interior design",
+        "mid": "/m/02rfdq",
+        "score": 0.6978968977928162
+      },
+      {
+        "description": "darkness",
+        "mid": "/m/01kyr8",
+        "score": 0.6482139229774475
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.6125427484512329
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4303/35370992783_5f69593819_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4303/35370992783_5f69593819_z.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tinto/35370992783"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/tintography/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,fujix100t"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,x100t"
+        },
+        {
+          "url": "https://picssr.com/tags/wideangel"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4303/35370992783_5f69593819_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4303/35370992783_5f69593819_z.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Grand Central Terminal",
+          "entityId": "/m/01rz3c",
+          "score": 19.92959976196289
+        },
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 0.8027999997138977
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.40119999647140503
+        },
+        {
+          "entityId": "/g/1ym_ckgyw",
+          "score": 0.32910001277923584
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.32829999923706055
+        },
+        {
+          "description": "Tag",
+          "entityId": "/m/05p_8g",
+          "score": 0.3165000081062317
+        },
+        {
+          "description": "Fujifilm",
+          "entityId": "/m/01djsj",
+          "score": 0.3089999854564667
+        },
+        {
+          "entityId": "/g/12p4jktnf",
+          "score": 0.26339998841285706
+        },
+        {
+          "description": "Light fixture",
+          "entityId": "/m/08jpwt",
+          "score": 0.2553846538066864
+        },
+        {
+          "entityId": "/g/11b77qrp3k",
+          "score": 0.2345999926328659
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4303/35370992783_5f69593819.jpg"
+}

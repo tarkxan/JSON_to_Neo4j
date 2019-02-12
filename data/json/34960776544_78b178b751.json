@@ -1,0 +1,36 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "display window",
+        "mid": "/m/02phwj2",
+        "score": 0.5519806742668152
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "New York City",
+          "entityId": "/m/02_286",
+          "score": 1.6792000532150269
+        },
+        {
+          "description": "Window",
+          "entityId": "/m/0d4v4",
+          "score": 1.4134000539779663
+        },
+        {
+          "description": "Display window",
+          "entityId": "/m/02phwj2",
+          "score": 0.9053589105606079
+        },
+        {
+          "description": "I Love New York",
+          "entityId": "/m/04yxg9",
+          "score": 0.413100004196167
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4279/34960776544_78b178b751.jpg"
+}

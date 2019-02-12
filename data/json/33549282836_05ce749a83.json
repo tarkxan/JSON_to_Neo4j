@@ -1,0 +1,186 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9717304706573486
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9714059829711914
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9572429656982422
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.951235294342041
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.9480525255203247
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9339938163757324
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.925793468952179
+      },
+      {
+        "description": "winter",
+        "mid": "/m/086mh",
+        "score": 0.9227076172828674
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9204543828964233
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9072036147117615
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://d.wpimg.pl/1600711402-1531560783/ny.jpg"
+        },
+        {
+          "url": "https://farm4.staticflickr.com/3894/33549282836_05ce749a83_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3894/33549282836_05ce749a83.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/newyork/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/pedrosz/33549282836"
+        },
+        {
+          "url": "https://triptaptoe.com/tour/new-york-vacation/"
+        },
+        {
+          "url": "https://www.timeout.com/usa/blog?page_number=3&zone_id=1144838"
+        },
+        {
+          "url": "https://www.timeout.com/usa/blog/these-are-the-30-happiest-states-in-all-of-the-u-s-091117"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/earlton-travel-tourism"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/castorland-travel-local"
+        },
+        {
+          "url": "http://freephotostags.com/new%20york"
+        },
+        {
+          "url": "http://freephotostags.com/home/new+champion+5+glosm%C3%A4staren"
+        },
+        {
+          "url": "http://www.keywordsfr.com/bmV3IGF0JmFtcDt0IHBob25lcw/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://roadtrio.com/wp-content/uploads/2017/07/33549282836_12675af902_o.jpg"
+        },
+        {
+          "url": "https://media.timeout.com/images/103970023/image.jpg"
+        },
+        {
+          "url": "https://farm4.staticflickr.com/3894/33549282836_05ce749a83_b.jpg"
+        },
+        {
+          "url": "http://roadtrio.com/wp-content/uploads/2017/07/33549282836_12675af902_o-1024x633.jpg"
+        },
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/2uhktkqTURBXy82MTdiNTAyMDljNjQ2MGY2NWMwZjZiOWVlYjYyM2VhYi5qcGVnk5UCzQMUAMLDlQIAzQL4wsOVB9kyL3B1bHNjbXMvTURBXy8xZDc0Y2I0MTcwNTk1MDQzNjYyOWNhYmQ2MDZmNTBmNi5wbmcHwgA"
+        },
+        {
+          "url": "https://media.timeout.com/images/103970023/630/472/image.jpg"
+        },
+        {
+          "url": "https://viajarfull.com/wp-content/uploads/2017/05/que-hacer-en-nueva-york-con-hijos-esposa-familia.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3894/33549282836_05ce749a83.jpg"
+        },
+        {
+          "url": "https://media.timeout.com/images/103970023/320/210/image.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3894/33549282836_05ce749a83_n.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 189.95199584960938
+        },
+        {
+          "description": "New York City Hall",
+          "entityId": "/m/01pdy0",
+          "score": 94.97599792480469
+        },
+        {
+          "description": "City Hall Park",
+          "entityId": "/g/11hv4f56w",
+          "score": 11.871999740600586
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.2687529921531677
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.250900000333786
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.2149118036031723
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.19623349606990814
+        },
+        {
+          "description": "Family",
+          "entityId": "/m/09dhj",
+          "score": 0.19259999692440033
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.1915363073348999
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.184533953666687
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3894/33549282836_05ce749a83.jpg"
+}

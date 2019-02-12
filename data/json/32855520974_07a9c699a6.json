@@ -1,0 +1,111 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "black",
+        "mid": "/m/019sc",
+        "score": 0.9526003003120422
+      },
+      {
+        "description": "black and white",
+        "mid": "/m/01g6gs",
+        "score": 0.9359926581382751
+      },
+      {
+        "description": "silhouette",
+        "mid": "/m/03thgk",
+        "score": 0.8178462386131287
+      },
+      {
+        "description": "monochrome photography",
+        "mid": "/m/03d49p1",
+        "score": 0.8051524758338928
+      },
+      {
+        "description": "monochrome",
+        "mid": "/m/01mwkf",
+        "score": 0.7482656240463257
+      },
+      {
+        "description": "human behavior",
+        "mid": "/m/02qd0r",
+        "score": 0.7212775349617004
+      },
+      {
+        "description": "product design",
+        "mid": "/m/03y18t",
+        "score": 0.6264215707778931
+      },
+      {
+        "description": "illustration",
+        "mid": "/m/01kr8f",
+        "score": 0.6036518812179565
+      },
+      {
+        "description": "angle",
+        "mid": "/m/0mwc",
+        "score": 0.5410334467887878
+      },
+      {
+        "description": "font",
+        "mid": "/m/03gq5hm",
+        "score": 0.527146577835083
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Black",
+          "entityId": "/m/019sc",
+          "score": 0.9305887818336487
+        },
+        {
+          "description": "Product",
+          "entityId": "/m/01jwgf",
+          "score": 0.8216854333877563
+        },
+        {
+          "description": "Font",
+          "entityId": "/m/03gq5hm",
+          "score": 0.676092803478241
+        },
+        {
+          "description": "Human behavior",
+          "entityId": "/m/02qd0r",
+          "score": 0.6111241579055786
+        },
+        {
+          "description": "Product design",
+          "entityId": "/m/03y18t",
+          "score": 0.6024814248085022
+        },
+        {
+          "description": "Black and white",
+          "entityId": "/m/01g6gs",
+          "score": 0.5661428570747375
+        },
+        {
+          "description": "Silhouette",
+          "entityId": "/m/03thgk",
+          "score": 0.5139276385307312
+        },
+        {
+          "description": "Recreation",
+          "entityId": "/m/06bm2",
+          "score": 0.5094102025032043
+        },
+        {
+          "description": "Angle",
+          "entityId": "/m/0mwc",
+          "score": 0.4853670597076416
+        },
+        {
+          "description": "Behavior",
+          "entityId": "/m/01jbm",
+          "score": 0.3912000060081482
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2883/32855520974_07a9c699a6.jpg"
+}

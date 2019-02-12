@@ -1,0 +1,207 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "car",
+        "mid": "/m/0k4j",
+        "score": 0.9830995798110962
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9641424417495728
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9545201659202576
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9533562064170837
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9422776699066162
+      },
+      {
+        "description": "street",
+        "mid": "/m/01c8br",
+        "score": 0.9354692697525024
+      },
+      {
+        "description": "road",
+        "mid": "/m/06gfj",
+        "score": 0.9346839189529419
+      },
+      {
+        "description": "lane",
+        "mid": "/m/033j3c",
+        "score": 0.8924113512039185
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.8883810639381409
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.8854383826255798
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://triptaptoe.com/wp-content/uploads/2016/05/32746542692_c5b0e810d1_k-min.jpg"
+        },
+        {
+          "url": "https://www.daxx.com/uploads/32746542692_c5b0e810d1_k.jpg"
+        },
+        {
+          "url": "http://kurashitabi.com/wp-content/uploads/2017/06/newyork-1024x683.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2150/32746542692_fdf6fb9e5c_b.jpg"
+        },
+        {
+          "url": "https://i0.wp.com/maphappy.org/wp-content/uploads/2017/03/newyorkc3calcstreets-mh.jpg"
+        },
+        {
+          "url": "http://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2017/07/12/20170712-052057_U3792_M300374_f358.jpg?itok=QDjzic9H"
+        },
+        {
+          "url": "http://www.odysseo.it/wp-content/uploads/2017/02/32746542692_c5b0e810d1_k-696x464.jpg"
+        },
+        {
+          "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=4THiAhhUk8T1Me7%2B%2BJnBhymzrPM%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfLCksgUbeykBhlI_IfnwEXO5H8K8Uv-wC9wG1PTkTda4I1UkcQQ6qEFFvIg8YRwn8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEC7AvoLMMllV3lviUHMEokaNJ8nxY7wzp94veBWAW2Lf4OAKWM0QgRz3VGfp-uP2o0QqLlmDOk0bk96WVNrqAH4UNmXKH8cvpQgWIr2lfgUs-5xMcgpsmCybSh_wZ1VCdAfE8byvfubHvbUG4rIYF-AM-65aXHFqMTUgkkg4_bpPRlHYYKYvY9QXN7g5AVoZ4BWJ5lOOZTNiC92mhUGBVYiqccgBVxtvYjaGyNv1SWeRqyuZiTNUfJDYyeMgYPCQ"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/32746542692_fdf6fb9e5c_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2150/32746542692_fdf6fb9e5c_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://maphappy.org/2017/03/this-calculator-figures-out-if-the-citypass-new-york-c3-is-worth-it/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tinto/32746542692"
+        },
+        {
+          "url": "https://triptaptoe.com/tour/new-york-breaks/"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/stow-tourist-holidays"
+        },
+        {
+          "url": "https://www.linkedin.com/in/myonghee-clara-choi-723aa357"
+        },
+        {
+          "url": "http://www.newyorkminutemag.com/tag/sarah-rizkalla/"
+        },
+        {
+          "url": "https://www.daxx.com/article/it-salaries-software-developer-trends-2016-2017"
+        },
+        {
+          "url": "https://hiveminer.com/User/tinto"
+        },
+        {
+          "url": "https://picssr.com/tags/wclx100"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://triptaptoe.com/wp-content/uploads/2016/05/32746542692_c5b0e810d1_k-min.jpg"
+        },
+        {
+          "url": "https://www.daxx.com/uploads/32746542692_c5b0e810d1_k.jpg"
+        },
+        {
+          "url": "http://www.coinfox.ru/images/newyork7.jpg"
+        },
+        {
+          "url": "http://kurashitabi.com/wp-content/uploads/2017/06/newyork-1024x683.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2150/32746542692_fdf6fb9e5c_b.jpg"
+        },
+        {
+          "url": "https://i0.wp.com/maphappy.org/wp-content/uploads/2017/03/newyorkc3calcstreets-mh.jpg"
+        },
+        {
+          "url": "http://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2017/07/12/20170712-052057_U3792_M300374_f358.jpg?itok=QDjzic9H"
+        },
+        {
+          "url": "http://www.odysseo.it/wp-content/uploads/2017/02/32746542692_c5b0e810d1_k-696x464.jpg"
+        },
+        {
+          "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=4THiAhhUk8T1Me7%2B%2BJnBhymzrPM%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfLCksgUbeykBhlI_IfnwEXO5H8K8Uv-wC9wG1PTkTda4I1UkcQQ6qEFFvIg8YRwn8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEC7AvoLMMllV3lviUHMEokaNJ8nxY7wzp94veBWAW2Lf4OAKWM0QgRz3VGfp-uP2o0QqLlmDOk0bk96WVNrqAH4UNmXKH8cvpQgWIr2lfgUs-5xMcgpsmCybSh_wZ1VCdAfE8byvfubHvbUG4rIYF-AM-65aXHFqMTUgkkg4_bpPRlHYYKYvY9QXN7g5AVoZ4BWJ5lOOZTNiC92mhUGBVYiqccgBVxtvYjaGyNv1SWeRqyuZiTNUfJDYyeMgYPCQ"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/32746542692_fdf6fb9e5c_new-york.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "New York City",
+          "entityId": "/m/02_286",
+          "score": 14.220800399780273
+        },
+        {
+          "description": "Compact car",
+          "entityId": "/m/02swz_",
+          "score": 0.6645044684410095
+        },
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 0.5626000165939331
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.45899999141693115
+        },
+        {
+          "description": "Tourism",
+          "entityId": "/m/07bxq",
+          "score": 0.32440000772476196
+        },
+        {
+          "description": "Boroughs of New York City",
+          "entityId": "/m/0d5cb1",
+          "score": 0.29100000858306885
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.27143386006355286
+        },
+        {
+          "description": "New York City Subway",
+          "entityId": "/m/01pz3b",
+          "score": 0.24940000474452972
+        },
+        {
+          "description": "Country",
+          "entityId": "/m/01lff",
+          "score": 0.24160000681877136
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.23348121345043182
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2150/32746542692_fdf6fb9e5c.jpg"
+}

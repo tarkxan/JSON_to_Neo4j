@@ -1,0 +1,207 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9766443967819214
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9757158160209656
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9742709994316101
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9727270007133484
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9678765535354614
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9577844738960266
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9286569356918335
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9228832125663757
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9156917333602905
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8985328078269958
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://blog.unicefkidpower.org/hubfs/34154725246_0bf19d68b1_k.jpg?t=1505846714955"
+        },
+        {
+          "url": "https://unicefkidpower.org/wp-content/uploads/2017/02/34154725246_0bf19d68b1_k.jpg"
+        },
+        {
+          "url": "https://www.dalberg.com/system/files/2017-09/NYC_0.png"
+        },
+        {
+          "url": "https://i0.wp.com/creatosity.com/wp-content/uploads/2017/05/etnyetyn.jpg?fit=1200%2C800"
+        },
+        {
+          "url": "http://www.affinia.com/polopoly_fs/1.26721.1502833215!/fileImage/httpImage/image.jpg_gen/derivatives/landscape_1280/nyc-hero.jpg"
+        },
+        {
+          "url": "http://www.thephotoargus.com/wp-content/uploads/2017/07/nyc-roosevelt-island-tramway.jpg"
+        },
+        {
+          "url": "https://cdn.theculturetrip.com/wp-content/uploads/2017/05/34154725246_7c6f1c44e0_b.jpg"
+        },
+        {
+          "url": "https://cdn.theculturetrip.com/wp-content/uploads/2017/05/34154725246_7c6f1c44e0_b-650x434.jpg"
+        },
+        {
+          "url": "http://partnersforsustainability.ch/wp-content/uploads/2017/06/NYC-buildings-640x427.jpg"
+        },
+        {
+          "url": "http://mittnewyork.no/todo/show/byen-som-aldri-sover/skyline.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://unicefkidpower.org/family-city-guide-things-to-do-in-new-york-city-ny/"
+        },
+        {
+          "url": "http://www.thephotoargus.com/new-york-city-images-street-photography-tips-joerg-schubert/"
+        },
+        {
+          "url": "http://bustler.net/news/5963/hey-new-york-city-here-are-our-must-see-archtober-exhibitions-and-one-party"
+        },
+        {
+          "url": "http://www.affinia.com/happenings/culture"
+        },
+        {
+          "url": "http://www.affinia.com/happenings/nightlife"
+        },
+        {
+          "url": "http://www.affinia.com/happenings/kids-family"
+        },
+        {
+          "url": "http://www.affinia.com/happenings/1-440-new-york-minutes-see-nyc-in-one-day-1.17141"
+        },
+        {
+          "url": "http://www.affinia.com/happenings/outdoors"
+        },
+        {
+          "url": "http://www.affinia.com/happenings"
+        },
+        {
+          "url": "http://blog.unicefkidpower.org/family-city-guide-things-to-do-in-new-york-city-ny-0"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://blog.unicefkidpower.org/hubfs/34154725246_0bf19d68b1_k.jpg?t=1505846714955"
+        },
+        {
+          "url": "https://unicefkidpower.org/wp-content/uploads/2017/02/34154725246_0bf19d68b1_k.jpg"
+        },
+        {
+          "url": "https://www.dalberg.com/system/files/2017-09/NYC_0.png"
+        },
+        {
+          "url": "https://archinect.imgix.net/uploads/1n/1nzg7l1iz4z89lnf.jpg?auto=compress%2Cformat"
+        },
+        {
+          "url": "http://cdn.archinect.net/images/1500x/1n/1nzg7l1iz4z89lnf.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/DKleibJVwAE3y4B.jpg"
+        },
+        {
+          "url": "https://archinect.imgix.net/uploads/1n/1nzg7l1iz4z89lnf.jpg?fit=crop&auto=compress%2Cformat&w=1200"
+        },
+        {
+          "url": "https://i0.wp.com/creatosity.com/wp-content/uploads/2017/05/etnyetyn.jpg?fit=1200%2C800"
+        },
+        {
+          "url": "http://www.thephotoargus.com/wp-content/uploads/2017/07/nyc-roosevelt-island-tramway.jpg"
+        },
+        {
+          "url": "https://unicefkidpower.org/wp-content/uploads/2017/02/new-york-fb.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Affinia Hotel Collection",
+          "entityId": "/m/08jnq3",
+          "score": 1.5839999914169312
+        },
+        {
+          "description": "The City",
+          "entityId": "/m/033jmh",
+          "score": 0.5874000191688538
+        },
+        {
+          "description": "Things To Do In New York",
+          "entityId": "/g/11c7s__wzx",
+          "score": 0.51419997215271
+        },
+        {
+          "description": "Unique Sales Co Corporation",
+          "entityId": "/g/1tf_p6lc",
+          "score": 0.5094000101089478
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.3928219974040985
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.3513907790184021
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3472999930381775
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.311599999666214
+        },
+        {
+          "description": "Culture",
+          "entityId": "/m/01ws5",
+          "score": 0.3098999857902527
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.30737408995628357
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2930/34154725246_7c6f1c44e0.jpg"
+}

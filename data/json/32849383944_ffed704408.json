@@ -1,0 +1,159 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9457790851593018
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9398856163024902
+      },
+      {
+        "description": "tree",
+        "mid": "/m/07j7r",
+        "score": 0.9260408878326416
+      },
+      {
+        "description": "town",
+        "mid": "/m/0dx1j",
+        "score": 0.914315938949585
+      },
+      {
+        "description": "woody plant",
+        "mid": "/m/02hnx9",
+        "score": 0.9005687236785889
+      },
+      {
+        "description": "leaf",
+        "mid": "/m/09t49",
+        "score": 0.8933964371681213
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.8889763355255127
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.8823443651199341
+      },
+      {
+        "description": "branch",
+        "mid": "/m/0b5gs",
+        "score": 0.8212252855300903
+      },
+      {
+        "description": "neighbourhood",
+        "mid": "/m/0180xr",
+        "score": 0.8145205974578857
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm3.staticflickr.com/2915/32849383944_ffed704408.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.pinterest.com/NYAndreas/new-york-city-photos-my-perspective/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/NYAndreas/new-york-city-photos-my-perspective/"
+        },
+        {
+          "url": "https://za.pinterest.com/pin/199284352242398924/"
+        },
+        {
+          "url": "https://www.pinterest.ie/NYAndreas/new-york-city-photos-my-perspective/"
+        },
+        {
+          "url": "http://www.flickriver.com/groups/50849097@N00/pool/interesting/"
+        },
+        {
+          "url": "http://flickriver.com/groups/614844@N20/pool/interesting/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/sunset_magazine/pool/page25/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/sunset_magazine/pool/page33/"
+        },
+        {
+          "url": "http://flickriver-lb-1710691658.us-east-1.elb.amazonaws.com/groups/allpeople/pool/random/"
+        },
+        {
+          "url": "http://thyagoraposo.com/agency/guia-imoveis-em-chelsea-e-hudson-yards/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://i.pinimg.com/736x/47/93/46/479346ee7853357a306a6d6e9e465468--winter-sunset-chelsea.jpg"
+        },
+        {
+          "url": "https://farm3.staticflickr.com/2915/32849383944_ffed704408.jpg"
+        },
+        {
+          "url": "http://thyagoraposo.com/wp-content/uploads/2017/08/Chelsea-interna-249x300.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Hudson Yards",
+          "entityId": "/g/11fy1kc6t3",
+          "score": 2.6224000453948975
+        },
+        {
+          "description": "Spirit of New York",
+          "entityId": "/g/1thvtm6g",
+          "score": 2.1184000968933105
+        },
+        {
+          "description": "Chelsea",
+          "entityId": "/m/018yzb",
+          "score": 1.2425600290298462
+        },
+        {
+          "description": "Washington Square Park",
+          "entityId": "/g/11bxwmrhh7",
+          "score": 1.1979999542236328
+        },
+        {
+          "description": "West 22nd Street",
+          "entityId": "/g/1v5_bbqn",
+          "score": 1.003999948501587
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.38260000944137573
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.3516077995300293
+        },
+        {
+          "description": "Sunset",
+          "entityId": "/m/01b2w5",
+          "score": 0.35010001063346863
+        },
+        {
+          "description": "Winter",
+          "entityId": "/m/086mh",
+          "score": 0.32100000977516174
+        },
+        {
+          "description": "Landscape",
+          "entityId": "/m/025s3q0",
+          "score": 0.25679999589920044
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2915/32849383944_ffed704408.jpg"
+}

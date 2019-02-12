@@ -1,0 +1,189 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9712499976158142
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9649823904037476
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9604769945144653
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9399808645248413
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9257378578186035
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9126722812652588
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9082181453704834
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.898597002029419
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.7637977004051208
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.737322211265564
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "New York City",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.748433,
+              "longitude": -73.985753
+            }
+          }
+        ],
+        "mid": "/m/02nd_",
+        "score": 0.7980665564537048
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4351/36343385791_813acb858f_o.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4351/36343385791_b0088fd51a_b.jpg"
+        },
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-08/30/21/enhanced/buzzfeed-prod-web-14/enhanced-28330-1504143683-15.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4351/36343385791_b0088fd51a.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4351/36343385791_b0088fd51a_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/36343385791"
+        },
+        {
+          "url": "http://www.flickriver.com/places/United+States/New+York/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/"
+        },
+        {
+          "url": "http://www.flickriver.com/groups/nycny/pool/random/"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/w_85th_st_new_york_ny_usa.244993.html"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/ise_63_cooper_sq_new_york_ny_usa.240139.html"
+        },
+        {
+          "url": "http://www.nyny.com/neighborhoods/manhattan"
+        },
+        {
+          "url": "http://www.cetusnews.com/life/Take-This-Quiz-To-Find-Out-Where-To-Have-Your-Bachelorette-Party.rJJqMf3wiFKZ.html"
+        },
+        {
+          "url": "http://www.cetusnews.com/life/Where-Should-You-Have-Your-Bachelorette-Party-.rJJqMf3wiFKZ.html"
+        },
+        {
+          "url": "http://flickrcc.net/flickrCC/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4351/36343385791_b0088fd51a_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4351/36343385791_b0088fd51a.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4351/36343385791_b0088fd51a_m.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/d5/1b/46/d51b46372e032d351dd4669053671dee.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 20.86400032043457
+        },
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 20.86400032043457
+        },
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 10.432000160217285
+        },
+        {
+          "description": "Sunset Over The Hudson",
+          "entityId": "/g/11g8_hqxjn",
+          "score": 2.6080000400543213
+        },
+        {
+          "description": "East River",
+          "entityId": "/m/02m4d",
+          "score": 2.4647998809814453
+        },
+        {
+          "description": "View",
+          "entityId": "/m/020g0v2",
+          "score": 1.3040000200271606
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.4053259789943695
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.32742318511009216
+        },
+        {
+          "description": "Aerial photography",
+          "entityId": "/m/01w5c_",
+          "score": 0.32494407892227173
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3109000027179718
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4351/36343385791_b0088fd51a.jpg"
+}

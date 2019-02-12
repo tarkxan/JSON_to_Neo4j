@@ -1,0 +1,146 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "snow",
+        "mid": "/m/06_dn",
+        "score": 0.985576331615448
+      },
+      {
+        "description": "winter",
+        "mid": "/m/086mh",
+        "score": 0.9589318633079529
+      },
+      {
+        "description": "freezing",
+        "mid": "/m/01c791",
+        "score": 0.8878310918807983
+      },
+      {
+        "description": "tree",
+        "mid": "/m/07j7r",
+        "score": 0.8621262907981873
+      },
+      {
+        "description": "branch",
+        "mid": "/m/0b5gs",
+        "score": 0.7910196185112
+      },
+      {
+        "description": "frost",
+        "mid": "/m/033kf",
+        "score": 0.7091803550720215
+      },
+      {
+        "description": "blizzard",
+        "mid": "/m/01g81",
+        "score": 0.5515689253807068
+      },
+      {
+        "description": "rain and snow mixed",
+        "mid": "/m/04cvjcd",
+        "score": 0.5493833422660828
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4297/36179455866_aaa00f94dd_b.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4297/36179455866_aaa00f94dd_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/36179455866"
+        },
+        {
+          "url": "http://flickrcc.net/flickrCC/"
+        },
+        {
+          "url": "http://photopin.com/free-photos/city"
+        },
+        {
+          "url": "https://hiveminer.com/User/NYAndreas"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/manhattan"
+        },
+        {
+          "url": "http://picssr.com/tags/newyork"
+        },
+        {
+          "url": "https://picssr.com/tags/newyorkciy"
+        },
+        {
+          "url": "http://photopin.com/free-photos/korea-snow"
+        },
+        {
+          "url": "https://mapcarta.com/es/25031690"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4297/36179455866_aaa00f94dd_b.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4297/36179455866_aaa00f94dd_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "West Village",
+          "entityId": "/m/0bwc0b",
+          "score": 37.90079879760742
+        },
+        {
+          "description": "East Village",
+          "entityId": "/m/01q2_k",
+          "score": 32.17919921875
+        },
+        {
+          "description": "Radio City Music Hall",
+          "entityId": "/m/016xm_",
+          "score": 25.93280029296875
+        },
+        {
+          "description": "Washington Square Park",
+          "entityId": "/m/037sn_",
+          "score": 21.90719985961914
+        },
+        {
+          "description": "Chelsea Piers",
+          "entityId": "/m/05wdkr",
+          "score": 14.265600204467773
+        },
+        {
+          "description": "Snow",
+          "entityId": "/m/06_dn",
+          "score": 0.4187379777431488
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.36800000071525574
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3564000129699707
+        },
+        {
+          "description": "stock.xchng",
+          "entityId": "/m/03zfrv",
+          "score": 0.26989999413490295
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.2678000032901764
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4297/36179455866_aaa00f94dd.jpg"
+}

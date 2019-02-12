@@ -1,0 +1,148 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sea",
+        "mid": "/m/06npx",
+        "score": 0.9398290514945984
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9142817854881287
+      },
+      {
+        "description": "calm",
+        "mid": "/m/026fm63",
+        "score": 0.8781896829605103
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.8586409687995911
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.8576199412345886
+      },
+      {
+        "description": "fixed link",
+        "mid": "/m/051gs3",
+        "score": 0.8361232280731201
+      },
+      {
+        "description": "coastal and oceanic landforms",
+        "mid": "/m/02c9_23",
+        "score": 0.7726783752441406
+      },
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.7653062343597412
+      },
+      {
+        "description": "morning",
+        "mid": "/m/02_ktj",
+        "score": 0.750080943107605
+      },
+      {
+        "description": "ocean",
+        "mid": "/m/05kq4",
+        "score": 0.7496283650398254
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4282/35024953080_c130ef296c_b.jpg"
+        },
+        {
+          "url": "https://nabewise.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Ffarm5.staticflickr.com%2F4282%2F35024953080_0bf88bd70a_h.jpg&h=230&q=90&f=.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4282/35024953080_c130ef296c_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/hickatee/35024953080"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/new,ny"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/city,ny"
+        },
+        {
+          "url": "http://picssr.com/tags/helicopter"
+        },
+        {
+          "url": "https://nabewise.com/nyc/bronx-river/"
+        },
+        {
+          "url": "https://nabewise.com/nyc/city-island/"
+        },
+        {
+          "url": "http://photopin.com/free-photos/new-york-city/29329"
+        },
+        {
+          "url": "http://mpaydayloans2.info/?qt=Age+uk+financial+planning&kq=98635"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "West Farms",
+          "entityId": "/m/0dx451",
+          "score": 9.798399925231934
+        },
+        {
+          "description": "Soundview",
+          "entityId": "/m/04fs6p",
+          "score": 8.966400146484375
+        },
+        {
+          "description": "Parkchester",
+          "entityId": "/m/08w_gw",
+          "score": 8.736000061035156
+        },
+        {
+          "description": "The Liberty",
+          "entityId": "/g/1xtf2h14",
+          "score": 1.0595999956130981
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.8895000219345093
+        },
+        {
+          "description": "Helicopter",
+          "entityId": "/m/09ct_",
+          "score": 0.758400022983551
+        },
+        {
+          "description": "Bronx River Parkway",
+          "entityId": "/m/01468v",
+          "score": 0.5776000022888184
+        },
+        {
+          "description": "Bridge\u2013tunnel",
+          "entityId": "/m/051gs3",
+          "score": 0.5062675476074219
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.37929999828338623
+        },
+        {
+          "description": "Tagged",
+          "entityId": "/m/03c51f4",
+          "score": 0.30070000886917114
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4282/35024953080_c130ef296c.jpg"
+}

@@ -1,0 +1,168 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9715632796287537
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9603173732757568
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9355788230895996
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9294642806053162
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.926606297492981
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8893422484397888
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.8546435236930847
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.8531889319419861
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.8509470820426941
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.8172764778137207
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4434/36328882514_fde90bb7a3_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/groups/new_york_photography/pool/page2179/"
+        },
+        {
+          "url": "http://www.skyscraperpage.com/forum/showthread.php?t=184976&page=14"
+        },
+        {
+          "url": "http://skyscraperpage.com/forum/showthread.php?p=5581691"
+        },
+        {
+          "url": "https://tonyvwright.tumblr.com/post/163902498362/bam-for-michael-sanford-biggers-see-his-ted"
+        },
+        {
+          "url": "https://tonyvwright.tumblr.com/post/163788126937/desert-road-dubai-september-2016-nick-hannes"
+        },
+        {
+          "url": "https://lv.advisor.travel/city/Nujorka-2306488/photos"
+        },
+        {
+          "url": "https://www.flickr.com/photos/129893691@N07/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/fujica%2Cfullframe"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/fujica%2Cg617"
+        },
+        {
+          "url": "http://picssr.com/tags/g617"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/5/4434/36328882514_ef79dfeb80_h.jpg"
+        },
+        {
+          "url": "https://68.media.tumblr.com/12c1091b70a91683d046d0ff2bfbcab8/tumblr_ow48vtZ8qt1rqpoaoo1_500h.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4434/36328882514_fde90bb7a3_b.jpg"
+        },
+        {
+          "url": "http://farm4.staticflickr.com/3321/3408157691_26e499e89c_z.jpg?zz=1"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4434/36328882514_fde90bb7a3.jpg"
+        },
+        {
+          "url": "https://farm4.static.flickr.com/3321/3408157691_26e499e89c_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Battery Park City",
+          "entityId": "/m/01gl2",
+          "score": 10.313599586486816
+        },
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 10.265600204467773
+        },
+        {
+          "description": "375 Pearl Street",
+          "entityId": "/m/03hmtkm",
+          "score": 5.132800102233887
+        },
+        {
+          "description": "Analogue",
+          "entityId": "/g/1ptz22pd8",
+          "score": 1.2832000255584717
+        },
+        {
+          "description": "World Trade Center",
+          "entityId": "/m/083_h",
+          "score": 0.7414000034332275
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.5829394459724426
+        },
+        {
+          "description": "September 11 attacks",
+          "entityId": "/m/0d0vp3",
+          "score": 0.5350000262260437
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.38346660137176514
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3321000039577484
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3215999901294708
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4434/36328882514_fde90bb7a3.jpg"
+}

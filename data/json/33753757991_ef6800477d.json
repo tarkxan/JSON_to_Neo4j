@@ -1,0 +1,150 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9868078231811523
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9606981873512268
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9528944492340088
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9496515393257141
+      },
+      {
+        "description": "car",
+        "mid": "/m/0k4j",
+        "score": 0.9374575018882751
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.932907223701477
+      },
+      {
+        "description": "transport",
+        "mid": "/m/07bsy",
+        "score": 0.918124794960022
+      },
+      {
+        "description": "neighbourhood",
+        "mid": "/m/0180xr",
+        "score": 0.9027107954025269
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.8784533143043518
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.8485565185546875
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://farm3.static.flickr.com/2881/33753757991_ef6800477d.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://flickriver.com/groups/newyorklife/pool/random/"
+        },
+        {
+          "url": "http://www.flickriver.com/groups/62649201@N00/pool/interesting/"
+        },
+        {
+          "url": "http://flickriver.com/groups/geotagging/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/41075027@N00/pool/page66/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/conarch/pool/page751/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/addictedtophotograph/pool/page68/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/views1750/pool/page366/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/views1750/pool/page29/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/views1500/pool/page426/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://farm3.static.flickr.com/2881/33753757991_ef6800477d.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 20.268800735473633
+        },
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 19.63520050048828
+        },
+        {
+          "description": "Lower Manhattan",
+          "entityId": "/m/02bmd_",
+          "score": 1.2275199890136719
+        },
+        {
+          "description": "Avenue",
+          "entityId": "/g/1trchbg4",
+          "score": 1.2148000001907349
+        },
+        {
+          "description": "Compact car",
+          "entityId": "/m/02swz_",
+          "score": 0.5562589168548584
+        },
+        {
+          "description": "Street",
+          "entityId": "/m/01c8br",
+          "score": 0.39749428629875183
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.38989999890327454
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.37720000743865967
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.3714999854564667
+        },
+        {
+          "description": "New York Life Insurance Company",
+          "entityId": "/m/06zcyw",
+          "score": 0.3352000117301941
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2881/33753757991_ef6800477d.jpg"
+}

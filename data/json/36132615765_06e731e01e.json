@@ -1,0 +1,157 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "snow",
+        "mid": "/m/06_dn",
+        "score": 0.9758435487747192
+      },
+      {
+        "description": "winter",
+        "mid": "/m/086mh",
+        "score": 0.9606271982192993
+      },
+      {
+        "description": "tree",
+        "mid": "/m/07j7r",
+        "score": 0.8878567218780518
+      },
+      {
+        "description": "freezing",
+        "mid": "/m/01c791",
+        "score": 0.797068178653717
+      },
+      {
+        "description": "leisure",
+        "mid": "/m/04g3r",
+        "score": 0.6998053789138794
+      },
+      {
+        "description": "ice",
+        "mid": "/m/03vtj",
+        "score": 0.6457476019859314
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.6106104254722595
+      },
+      {
+        "description": "recreation",
+        "mid": "/m/06bm2",
+        "score": 0.5896246433258057
+      },
+      {
+        "description": "branch",
+        "mid": "/m/0b5gs",
+        "score": 0.5163211822509766
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4323/36132615765_06e731e01e_b.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4323/36132615765_06e731e01e_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://mapcarta.com/Manhattan"
+        },
+        {
+          "url": "http://www.flickriver.com/places/United+States/New+York/"
+        },
+        {
+          "url": "https://mapcarta.com/25042364"
+        },
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/36132615765"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/manhattan"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/newyorkcity"
+        },
+        {
+          "url": "http://www.flickriver.com/groups/60_100faves/"
+        },
+        {
+          "url": "https://www.flickr.com/groups/23207098@N00/pool"
+        },
+        {
+          "url": "http://photopin.com/free-photos/snow/13933"
+        },
+        {
+          "url": "http://photopin.com/free-photos/snow-tire"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4323/36132615765_06e731e01e_b.jpg"
+        },
+        {
+          "url": "http://farm5.static.flickr.com/4323/36132615765_06e731e01e.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4323/36132615765_06e731e01e_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Flatiron Building",
+          "entityId": "/m/01lnd3",
+          "score": 38.45119857788086
+        },
+        {
+          "description": "Radio City Music Hall",
+          "entityId": "/m/016xm_",
+          "score": 24.524799346923828
+        },
+        {
+          "description": "Washington Square Park",
+          "entityId": "/m/037sn_",
+          "score": 14.003199577331543
+        },
+        {
+          "description": "Meatpacking District",
+          "entityId": "/m/05q_tg",
+          "score": 12.742400169372559
+        },
+        {
+          "description": "NoHo, Manhattan",
+          "entityId": "/m/01nh2k",
+          "score": 12.095999717712402
+        },
+        {
+          "description": "Mulry Square",
+          "entityId": "/g/11dy1j84s5",
+          "score": 2.7383999824523926
+        },
+        {
+          "description": "Snow",
+          "entityId": "/m/06_dn",
+          "score": 0.3503378927707672
+        },
+        {
+          "description": "Leisure",
+          "entityId": "/m/04g3r",
+          "score": 0.21017280220985413
+        },
+        {
+          "description": "Recreation",
+          "entityId": "/m/06bm2",
+          "score": 0.20720174908638
+        },
+        {
+          "description": "Map",
+          "entityId": "/m/04_tb",
+          "score": 0.20649999380111694
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4323/36132615765_06e731e01e.jpg"
+}

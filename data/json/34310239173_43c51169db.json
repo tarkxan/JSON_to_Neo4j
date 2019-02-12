@@ -1,0 +1,165 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "bridge",
+        "mid": "/m/015kr",
+        "score": 0.976899266242981
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8942248821258545
+      },
+      {
+        "description": "sea",
+        "mid": "/m/06npx",
+        "score": 0.8410329222679138
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.8408491611480713
+      },
+      {
+        "description": "river",
+        "mid": "/m/06cnp",
+        "score": 0.8198886513710022
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.8187126517295837
+      },
+      {
+        "description": "fixed link",
+        "mid": "/m/051gs3",
+        "score": 0.8062300682067871
+      },
+      {
+        "description": "suspension bridge",
+        "mid": "/m/0csy8",
+        "score": 0.7693268656730652
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.744365930557251
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.7318097949028015
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Brooklyn Bridge",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.702081,
+              "longitude": -74.004163
+            }
+          }
+        ],
+        "mid": "/m/0cv4c",
+        "score": 0.284210741519928
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4238/34310239173_43c51169db_b.jpg"
+        },
+        {
+          "url": "https://kase-designs.com/wp-content/uploads/2017/07/34310239173_43c51169db_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://hiveminer.com/Tags/ny%2Cyork"
+        },
+        {
+          "url": "http://photopin.com/free-photos/new-york-city"
+        },
+        {
+          "url": "http://photopin.com/free-photos/nyc-marathon/2"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/city,ny"
+        },
+        {
+          "url": "https://kase-designs.com/page/5/"
+        },
+        {
+          "url": "https://kase-designs.com/category/concert-tour-in-usa/"
+        },
+        {
+          "url": "http://picssr.com/photos/hickatee/interesting/page23?nsid=63848257@N06"
+        },
+        {
+          "url": "https://picssr.com/tags/helicopter/page3"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4238/34310239173_43c51169db_b.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 490.4960021972656
+        },
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/g/1tk640vm",
+          "score": 8.57919979095459
+        },
+        {
+          "description": "Tour",
+          "entityId": "/g/1yl48vx2w",
+          "score": 5.950399875640869
+        },
+        {
+          "description": "The Greenpoint Sales Gallery",
+          "entityId": "/g/11g9qgrlcl",
+          "score": 4.942399978637695
+        },
+        {
+          "description": "Manhattan Bridge",
+          "entityId": "/g/1tj92gj2",
+          "score": 2.5088000297546387
+        },
+        {
+          "description": "Brooklyn",
+          "entityId": "/m/0cr3d",
+          "score": 1.035520076751709
+        },
+        {
+          "description": "Bridge\u2013tunnel",
+          "entityId": "/m/051gs3",
+          "score": 0.6241114139556885
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.38339999318122864
+        },
+        {
+          "description": "Bridge",
+          "entityId": "/m/015kr",
+          "score": 0.38019999861717224
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.28313371539115906
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4238/34310239173_43c51169db.jpg"
+}

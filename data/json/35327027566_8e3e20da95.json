@@ -1,0 +1,153 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9762214422225952
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.975303053855896
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9708458185195923
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9552121758460999
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9532414078712463
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.945328950881958
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.93442702293396
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9200213551521301
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9082931876182556
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.9025278687477112
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4207/35327027566_8e3e20da95_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://hiveminer.com/Tags/helicopter%2Cny"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/helicopter,new"
+        },
+        {
+          "url": "http://picssr.com/tags/helicopter"
+        },
+        {
+          "url": "https://nabewise.com/nyc/bronx-river/"
+        },
+        {
+          "url": "http://picssr.com/photos/hickatee/interesting/page16?nsid=63848257@N06"
+        },
+        {
+          "url": "https://nabewise.com/nyc/city-island/"
+        },
+        {
+          "url": "https://mapcarta.com/26799868"
+        },
+        {
+          "url": "https://mapcarta.com/22583568"
+        },
+        {
+          "url": "https://aroundguides.com/fr/22570354"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4207/35327027566_8e3e20da95_b.jpg"
+        },
+        {
+          "url": "https://nabewise.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Ffarm5.staticflickr.com%2F4207%2F35327027566_8e3e20da95_c.jpg&h=230&q=90&f=.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "West Farms",
+          "entityId": "/m/0dx451",
+          "score": 9.859199523925781
+        },
+        {
+          "description": "Parkchester",
+          "entityId": "/m/08w_gw",
+          "score": 9.356800079345703
+        },
+        {
+          "description": "Soundview",
+          "entityId": "/m/04fs6p",
+          "score": 8.691200256347656
+        },
+        {
+          "description": "Helicopter",
+          "entityId": "/m/09ct_",
+          "score": 1.7702000141143799
+        },
+        {
+          "description": "Helicopter Flight Services Inc",
+          "entityId": "/g/1tf6sqfb",
+          "score": 0.7092000246047974
+        },
+        {
+          "description": "Bronx River Parkway",
+          "entityId": "/m/01468v",
+          "score": 0.5601999759674072
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.3928000032901764
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.35040000081062317
+        },
+        {
+          "description": "Neighbourhood",
+          "entityId": "/m/0180xr",
+          "score": 0.27079999446868896
+        },
+        {
+          "description": "USS Kearsarge (LHD-3)",
+          "entityId": "/m/01bcf_",
+          "score": 0.26820001006126404
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4207/35327027566_8e3e20da95.jpg"
+}

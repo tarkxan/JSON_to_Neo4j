@@ -1,0 +1,46 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "picture frame",
+        "mid": "/m/06z37_",
+        "score": 0.8172482252120972
+      },
+      {
+        "description": "font",
+        "mid": "/m/03gq5hm",
+        "score": 0.6643844246864319
+      },
+      {
+        "description": "product",
+        "mid": "/m/01jwgf",
+        "score": 0.526757538318634
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Font",
+          "entityId": "/m/03gq5hm",
+          "score": 0.9165569543838501
+        },
+        {
+          "description": "Picture frame",
+          "entityId": "/m/06z37_",
+          "score": 0.9101451635360718
+        },
+        {
+          "description": "Product",
+          "entityId": "/m/01jwgf",
+          "score": 0.45495954155921936
+        },
+        {
+          "description": "Image",
+          "entityId": "/m/0jg24",
+          "score": 0.43959999084472656
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4479/36789986023_ff2ed70619.jpg"
+}

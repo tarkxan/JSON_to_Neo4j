@@ -1,0 +1,144 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "red",
+        "mid": "/m/06fvc",
+        "score": 0.9590757489204407
+      },
+      {
+        "description": "stage",
+        "mid": "/m/04_5hy",
+        "score": 0.9330072402954102
+      },
+      {
+        "description": "entertainment",
+        "mid": "/m/02jjt",
+        "score": 0.8934110403060913
+      },
+      {
+        "description": "theatre",
+        "mid": "/m/05npqn",
+        "score": 0.8712766766548157
+      },
+      {
+        "description": "light",
+        "mid": "/m/04k84",
+        "score": 0.8429432511329651
+      },
+      {
+        "description": "lighting",
+        "mid": "/m/019sc6",
+        "score": 0.7851741909980774
+      },
+      {
+        "description": "theatre",
+        "mid": "/m/03qsdpk",
+        "score": 0.7335027456283569
+      },
+      {
+        "description": "night",
+        "mid": "/m/01d74z",
+        "score": 0.6998359560966492
+      },
+      {
+        "description": "tradition",
+        "mid": "/m/07djv",
+        "score": 0.6781852841377258
+      },
+      {
+        "description": "ceremony",
+        "mid": "/m/016c4t",
+        "score": 0.6420318484306335
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4373/36837360916_088fd8921d_b.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4373/36837360916_088fd8921d_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://photopin.com/free-photos/broadway"
+        },
+        {
+          "url": "http://photopin.com/free-photos/usa-roadsign"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/curtain"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/theatre,usa/Recent"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4373/36837360916_088fd8921d_b.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4373/36837360916_be216c755b_m.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4373/36837360916_088fd8921d_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Manhattan",
+          "entityId": "/m/0cc56",
+          "score": 23.699199676513672
+        },
+        {
+          "description": "Broadway",
+          "entityId": "/m/01gx3",
+          "score": 3.3024001121520996
+        },
+        {
+          "description": "Light",
+          "entityId": "/m/04k84",
+          "score": 0.8100723624229431
+        },
+        {
+          "description": "Mitchell P. Kobelinski Theater",
+          "entityId": "/g/1pty5r_2s",
+          "score": 0.7784000039100647
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.7027999758720398
+        },
+        {
+          "description": "Theatrical scenery",
+          "entityId": "/m/01vz91",
+          "score": 0.47388756275177
+        },
+        {
+          "description": "Stage",
+          "entityId": "/m/04_5hy",
+          "score": 0.41685283184051514
+        },
+        {
+          "description": "stock.xchng",
+          "entityId": "/m/03zfrv",
+          "score": 0.4099999964237213
+        },
+        {
+          "description": "Theatre",
+          "entityId": "/m/03qsdpk",
+          "score": 0.391400009393692
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.375900000333786
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4373/36837360916_be216c755b.jpg"
+}

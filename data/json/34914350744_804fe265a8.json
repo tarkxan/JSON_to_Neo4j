@@ -1,0 +1,174 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9272697567939758
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9190465211868286
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.8885617256164551
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.8854297995567322
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.847774863243103
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.8367685675621033
+      },
+      {
+        "description": "window",
+        "mid": "/m/0d4v4",
+        "score": 0.6107928156852722
+      },
+      {
+        "description": "mixed use",
+        "mid": "/m/0c1vxg",
+        "score": 0.6102649569511414
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.6039714813232422
+      },
+      {
+        "description": "facade",
+        "mid": "/m/01x314",
+        "score": 0.5863321423530579
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4017/34914350744_297841a9c6_o.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4017/34914350744_804fe265a8_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4017/34914350744_804fe265a8.jpg"
+        },
+        {
+          "url": "http://brendastraveltimes.com/wp-content/uploads/2017/09/34914350744_804fe265a8_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/new%20york%20pennsilvania%20station/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/34914350744"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/e_14th_st_new_york_ny_usa.231190.html"
+        },
+        {
+          "url": "http://elevation.maplogs.com/poi/riverside_dr_new_york_ny_usa.231154.html"
+        },
+        {
+          "url": "https://hiveminer.com/User/NYAndreas"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/manhattan"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/tags/manhattan/interesting/"
+        },
+        {
+          "url": "http://www.flickriver.com/photos/andreas_komodromos/popular-interesting/"
+        },
+        {
+          "url": "http://photopin.com/free-photos/park-bench-silhouette/9"
+        },
+        {
+          "url": "http://photopin.com/free-photos/india-skyline"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4017/34914350744_297841a9c6_o.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4017/34914350744_804fe265a8_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4017/34914350744_804fe265a8.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4017/34914350744_804fe265a8_n.jpg"
+        },
+        {
+          "url": "http://brendastraveltimes.com/wp-content/uploads/2017/09/34914350744_804fe265a8_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "High Line",
+          "entityId": "/m/07jwwf",
+          "score": 95.3855972290039
+        },
+        {
+          "description": "Top of The Rock",
+          "entityId": "/g/11cmgnblyq",
+          "score": 70.5792007446289
+        },
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 35.28960037231445
+        },
+        {
+          "description": "Lower Manhattan",
+          "entityId": "/m/02bmd_",
+          "score": 19.756799697875977
+        },
+        {
+          "description": "Chelsea",
+          "entityId": "/m/018yzb",
+          "score": 4.866559982299805
+        },
+        {
+          "description": "10th Avenue",
+          "entityId": "/g/1yl48dd0s",
+          "score": 2.683199882507324
+        },
+        {
+          "description": "Manhattan View at MiMA",
+          "entityId": "/g/1hc4d8c1c",
+          "score": 2.2056000232696533
+        },
+        {
+          "description": "30 Rockefeller Plaza",
+          "entityId": "/m/02cj9_",
+          "score": 0.3528960347175598
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.31887713074684143
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.2792793810367584
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4017/34914350744_804fe265a8.jpg"
+}

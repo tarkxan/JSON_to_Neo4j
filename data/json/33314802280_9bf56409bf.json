@@ -1,0 +1,153 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9888976216316223
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9817134737968445
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9808454513549805
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9743289947509766
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9690732359886169
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9601390361785889
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9421185255050659
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9359170198440552
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.892367959022522
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.8878440856933594
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://robertstravelhunt.com/wp-content/uploads/2017/09/33314802280_9bf56409bf_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/33314802280"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/Matt's%20vintage%20New%20York%20preset/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/newyork"
+        },
+        {
+          "url": "https://hiveminer.com/User/NYAndreas/Timeline"
+        },
+        {
+          "url": "https://nabewise.com/nyc/midtown-east/"
+        },
+        {
+          "url": "http://photopin.com/free-photos/urban-sunrise"
+        },
+        {
+          "url": "http://robertstravelhunt.com/"
+        },
+        {
+          "url": "http://photopin.com/free-photos/spring-sunrise"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm3.static.flickr.com/2875/33314802280_714e85886e_b.jpg"
+        },
+        {
+          "url": "https://nabewise.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Ffarm3.staticflickr.com%2F2875%2F33314802280_9bf56409bf_b.jpg&h=230&q=90&f=.jpg"
+        },
+        {
+          "url": "http://robertstravelhunt.com/wp-content/uploads/2017/09/33314802280_9bf56409bf_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Turtle Bay",
+          "entityId": "/m/03hl84",
+          "score": 20.992000579833984
+        },
+        {
+          "description": "Manhattan Bridge",
+          "entityId": "/m/02217f",
+          "score": 10.479999542236328
+        },
+        {
+          "description": "The Skyline Hotel",
+          "entityId": "/g/113fwb49_",
+          "score": 3.191999912261963
+        },
+        {
+          "description": "Susan E. Matt, L",
+          "entityId": "/g/1tv3plqp",
+          "score": 2.6215999126434326
+        },
+        {
+          "description": "TAGS",
+          "entityId": "/g/11cmzn_1nc",
+          "score": 2.619999885559082
+        },
+        {
+          "description": "Lower Manhattan",
+          "entityId": "/m/02bmd_",
+          "score": 1.1862400770187378
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3488999903202057
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3465000092983246
+        },
+        {
+          "description": "Cityscape",
+          "entityId": "/m/034z7h",
+          "score": 0.3325822949409485
+        },
+        {
+          "description": "Tourism",
+          "entityId": "/m/07bxq",
+          "score": 0.32791194319725037
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2875/33314802280_9bf56409bf.jpg"
+}

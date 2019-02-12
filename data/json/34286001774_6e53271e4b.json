@@ -1,0 +1,147 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9790830612182617
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9671446084976196
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9652129411697388
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.962926983833313
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9486915469169617
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9370266795158386
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9130910634994507
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9046202301979065
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8816866278648376
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.8119789958000183
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4218/34286001774_6e53271e4b_b.jpg"
+        },
+        {
+          "url": "https://nabewise.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Ffarm5.staticflickr.com%2F4218%2F34286001774_7f98f70808_h.jpg&h=230&q=90&f=.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://nabewise.com/nyc/bronx-river/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/helicopter%2Cny"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/new,ny"
+        },
+        {
+          "url": "https://picssr.com/tags/helicopter/page3"
+        },
+        {
+          "url": "http://picssr.com/photos/50337784@N04/favorites/page14?nsid=50337784@N04"
+        },
+        {
+          "url": "https://nabewise.com/nyc/city-island/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4218/34286001774_6e53271e4b_b.jpg"
+        },
+        {
+          "url": "https://nabewise.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Ffarm5.staticflickr.com%2F4218%2F34286001774_7f98f70808_h.jpg&h=230&q=90&f=.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "West Farms",
+          "entityId": "/m/0dx451",
+          "score": 10.630399703979492
+        },
+        {
+          "description": "Parkchester",
+          "entityId": "/m/08w_gw",
+          "score": 9.958399772644043
+        },
+        {
+          "description": "Soundview",
+          "entityId": "/m/04fs6p",
+          "score": 9.753600120544434
+        },
+        {
+          "description": "Tour",
+          "entityId": "/g/1yl48vx2w",
+          "score": 1.5920000076293945
+        },
+        {
+          "description": "New York Helicopter Inc",
+          "entityId": "/g/1hc1tx7t9",
+          "score": 1.285599946975708
+        },
+        {
+          "description": "Helicopter",
+          "entityId": "/m/09ct_",
+          "score": 0.7491999864578247
+        },
+        {
+          "description": "Bronx River Parkway",
+          "entityId": "/m/01468v",
+          "score": 0.642799973487854
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.4189000129699707
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.41519999504089355
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.3740655779838562
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4218/34286001774_6e53271e4b.jpg"
+}

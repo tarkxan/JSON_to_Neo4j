@@ -1,0 +1,150 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9633893370628357
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9632847905158997
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9617575407028198
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.949449360370636
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9347892999649048
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9271346926689148
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.9159793853759766
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9090974926948547
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.886102557182312
+      },
+      {
+        "description": "infrastructure",
+        "mid": "/m/017kvv",
+        "score": 0.8683968782424927
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/5/4167/34534047521_7b95f7483e_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/Port%20Authority%20of%20New%20York%20and%20New%20Jersey/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/The%20National%20September%2011%20Memorial%20&%20Museum%20at%20the%20World%20Trade%20Center/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/New_York"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/disregarded"
+        },
+        {
+          "url": "https://www.flickr.com/photos/hickatee/34534047521"
+        },
+        {
+          "url": "http://photopin.com/free-photos/moon-ground"
+        },
+        {
+          "url": "http://photopin.com/free-photos/ground-layers"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/Michael%20S.%20Walker/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/daniel%20walker/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/5/4167/34534047521_7b95f7483e_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "National September 11 Memorial & Museum",
+          "entityId": "/m/0217vv",
+          "score": 24.05120086669922
+        },
+        {
+          "description": "Six World Trade Center",
+          "entityId": "/m/04vsz0",
+          "score": 3.0615999698638916
+        },
+        {
+          "description": "September 11 attacks",
+          "entityId": "/m/0d0vp3",
+          "score": 0.7418000102043152
+        },
+        {
+          "description": "Port Authority of New York and New Jersey",
+          "entityId": "/m/0bkj0",
+          "score": 0.6565999984741211
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.6106356978416443
+        },
+        {
+          "description": "World Trade Center site",
+          "entityId": "/m/0hpjf",
+          "score": 0.5369600057601929
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.4961000084877014
+        },
+        {
+          "description": "Tag",
+          "entityId": "/m/05p_8g",
+          "score": 0.34689998626708984
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3441999852657318
+        },
+        {
+          "description": "Memorial",
+          "entityId": "/m/02q3d5",
+          "score": 0.33090001344680786
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4167/34534047521_7b95f7483e.jpg"
+}

@@ -1,0 +1,106 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9736663699150085
+      },
+      {
+        "description": "aerial photography",
+        "mid": "/m/01w5c_",
+        "score": 0.9402782320976257
+      },
+      {
+        "description": "cloud",
+        "mid": "/m/0csby",
+        "score": 0.9058399200439453
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.8719186782836914
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8695187568664551
+      },
+      {
+        "description": "bird's eye view",
+        "mid": "/m/08863x",
+        "score": 0.8644469976425171
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.8581352233886719
+      },
+      {
+        "description": "flight",
+        "mid": "/m/01515d",
+        "score": 0.8398256897926331
+      },
+      {
+        "description": "atmosphere of earth",
+        "mid": "/m/01ctry",
+        "score": 0.8196371793746948
+      },
+      {
+        "description": "air travel",
+        "mid": "/m/025t3bg",
+        "score": 0.7851964831352234
+      }
+    ],
+    "webDetection": {
+      "webEntities": [
+        {
+          "description": "Flight",
+          "entityId": "/m/01515d",
+          "score": 1.2336899042129517
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.9216221570968628
+        },
+        {
+          "description": "Aerial photography",
+          "entityId": "/m/01w5c_",
+          "score": 0.9120990037918091
+        },
+        {
+          "description": "Bird's-eye view",
+          "entityId": "/m/08863x",
+          "score": 0.900433361530304
+        },
+        {
+          "description": "Aviation",
+          "entityId": "/m/0fzyg",
+          "score": 0.867798388004303
+        },
+        {
+          "description": "Urban area",
+          "entityId": "/m/039jbq",
+          "score": 0.6559433937072754
+        },
+        {
+          "description": "Cloud",
+          "entityId": "/m/0csby",
+          "score": 0.5074485540390015
+        },
+        {
+          "description": "Skyline",
+          "entityId": "/m/0204fg",
+          "score": 0.44451603293418884
+        },
+        {
+          "description": "Photography",
+          "entityId": "/m/05wkw",
+          "score": 0.35179999470710754
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3837/32755480923_8f58a0c4aa.jpg"
+}

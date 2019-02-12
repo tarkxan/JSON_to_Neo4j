@@ -1,0 +1,82 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "car",
+        "mid": "/m/0k4j",
+        "score": 0.9530623555183411
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.8638580441474915
+      },
+      {
+        "description": "vehicle",
+        "mid": "/m/07yv9",
+        "score": 0.6383256316184998
+      },
+      {
+        "description": "angle",
+        "mid": "/m/0mwc",
+        "score": 0.5471372008323669
+      }
+    ],
+    "webDetection": {
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/g617/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/129893691@N07/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/kroonskollektion/favorites/?view=md"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/5/4078/34937794694_2715dfc09f_z.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Car",
+          "entityId": "/m/0k4j",
+          "score": 0.8909381031990051
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.7878000140190125
+        },
+        {
+          "description": "29306",
+          "entityId": "/m/020w67m",
+          "score": 0.5157999992370605
+        },
+        {
+          "description": "Tag",
+          "entityId": "/m/05p_8g",
+          "score": 0.4146000146865845
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3984000086784363
+        },
+        {
+          "description": "Angle",
+          "entityId": "/m/0mwc",
+          "score": 0.3255499005317688
+        },
+        {
+          "description": "Sky",
+          "entityId": "/m/01bqvp",
+          "score": 0.25519198179244995
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4078/34937794694_2715dfc09f.jpg"
+}

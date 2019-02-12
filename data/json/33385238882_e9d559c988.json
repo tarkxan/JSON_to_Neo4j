@@ -1,0 +1,197 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.8446152210235596
+      },
+      {
+        "description": "structure",
+        "mid": "/m/0n68_",
+        "score": 0.8134517669677734
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.7232404351234436
+      },
+      {
+        "description": "daylighting",
+        "mid": "/m/0k2n5",
+        "score": 0.7173336148262024
+      },
+      {
+        "description": "tourist attraction",
+        "mid": "/m/0pgl9",
+        "score": 0.6719657778739929
+      },
+      {
+        "description": "symmetry",
+        "mid": "/m/0f28m",
+        "score": 0.6489673256874084
+      },
+      {
+        "description": "arch",
+        "mid": "/m/0dpvm",
+        "score": 0.6117376089096069
+      },
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.583307147026062
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Westfield_Mall.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Westfield_Mall.jpg/1280px-Westfield_Mall.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3767/33385238882_e9d559c988_b.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Westfield_Mall.jpg/990px-Westfield_Mall.jpg"
+        },
+        {
+          "url": "https://attractionsofamerica-attractionsofame1.netdna-ssl.com/images/all_travel/20170523132145_westfield_mall.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Westfield_Mall.jpg/619px-Westfield_Mall.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/33385238882_e9d559c988_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3767/33385238882_e9d559c988_n.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Westfield_Mall.jpg/309px-Westfield_Mall.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3767/33385238882_e9d559c988_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/pedrosz/33385238882"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Westfield_Mall.jpg"
+        },
+        {
+          "url": "https://www.bisnow.com/new-york/news/office/experts-warn-that-manhattans-office-market-could-be-a-game-game-of-musical-chairs-77447"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/newyork/"
+        },
+        {
+          "url": "http://www.attractionsofamerica.com/travel/best-shopping-malls-new-york-city.php"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/burdett-tourist-places"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/gardiner-tourist-information/"
+        },
+        {
+          "url": "http://picssr.com/photos/manu_mendez/favorites"
+        },
+        {
+          "url": "http://picssr.com/photos/pedrosz/interesting/page34"
+        },
+        {
+          "url": "http://36photos.org/fi/new%2520york%2520to"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Westfield_Mall.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Westfield_Mall.jpg/1280px-Westfield_Mall.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3767/33385238882_e9d559c988_b.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Westfield_Mall.jpg/990px-Westfield_Mall.jpg"
+        },
+        {
+          "url": "https://attractionsofamerica-attractionsofame1.netdna-ssl.com/images/all_travel/20170523132145_westfield_mall.jpg"
+        },
+        {
+          "url": "https://imageserver-bisnow1.netdna-ssl.com/vNOj8yek5GUxEfTuQ-CQcwBSYUM=/710x484/publisher/598898b7aaa2e_33385238882_f77ef55243_o.jpeg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Westfield_Mall.jpg/619px-Westfield_Mall.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/33385238882_e9d559c988_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/4/3767/33385238882_e9d559c988_n.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Westfield_Mall.jpg/309px-Westfield_Mall.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "One World Trade Center",
+          "entityId": "/m/0czc1h",
+          "score": 45.030399322509766
+        },
+        {
+          "description": "Four World Trade Center",
+          "entityId": "/m/0dz162",
+          "score": 23.94879913330078
+        },
+        {
+          "description": "7 World Trade Center",
+          "entityId": "/m/01tfwf",
+          "score": 19.09760093688965
+        },
+        {
+          "description": "Westfield World Trade Center",
+          "entityId": "/m/0h2r2_",
+          "score": 11.785599708557129
+        },
+        {
+          "description": "World Trade Center PATH station",
+          "entityId": "/m/09r9v2",
+          "score": 6.017600059509277
+        },
+        {
+          "description": "World Trade Center",
+          "entityId": "/g/11bvtr332n",
+          "score": 5.119999885559082
+        },
+        {
+          "description": "Westfield Group",
+          "entityId": "/m/0226k3",
+          "score": 0.7045000195503235
+        },
+        {
+          "description": "Shopping mall",
+          "entityId": "/m/025s8bs",
+          "score": 0.3553999960422516
+        },
+        {
+          "description": "Tourist attraction",
+          "entityId": "/m/0pgl9",
+          "score": 0.30485934019088745
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.27250000834465027
+        }
+      ]
+    }
+  },
+  "url": "https://farm4.staticflickr.com/3767/33385238882_e9d559c988.jpg"
+}

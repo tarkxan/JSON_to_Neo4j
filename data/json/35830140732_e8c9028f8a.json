@@ -1,0 +1,181 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sport venue",
+        "mid": "/m/0bmgjqz",
+        "score": 0.9799392819404602
+      },
+      {
+        "description": "arena",
+        "mid": "/m/018lrm",
+        "score": 0.9129875302314758
+      },
+      {
+        "description": "structure",
+        "mid": "/m/0n68_",
+        "score": 0.8988828659057617
+      },
+      {
+        "description": "crowd",
+        "mid": "/m/03qtwd",
+        "score": 0.8686116933822632
+      },
+      {
+        "description": "audience",
+        "mid": "/m/033lpr",
+        "score": 0.8545703291893005
+      },
+      {
+        "description": "sports",
+        "mid": "/m/06ntj",
+        "score": 0.7524756193161011
+      },
+      {
+        "description": "stadium",
+        "mid": "/m/019cfy",
+        "score": 0.7249541282653809
+      },
+      {
+        "description": "auditorium",
+        "mid": "/m/039l3v",
+        "score": 0.6203259825706482
+      },
+      {
+        "description": "field house",
+        "mid": "/m/02qg91d",
+        "score": 0.573947548866272
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/2017-08/us_open.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4300/35830140732_e8c9028f8a_b.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/53/6d/13/536d13517b649d06ab31df5848c721f3.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/736x/d8/3a/b9/d83ab94363cc83b5872c50875f99f037.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4300/35830140732_e8c9028f8a_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.psychologytoday.com/blog/attraction-evolved/201708/us-open-do-tennis-players-who-grunt-have-advantage"
+        },
+        {
+          "url": "https://www.flickr.com/photos/andreas_komodromos/35830140732"
+        },
+        {
+          "url": "https://www.pinterest.dk/explore/the-us-open-tennis/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/arthurashe"
+        },
+        {
+          "url": "https://www.pinterest.co.kr/explore/the-us-open-tennis/"
+        },
+        {
+          "url": "https://nz.pinterest.com/explore/tennis-players/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/pin/25403185372582623/"
+        },
+        {
+          "url": "https://www.pinterest.co.uk/pin/734509020447991380/"
+        },
+        {
+          "url": "https://www.pinterest.com/pin/710865122404134799/"
+        },
+        {
+          "url": "http://flickriver.com/groups/2786764@N22/pool/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/2017-08/us_open.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4300/35830140732_e8c9028f8a_b.jpg"
+        },
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full_caption/public/field_blog_entry_images/2017-08/us_open.jpg?itok=ncgThx9w"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/53/6d/13/536d13517b649d06ab31df5848c721f3.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4300/35830140732_e8c9028f8a.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/736x/d8/3a/b9/d83ab94363cc83b5872c50875f99f037.jpg"
+        },
+        {
+          "url": "https://s-media-cache-ak0.pinimg.com/236x/d8/3a/b9/d83ab94363cc83b5872c50875f99f037.jpg"
+        },
+        {
+          "url": "https://i.pinimg.com/236x/53/6d/13/536d13517b649d06ab31df5848c721f3.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Arthur Ashe Stadium",
+          "entityId": "/m/042q_w",
+          "score": 5.3968000411987305
+        },
+        {
+          "description": "2017  US Open",
+          "entityId": "/g/11c52tfmzz",
+          "score": 3.164799928665161
+        },
+        {
+          "description": "2016 US Open",
+          "entityId": "/g/11clflfm5l",
+          "score": 1.635200023651123
+        },
+        {
+          "description": "2008 US Open",
+          "entityId": "/m/02vq6gz",
+          "score": 1.5823999643325806
+        },
+        {
+          "description": "Tennis",
+          "entityId": "/m/07bs0",
+          "score": 0.4185999929904938
+        },
+        {
+          "description": "Open",
+          "entityId": "/m/074swb",
+          "score": 0.3255000114440918
+        },
+        {
+          "description": "Tennis player",
+          "entityId": "/m/02xhr73",
+          "score": 0.27889999747276306
+        },
+        {
+          "description": "Sports",
+          "entityId": "/m/06ntj",
+          "score": 0.21751628816127777
+        },
+        {
+          "description": "Stadium",
+          "entityId": "/m/019cfy",
+          "score": 0.19324590265750885
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.1868000030517578
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4300/35830140732_e8c9028f8a.jpg"
+}

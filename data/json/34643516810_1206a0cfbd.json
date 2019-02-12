@@ -1,0 +1,127 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sea",
+        "mid": "/m/06npx",
+        "score": 0.9461947679519653
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9407250881195068
+      },
+      {
+        "description": "waterway",
+        "mid": "/m/017m8l",
+        "score": 0.9204479455947876
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.9065570831298828
+      },
+      {
+        "description": "calm",
+        "mid": "/m/026fm63",
+        "score": 0.878566324710846
+      },
+      {
+        "description": "water",
+        "mid": "/m/0838f",
+        "score": 0.871013879776001
+      },
+      {
+        "description": "coastal and oceanic landforms",
+        "mid": "/m/02c9_23",
+        "score": 0.8563881516456604
+      },
+      {
+        "description": "ocean",
+        "mid": "/m/05kq4",
+        "score": 0.7935375571250916
+      },
+      {
+        "description": "morning",
+        "mid": "/m/02_ktj",
+        "score": 0.7598533630371094
+      },
+      {
+        "description": "fixed link",
+        "mid": "/m/051gs3",
+        "score": 0.7109672427177429
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.staticflickr.com/4249/34643516810_1206a0cfbd_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/hickatee/34643516810"
+        },
+        {
+          "url": "http://photopin.com/free-photos/nyc-marathon/2"
+        },
+        {
+          "url": "http://photopin.com/free-photos/new-york-city"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Statue of Liberty",
+          "entityId": "/m/072p8",
+          "score": 85.60639953613281
+        },
+        {
+          "description": "Governors Island",
+          "entityId": "/m/02bygw",
+          "score": 20.224000930786133
+        },
+        {
+          "description": "Intrepid Sea, Air & Space Museum",
+          "entityId": "/m/02ysxf",
+          "score": 6.083199977874756
+        },
+        {
+          "description": "The Grand Tour",
+          "entityId": "/g/11b7hlgtjx",
+          "score": 3.044800043106079
+        },
+        {
+          "description": "Free Enterprise LLC",
+          "entityId": "/g/11b6dqzxjc",
+          "score": 1.545199990272522
+        },
+        {
+          "description": "New York City Marathon",
+          "entityId": "/m/027k61",
+          "score": 0.6460000276565552
+        },
+        {
+          "description": "Hudson River",
+          "entityId": "/m/0cvyp",
+          "score": 0.6043999791145325
+        },
+        {
+          "description": "Helicopter",
+          "entityId": "/m/09ct_",
+          "score": 0.5983999967575073
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3750999867916107
+        },
+        {
+          "description": "Water resources",
+          "entityId": "/m/015s2f",
+          "score": 0.31751105189323425
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4249/34643516810_1206a0cfbd.jpg"
+}

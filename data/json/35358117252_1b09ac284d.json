@@ -1,0 +1,156 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.976341724395752
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9688491821289062
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9650659561157227
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9510012865066528
+      },
+      {
+        "description": "road",
+        "mid": "/m/06gfj",
+        "score": 0.9415282011032104
+      },
+      {
+        "description": "car",
+        "mid": "/m/0k4j",
+        "score": 0.9339237213134766
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9306327700614929
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9225164651870728
+      },
+      {
+        "description": "street",
+        "mid": "/m/01c8br",
+        "score": 0.9071981906890869
+      },
+      {
+        "description": "infrastructure",
+        "mid": "/m/017kvv",
+        "score": 0.9011290073394775
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://c1.staticflickr.com/5/4255/35358117252_1b09ac284d_n.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4255/35358117252_1b09ac284d_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://hiveminer.com/Tags/wclx100"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,vsco"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tinto/35358117252"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/tintography/"
+        },
+        {
+          "url": "https://fr-fr.facebook.com/blogwelovenewyork/"
+        },
+        {
+          "url": "https://fr-fr.facebook.com/blogwelovenewyork/posts/?ref=page_internal"
+        },
+        {
+          "url": "http://cardloanpress.net/usageprocedure-borrowingmethod-cardloan/"
+        },
+        {
+          "url": "http://cardloanpress.net/category/fintech/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156799831878677"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4255/35358117252_1b09ac284d_n.jpg"
+        },
+        {
+          "url": "https://farm5.static.flickr.com/4255/35358117252_1b09ac284d_m.jpg"
+        },
+        {
+          "url": "http://cardloanpress.net/wp/wp-content/uploads/2017/09/35358117252_1b09ac284d-150x150.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "New York City",
+          "entityId": "/m/02_286",
+          "score": 7.176000118255615
+        },
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 3.9972000122070312
+        },
+        {
+          "entityId": "/g/1ym_ckgyw",
+          "score": 0.7095000147819519
+        },
+        {
+          "entityId": "/g/11g69x5f2k",
+          "score": 0.5612000226974487
+        },
+        {
+          "description": "Fujifilm",
+          "entityId": "/m/01djsj",
+          "score": 0.3978999853134155
+        },
+        {
+          "entityId": "/g/12p4jktnf",
+          "score": 0.3822000026702881
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.3779999911785126
+        },
+        {
+          "description": "Mirrorless interchangeable-lens camera",
+          "entityId": "/m/05p4z41",
+          "score": 0.3619999885559082
+        },
+        {
+          "description": "Tag",
+          "entityId": "/m/05p_8g",
+          "score": 0.33180001378059387
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3262999951839447
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4255/35358117252_1b09ac284d.jpg"
+}

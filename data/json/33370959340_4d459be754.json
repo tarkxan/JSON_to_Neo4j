@@ -1,0 +1,204 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.98891282081604
+      },
+      {
+        "description": "car",
+        "mid": "/m/0k4j",
+        "score": 0.9695897102355957
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9639341235160828
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.9595162868499756
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9550602436065674
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9350019097328186
+      },
+      {
+        "description": "night",
+        "mid": "/m/01d74z",
+        "score": 0.9088574647903442
+      },
+      {
+        "description": "street",
+        "mid": "/m/01c8br",
+        "score": 0.8951805233955383
+      },
+      {
+        "description": "infrastructure",
+        "mid": "/m/017kvv",
+        "score": 0.8882433772087097
+      },
+      {
+        "description": "downtown",
+        "mid": "/m/01l7t2",
+        "score": 0.873327910900116
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://img.mp.itc.cn/upload/20170608/4c29897de7744fd8b12685fc8f3ec708_th.jpg"
+        },
+        {
+          "url": "https://farm3.staticflickr.com/2863/33370959340_4d459be754_b.jpg"
+        },
+        {
+          "url": "http://image.imspender.com/images/f4940714232d069dd8284a7b73fb00c8ed7a8792.jpg"
+        },
+        {
+          "url": "http://www.seduniatravel.com/sites/default/files/tours/tour/33370959340_4d459be754_z.jpg"
+        },
+        {
+          "url": "http://5b0988e595225.cdn.sohucs.com/images/20170610/abd7bbda699849b9ae7162813a76d52a.png"
+        },
+        {
+          "url": "http://pub.bcbay.com/upload_files/image/201706/20170625_14984466224066.jpg"
+        },
+        {
+          "url": "http://img.mp.itc.cn/upload/20170629/794816d9dee941d8b06cf9b01382614f_th.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/33370959340_4d459be754_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2863/33370959340_4d459be754_n.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://mapcarta.com/25005378"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tinto/33370959340"
+        },
+        {
+          "url": "http://www.seduniatravel.com/tours/americas/usa/eastern-highlights"
+        },
+        {
+          "url": "https://mapcarta.com/Manhattan/Theater_District"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/port-henry-tourist-spot"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/hannacroix-tour-guide"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/tintography/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/2017,wclx100"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,manhattan"
+        },
+        {
+          "url": "http://flickrhivemind.net/Tags/usa,x100t/Timeline"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "http://img.mp.itc.cn/upload/20170608/4c29897de7744fd8b12685fc8f3ec708_th.jpg"
+        },
+        {
+          "url": "https://farm3.staticflickr.com/2863/33370959340_4d459be754_b.jpg"
+        },
+        {
+          "url": "http://www.mytimes.org/images/image/42/4268748.jpg?t=1504543505"
+        },
+        {
+          "url": "http://www.seduniatravel.com/sites/default/files/tours/tour/33370959340_4d459be754_z.jpg"
+        },
+        {
+          "url": "http://5b0988e595225.cdn.sohucs.com/images/20170610/abd7bbda699849b9ae7162813a76d52a.png"
+        },
+        {
+          "url": "http://www.iask.ca/uploads/allimg/c170625/14b40J00P140-21HK.jpg"
+        },
+        {
+          "url": "http://pub.bcbay.com/upload_files/image/201706/20170625_14984466224066.jpg"
+        },
+        {
+          "url": "http://img.mp.itc.cn/upload/20170629/794816d9dee941d8b06cf9b01382614f_th.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/33370959340_4d459be754_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2863/33370959340_4d459be754_n.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Theatre District",
+          "entityId": "/m/02qb4mp",
+          "score": 49.036800384521484
+        },
+        {
+          "description": "Empire State Building",
+          "entityId": "/m/02nd_",
+          "score": 28.876800537109375
+        },
+        {
+          "description": "Garment District",
+          "entityId": "/m/05q_1n",
+          "score": 16.147199630737305
+        },
+        {
+          "description": "City University of New York",
+          "entityId": "/g/11bbrhdfws",
+          "score": 6.014400005340576
+        },
+        {
+          "description": "Port Henry",
+          "entityId": "/m/0x_qz",
+          "score": 4.047999858856201
+        },
+        {
+          "description": "Graduate Center, CUNY",
+          "entityId": "/m/023bxm",
+          "score": 2.12719988822937
+        },
+        {
+          "description": "Turtle Bay",
+          "entityId": "/m/03hl84",
+          "score": 1.6044800281524658
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.376800000667572
+        },
+        {
+          "description": "University",
+          "entityId": "/m/07tf8",
+          "score": 0.3059000074863434
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.2706783711910248
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2863/33370959340_4d459be754.jpg"
+}

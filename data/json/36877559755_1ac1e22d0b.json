@@ -1,0 +1,180 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.960106372833252
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.894917905330658
+      },
+      {
+        "description": "afterglow",
+        "mid": "/m/013vs",
+        "score": 0.8948909044265747
+      },
+      {
+        "description": "tower",
+        "mid": "/m/01fdzj",
+        "score": 0.8329607844352722
+      },
+      {
+        "description": "dawn",
+        "mid": "/m/01b3kg",
+        "score": 0.826816976070404
+      },
+      {
+        "description": "sunset",
+        "mid": "/m/01b2w5",
+        "score": 0.8056744933128357
+      },
+      {
+        "description": "sunrise",
+        "mid": "/m/01b2q6",
+        "score": 0.7513460516929626
+      },
+      {
+        "description": "horizon",
+        "mid": "/m/0d1n2",
+        "score": 0.7463507652282715
+      },
+      {
+        "description": "morning",
+        "mid": "/m/02_ktj",
+        "score": 0.7374077439308167
+      },
+      {
+        "description": "evening",
+        "mid": "/m/04mx32",
+        "score": 0.7000589966773987
+      }
+    ],
+    "landmarkAnnotations": [
+      {
+        "description": "Statue of Liberty",
+        "locations": [
+          {
+            "latLng": {
+              "latitude": 40.689261,
+              "longitude": -74.044482
+            }
+          }
+        ],
+        "mid": "/m/072p8",
+        "score": 0.38041067123413086
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4433/36877559755_1ac1e22d0b_b.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4433/36877559755_1ac1e22d0b_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tags/Statue/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/statue_of_liberty/"
+        },
+        {
+          "url": "http://www.nyny.com/neighborhoods/tribeca"
+        },
+        {
+          "url": "http://www.nyny.com/neighborhoods/financial-district"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/statueofliberty/Timeline"
+        },
+        {
+          "url": "https://eu.advisor.travel/poi/Askatasunaren-Estatua-42/photos"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/harbor,newyork"
+        },
+        {
+          "url": "http://www.flickriver.com/places/United+States/New+York/"
+        },
+        {
+          "url": "http://flickriver.com/groups/882462@N22/pool/interesting/"
+        },
+        {
+          "url": "http://photopin.com/free-photos/oscar-statue"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4433/36877559755_1ac1e22d0b_b.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4433/36877559755_1ac1e22d0b_z.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4433/36877559755_1ac1e22d0b_n.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4433/36877559755_1ac1e22d0b_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Statue of Liberty",
+          "entityId": "/m/072p8",
+          "score": 193.35679626464844
+        },
+        {
+          "description": "Smithsonian - National Museum of the American Indian",
+          "entityId": "/g/1td05zq1",
+          "score": 4.742400169372559
+        },
+        {
+          "description": "New York Harbor",
+          "entityId": "/m/01pdsd",
+          "score": 4.086400032043457
+        },
+        {
+          "description": "Shearwater Classic Schooner",
+          "entityId": "/g/12635ty47",
+          "score": 2.3264000415802
+        },
+        {
+          "description": "Clipper City Tall Ship - Operated by Manhattan by Sail",
+          "entityId": "/g/1hfcf01c2",
+          "score": 1.4911999702453613
+        },
+        {
+          "description": "Statue of Liberty National Monument",
+          "entityId": "/m/04jpg0f",
+          "score": 1.3212800025939941
+        },
+        {
+          "description": "Attractions4us",
+          "entityId": "/g/11b7j7jmt7",
+          "score": 1.0227999687194824
+        },
+        {
+          "description": "North Cove Marina",
+          "entityId": "/g/1q5bmks5x",
+          "score": 1.0116000175476074
+        },
+        {
+          "description": "Financial District",
+          "entityId": "/m/029g2t",
+          "score": 0.8598400354385376
+        },
+        {
+          "description": "Statue",
+          "entityId": "/m/013_1c",
+          "score": 0.7023000121116638
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4433/36877559755_1ac1e22d0b.jpg"
+}

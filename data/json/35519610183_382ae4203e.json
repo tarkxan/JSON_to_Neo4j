@@ -1,0 +1,171 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "black",
+        "mid": "/m/019sc",
+        "score": 0.9526509046554565
+      },
+      {
+        "description": "black and white",
+        "mid": "/m/01g6gs",
+        "score": 0.9467781782150269
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9436966180801392
+      },
+      {
+        "description": "monochrome photography",
+        "mid": "/m/03d49p1",
+        "score": 0.913009524345398
+      },
+      {
+        "description": "building",
+        "mid": "/m/0cgh4",
+        "score": 0.9112234115600586
+      },
+      {
+        "description": "sky",
+        "mid": "/m/01bqvp",
+        "score": 0.9067190289497375
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.8887657523155212
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.8755834698677063
+      },
+      {
+        "description": "architecture",
+        "mid": "/m/03nfmq",
+        "score": 0.862433671951294
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.8406985998153687
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://fuffy.site/wp-content/uploads/2017/09/NYC3.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/35519610183_382ae4203e_new-york.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://www.flickr.com/photos/tinto/35519610183"
+        },
+        {
+          "url": "https://mapcarta.com/22602858"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/"
+        },
+        {
+          "url": "https://mapcarta.com/22579638"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/norwood-travel-guide"
+        },
+        {
+          "url": "http://flickrcc.net/flickrCC/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/tintography/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm,nyc"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/28mm%2Ctintography"
+        },
+        {
+          "url": "https://picssr.com/tags/wideangel"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4380/35519610183_382ae4203e_b.jpg"
+        },
+        {
+          "url": "http://fuffy.site/wp-content/uploads/2017/09/NYC3.jpg"
+        },
+        {
+          "url": "http://fuffy.site/wp-content/uploads/2017/09/NYC3-640x400.jpg"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/wp-content/uploads/2017/09/35519610183_382ae4203e_new-york.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/5/4380/35519610183_382ae4203e_n.jpg"
+        },
+        {
+          "url": "https://farm5.staticflickr.com/4380/35519610183_382ae4203e_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Federal Hall",
+          "entityId": "/m/02crm1",
+          "score": 5.963200092315674
+        },
+        {
+          "description": "Norwood",
+          "entityId": "/m/04n4bc",
+          "score": 3.7760000228881836
+        },
+        {
+          "description": "Battery Park City",
+          "entityId": "/m/01gl2",
+          "score": 3.766400098800659
+        },
+        {
+          "description": "Fujifilm X100T",
+          "entityId": "/m/011ssjrt",
+          "score": 0.5198000073432922
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3215000033378601
+        },
+        {
+          "description": "Black and white",
+          "entityId": "/m/01g6gs",
+          "score": 0.2896960973739624
+        },
+        {
+          "description": "Tourism",
+          "entityId": "/m/07bxq",
+          "score": 0.2750000059604645
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.26116642355918884
+        },
+        {
+          "description": "Architecture",
+          "entityId": "/m/03nfmq",
+          "score": 0.25547048449516296
+        },
+        {
+          "description": "Building",
+          "entityId": "/m/0cgh4",
+          "score": 0.250900000333786
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4380/35519610183_382ae4203e.jpg"
+}

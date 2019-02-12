@@ -1,0 +1,162 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "car",
+        "mid": "/m/0k4j",
+        "score": 0.9797139167785645
+      },
+      {
+        "description": "yellow",
+        "mid": "/m/088fh",
+        "score": 0.9348850846290588
+      },
+      {
+        "description": "taxi",
+        "mid": "/m/0pg52",
+        "score": 0.8534668684005737
+      },
+      {
+        "description": "street",
+        "mid": "/m/01c8br",
+        "score": 0.8534154295921326
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.8340628743171692
+      },
+      {
+        "description": "transport",
+        "mid": "/m/07bsy",
+        "score": 0.8236478567123413
+      },
+      {
+        "description": "vehicle",
+        "mid": "/m/07yv9",
+        "score": 0.8026987910270691
+      },
+      {
+        "description": "automotive design",
+        "mid": "/m/068mqj",
+        "score": 0.7315545082092285
+      },
+      {
+        "description": "road",
+        "mid": "/m/06gfj",
+        "score": 0.7263489365577698
+      },
+      {
+        "description": "city car",
+        "mid": "/m/0369ss",
+        "score": 0.7155847549438477
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://farm5.static.flickr.com/4368/36629020652_496ea18d4d.jpg"
+        },
+        {
+          "url": "http://farm5.staticflickr.com/4368/36629020652_496ea18d4d_m.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "http://www.flickriver.com/places/United+States/New+York/"
+        },
+        {
+          "url": "http://www.nyny.com/neighborhoods/dumbo"
+        },
+        {
+          "url": "http://www.nyny.com/neighborhoods/financial-district"
+        },
+        {
+          "url": "http://ebusinessconsultant.co.uk/foreign-travel-advice/index.php?country=usa"
+        },
+        {
+          "url": "http://www.flickriver.com/groups/783934@N25/pool/interesting/"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/newyork,ny"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/newyork,traffic"
+        },
+        {
+          "url": "http://photopin.com/free-photos/shiny-street"
+        },
+        {
+          "url": "http://picssr.com/tags/cars"
+        },
+        {
+          "url": "http://photopin.com/free-photos/delhi-street"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4368/36629020652_496ea18d4d_b.jpg"
+        },
+        {
+          "url": "http://farm5.static.flickr.com/4368/36629020652_496ea18d4d.jpg"
+        },
+        {
+          "url": "http://farm5.staticflickr.com/4368/36629020652_496ea18d4d_m.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "DUMBO",
+          "entityId": "/m/02z3wk",
+          "score": 20.601600646972656
+        },
+        {
+          "description": "ACQUA Restaurant and Wine Bar",
+          "entityId": "/g/1thgcck3",
+          "score": 9.340800285339355
+        },
+        {
+          "description": "Clipper City Tall Ship - Operated by Manhattan by Sail",
+          "entityId": "/g/1hfcf01c2",
+          "score": 5.235199928283691
+        },
+        {
+          "description": "British Government",
+          "entityId": "/g/1tdblxq0",
+          "score": 4.897600173950195
+        },
+        {
+          "description": "Hudson Street",
+          "entityId": "/g/11bw8cr2qz",
+          "score": 4.444799900054932
+        },
+        {
+          "description": "Financial District",
+          "entityId": "/m/029g2t",
+          "score": 4.236800193786621
+        },
+        {
+          "description": "City car",
+          "entityId": "/m/0369ss",
+          "score": 0.5845618844032288
+        },
+        {
+          "description": "Car",
+          "entityId": "/m/0k4j",
+          "score": 0.5565999746322632
+        },
+        {
+          "description": "Street",
+          "entityId": "/m/01c8br",
+          "score": 0.33568254113197327
+        },
+        {
+          "description": "Waves of Grain",
+          "entityId": "/g/11b8c5kqqr",
+          "score": 0.2777999937534332
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4368/36629020652_496ea18d4d.jpg"
+}

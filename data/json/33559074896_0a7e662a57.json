@@ -1,0 +1,186 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "metropolitan area",
+        "mid": "/m/0j_s4",
+        "score": 0.9886319637298584
+      },
+      {
+        "description": "city",
+        "mid": "/m/01n32",
+        "score": 0.9815735816955566
+      },
+      {
+        "description": "urban area",
+        "mid": "/m/039jbq",
+        "score": 0.977336049079895
+      },
+      {
+        "description": "cityscape",
+        "mid": "/m/034z7h",
+        "score": 0.9708394408226013
+      },
+      {
+        "description": "skyline",
+        "mid": "/m/0204fg",
+        "score": 0.9607625007629395
+      },
+      {
+        "description": "metropolis",
+        "mid": "/m/056mk",
+        "score": 0.9525690674781799
+      },
+      {
+        "description": "skyscraper",
+        "mid": "/m/079cl",
+        "score": 0.9464709162712097
+      },
+      {
+        "description": "daytime",
+        "mid": "/m/02q7ylj",
+        "score": 0.9141160845756531
+      },
+      {
+        "description": "landmark",
+        "mid": "/m/05_5t0l",
+        "score": 0.9085012078285217
+      },
+      {
+        "description": "tower block",
+        "mid": "/m/0vlys",
+        "score": 0.8580084443092346
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "http://www.formulatreviaggi.it/wp-content/uploads/2016/11/new.jpg"
+        },
+        {
+          "url": "https://www.elikarealestate.com/wp-content/uploads/2017/06/33559074896_0a7e662a57_z.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2826/33559074896_0a7e662a57.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://merryjane.com/culture/the-rise-of-nyc-weed-delivery-during-the-late-80s"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/newyork/"
+        },
+        {
+          "url": "https://www.elikarealestate.com/move-australia-new-york-city/"
+        },
+        {
+          "url": "https://merryjane.com/news/new-york-medical-marijuana-patients-buying-black-market-bud"
+        },
+        {
+          "url": "https://api-merryjane.com/news/new-york-medical-marijuana-patients-buying-black-market-bud"
+        },
+        {
+          "url": "https://www.redhotsunglasses.co.uk/blog/fashion-lovers-guide-new-york/"
+        },
+        {
+          "url": "https://www.flickr.com/photos/tags/ig_newyork"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/gorham-tourist-sites"
+        },
+        {
+          "url": "http://www.carolnyctouristinformation.review/new-york-tourism-information/hannacroix-tour-guide"
+        },
+        {
+          "url": "https://homehealthcarenews.com/2017/09/new-york-improperly-paid-1-4-billion-for-long-term-care-plans/"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://homehealthcarenews.com/wp-content/uploads/2017/09/33559074896_530c9aca4c_o.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2826/33559074896_0a7e662a57_b.jpg"
+        },
+        {
+          "url": "https://www.redhotsunglasses.co.uk/blog/wp-content/uploads/2015/09/33559074896_0a7e662a57_b_New-York-fashion-week.jpg"
+        },
+        {
+          "url": "https://files.merryjane.com/uploads/article/mobile_image/5564/NewYorkMMJ__TALL.jpg"
+        },
+        {
+          "url": "https://files.merryjane.com/uploads/article/hero_image/5564/NewYorkMMJ__WIDE.jpg"
+        },
+        {
+          "url": "https://media.merryjane.com/mQ6-A999pKz5U6E4Th-nr0TJBdU=/0x500/files.merryjane.com/uploads/article/hero_image/5564/NewYorkMMJ__WIDE.jpg"
+        },
+        {
+          "url": "http://www.odletim.sk/assets/clanky/2017-06/clanek00616/upload/photo/large_33559074896_0a7e662a57_z.jpg"
+        },
+        {
+          "url": "https://media.merryjane.com/5518G5pPaOCUaM5EmdkqEFmBEyA=/800x400/files.merryjane.com/uploads/article/hero_image/5564/NewYorkMMJ__WIDE.jpg"
+        },
+        {
+          "url": "https://files.merryjane.com/uploads/article/hero_image/5564/main_content_NewYorkMMJ__WIDE.jpg"
+        },
+        {
+          "url": "https://c1.staticflickr.com/3/2826/33559074896_0a7e662a57.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "Brooklyn Bridge",
+          "entityId": "/m/0cv4c",
+          "score": 13.689599990844727
+        },
+        {
+          "description": "Elika Real Estate",
+          "entityId": "/g/1tkc30d5",
+          "score": 1.1687999963760376
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.3702999949455261
+        },
+        {
+          "description": "City",
+          "entityId": "/m/01n32",
+          "score": 0.3018999993801117
+        },
+        {
+          "description": "Metropolitan area",
+          "entityId": "/m/0j_s4",
+          "score": 0.2726680636405945
+        },
+        {
+          "description": "Cannabis",
+          "entityId": "/m/054yc0",
+          "score": 0.2703000009059906
+        },
+        {
+          "description": "Skyscraper",
+          "entityId": "/m/079cl",
+          "score": 0.26167798042297363
+        },
+        {
+          "description": "Landmark",
+          "entityId": "/m/05_5t0l",
+          "score": 0.25303107500076294
+        },
+        {
+          "description": "Bird's-eye view",
+          "entityId": "/m/08863x",
+          "score": 0.2431746870279312
+        },
+        {
+          "description": "Aerial photography",
+          "entityId": "/m/01w5c_",
+          "score": 0.24085775017738342
+        }
+      ]
+    }
+  },
+  "url": "https://farm3.staticflickr.com/2826/33559074896_0a7e662a57.jpg"
+}

@@ -1,0 +1,86 @@
+{
+  "response": {
+    "labelAnnotations": [
+      {
+        "description": "display window",
+        "mid": "/m/02phwj2",
+        "score": 0.8104871511459351
+      }
+    ],
+    "webDetection": {
+      "fullMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4249/34569420540_2cb33cc18f_b.jpg"
+        }
+      ],
+      "pagesWithMatchingImages": [
+        {
+          "url": "https://hiveminer.com/Tags/wig"
+        },
+        {
+          "url": "https://hiveminer.com/Tags/2016%2Cwig"
+        },
+        {
+          "url": "https://www.flickr.com/photos/hickatee/34569420540"
+        }
+      ],
+      "partialMatchingImages": [
+        {
+          "url": "https://farm5.static.flickr.com/4249/34569420540_2cb33cc18f_b.jpg"
+        }
+      ],
+      "webEntities": [
+        {
+          "description": "New York City",
+          "entityId": "/m/02_286",
+          "score": 5.007999897003174
+        },
+        {
+          "description": "Wig",
+          "entityId": "/m/01hzl4",
+          "score": 0.8743000030517578
+        },
+        {
+          "entityId": "/g/11b77d6b6d",
+          "score": 0.34360000491142273
+        },
+        {
+          "description": "Ball-jointed doll",
+          "entityId": "/m/0b6p8z",
+          "score": 0.31209999322891235
+        },
+        {
+          "description": "Flickr",
+          "entityId": "/m/04dtx9",
+          "score": 0.27489998936653137
+        },
+        {
+          "description": "Holiday",
+          "entityId": "/m/03gkl",
+          "score": 0.2578999996185303
+        },
+        {
+          "description": "Photograph",
+          "entityId": "/m/068jd",
+          "score": 0.25769999623298645
+        },
+        {
+          "description": "Shaving",
+          "entityId": "/m/0149w3",
+          "score": 0.2556000053882599
+        },
+        {
+          "description": "Christmas Day",
+          "entityId": "/m/01vq3",
+          "score": 0.25209999084472656
+        },
+        {
+          "description": "Hair loss",
+          "entityId": "/m/03bwzh1",
+          "score": 0.23229999840259552
+        }
+      ]
+    }
+  },
+  "url": "https://farm5.staticflickr.com/4249/34569420540_2cb33cc18f.jpg"
+}
